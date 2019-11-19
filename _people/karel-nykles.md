@@ -8,7 +8,7 @@ category:
   - clenove
   - pks
 description: předseda krajského sdružení Karlovarský kraj
-#img: people/karel_nykles.jpg # zakomentuj radek dokud není fotka
+img: people/karel_nykles.jpg # zakomentuj radek dokud není fotka
 mail:
 - karel.nykles@pirati.cz
 mob:
