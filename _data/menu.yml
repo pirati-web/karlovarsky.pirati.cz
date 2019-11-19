@@ -19,13 +19,9 @@ main:
   - link: /tabulka/
     name: Tabulka
     match: tabulka
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+  - link: /volby/
+    name: Volby
+    match: volby
   - link: /kontakt/
     name: Kontakt
     match: kontakt
