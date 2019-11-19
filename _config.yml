@@ -5,27 +5,27 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+title: Piráti - Karlovarský kraj # To co je napsané na tabu ve kterém je stránka.
+email: karlovarsky@pirati.cz
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: michaela.kleslova@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  email: example@pirati.cz
-  phone: +420 770 113 642
+  name: Piráti - Karlovarský kraj
+  shortName: Piráti - Karlovarský kraj
+  email: karlovarsky@pirati.cz
+  phone: 
   address: |
-    Na Moráni 3,
-    120 00 Praha 2
+    Moskevská 60,
+    Karlovy Vary
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
-  redmineLink: https://redmine.pirati.cz/projects
+  mapLink: 
+  redmineLink: 
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
@@ -78,7 +78,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/karlovarsky.pirati.cz/
   branch: master
 
 #
@@ -122,7 +122,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /volby/program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
