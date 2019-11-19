@@ -1,37 +1,28 @@
 ---
-uid: aktivni.priznivec
-name:     Aktivní Příznivec  	# běžně používáné jméno
+uid: karel.nykles
+name:     Karel Nykles  	# běžně používáné jméno
 titles:
-  before: PhDr.
+  before:
   after:
 category:
-  - priznivci
-  - kandidat-obec
-description: kandidát do senátu # zobrazuje se v lide
+  - clenove
+  - pks
+description: předseda krajského sdružení Karlovarský kraj
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
-asistenti:
-  - name: Mgr. Věra Marušiaková
-    position: Asitentka
-    mail: vera.marusiakova@pirati.cz
 mail:
-  - aktivni.priznivec@pirati.cz
+- karel.nykles@pirati.cz
+mob:
 profiles:
-  facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
-  googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  twitter: https://twitter.com/uzivatel.na.twitteru
-  blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
-  web: https://lukaswagenknecht.cz/
-office:
-  - address: Jiřího náměstí 39, 290 33  Poděbrady
-    name: Poslanecká kancelář
-    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+  github:
+  facebook:
+  twitter:
+  linkedin:
 ---
 
-Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
-
-**Vzdělání/práce:** Studoval něco, teď dělá něco.
-
-**Politik:** Třeba čemu se věnuje.
-
-**Osobní:** Něco dalšího, měnit dle libosti, tady může být cokoliv. Není nutné, aby byly nadpisy tučně. Fakt jak chcete.
-
+Karel Nykles (*3. srpna 1984) je otec, životní euforik a troubleshooter, předseda krajského sdružení Pirátů. 
+Nohama na zemi, s hlavou v oblacích.
+Pochází z Mariánských Lázní, kam se po více jak deseti letech působení v Plzni vrátil. Pracuje jako Network and Systems Engineer 
+v nadnárodní společnosti.
+Vystudoval bakalářský program Kybernetika a řídící technika na Fakultě aplikovaných věd Západočeské univerzity v Plzni.
+V letech 2007 - 2016 pracoval pro Západočeskou univerzitu v Plzni jako Windows administrátor. V letech 2011 - 2015 pak 
+pro Forenzní laboratoř CESNET, kde se zabýval analýzou napadených PC a publikačně osvětovou činností.
