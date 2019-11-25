@@ -7,8 +7,9 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - kraj
+- komunal
 img: people/josef_janu.png               # 165 x 220
-description: Krajský radní pro oblast regionálnhího rozvoje # kratký popis, max 160 znaků
+description: Krajský radní pro oblast regionálnhího rozvoje a zastupitel města Ka # kratký popis, max 160 znaků
 mail:
 - josef.janu@pirati.cz
 mob:					+420 606 183 864
