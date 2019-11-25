@@ -8,7 +8,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - kraj
 img: people/josef_janu.png               # 165 x 220
-description: Zastupitel Pirátů v zastupitelstvu Karlovarského kraje, člen předsednictva krajského sdružení Pirátů v Karlovarském kraji # kratký popis, max 160 znaků
+description: Krajský radní pro oblast regionálnhího rozvoje # kratký popis, max 160 znaků
 mail:
 - josef.janu@pirati.cz
 mob:					+420 606 183 864
