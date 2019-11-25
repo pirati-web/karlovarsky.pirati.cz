@@ -8,7 +8,7 @@ category:
   - clenove
   - pks
 description: 3. místopředseda krajského sdružení Karlovarský kraj a 2. místopředseda místního sdružení Sokolov
-img: people/karel_nykles.jpg # zakomentuj radek dokud není fotka
+#img: people/ # zakomentuj radek dokud není fotka
 mail:
 - lukas.zykan@pirati.cz
 mob:
