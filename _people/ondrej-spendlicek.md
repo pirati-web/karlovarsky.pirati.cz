@@ -11,7 +11,7 @@ description: Zastupitel ve městě Cheb
 # img: people/ # zakomentuj radek dokud není fotka
 mail:
 - ondrej.spendlicek@pirati.cz
-mob:
+mob: 775 689 589
 profiles:
   github:
   facebook:
