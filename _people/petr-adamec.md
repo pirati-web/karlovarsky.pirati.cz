@@ -11,7 +11,7 @@ description: Starosta města Loket
 img: people/petr_adamec.jpg # zakomentuj radek dokud není fotka
 mail:
 - p.adamec@loket@cz
-mob:739 322 417
+mob: 739 322 417
 profiles:
   github:
   facebook:
@@ -19,3 +19,4 @@ profiles:
   linkedin:
 ---
 
+Petr Adamec

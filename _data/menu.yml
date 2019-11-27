@@ -16,9 +16,6 @@ main:
   - link: /lide/
     name: Naše posádka
     match: lide
-  - link: /tabulka/
-    name: Tabulka
-    match: tabulka
   - link: /volby/
     name: Volby
     match: volby

@@ -9,7 +9,7 @@ category:
   - pks
   - psp
 description: poslanec PSP ČR, 1. místopředseda krajského sdružení
-#img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
+img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
 - petr.tresnak@pirati.cz
 mob: +420 354 922 132
