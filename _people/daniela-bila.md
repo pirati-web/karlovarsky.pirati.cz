@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - vybor
-description: Komise prevence kriminality Karlovarského kraje
+description: členka Komise prevence kriminality Karlovarského kraje
 # img: people/ # zakomentuj radek dokud není fotka
 mail:
 mob: 
