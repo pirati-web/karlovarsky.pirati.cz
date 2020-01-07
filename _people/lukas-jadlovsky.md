@@ -7,7 +7,8 @@ titles:
 category:
   - clenove
   - komunal
-description: Zastupitel ve městě Mariánskí Lázně
+  - vybory
+description: Zastupitel ve městě Mariánskí Lázně, člen Komise pro otevřenou společnost a nové technologie
 # img: people/ # zakomentuj radek dokud není fotka
 mail:
 - lukas.jadlovsky@pirati.cz
