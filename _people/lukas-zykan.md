@@ -7,6 +7,7 @@ titles:
 category:
   - clenove
   - pks
+  - vybory
 description: 3. místopředseda krajského sdružení Karlovarský kraj a 2. místopředseda místního sdružení Sokolov, člen Výboru pro Hospodaření s majetkem Karlovarského kraje
 #img: people/ # zakomentuj radek dokud není fotka
 mail:
