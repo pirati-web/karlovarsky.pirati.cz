@@ -8,6 +8,7 @@ category:
   - clenove
   - pks
   - psp
+  - komunal
 description: poslanec PSP ČR, 1. místopředseda krajského sdružení
 img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
