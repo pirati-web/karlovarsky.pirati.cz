@@ -7,6 +7,7 @@ titles:
 category:
   - clenove
   - starostove
+  - komunal
 description: Starosta města Loket
 img: people/petr_adamec.jpg # zakomentuj radek dokud není fotka
 mail:
