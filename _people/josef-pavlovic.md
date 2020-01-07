@@ -7,7 +7,8 @@ titles:
 category:
   - clenove
   - komunal
-description: Radní ve městě Mariánské Lázně
+  - vybory
+description: Radní ve městě Mariánské Lázně, člen Komise pro lázeňství a cestovní ruch
 # img: people/ # zakomentuj radek dokud není fotka
 mail:
 - josef.pavlovic@pirati.cz
