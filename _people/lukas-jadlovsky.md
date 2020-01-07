@@ -9,7 +9,7 @@ category:
   - komunal
   - vybory
 description: Zastupitel ve městě Mariánskí Lázně, člen Komise pro otevřenou společnost a nové technologie
-# img: people/ # zakomentuj radek dokud není fotka
+img: people/lukas_jadlovsky.jpg # zakomentuj radek dokud není fotka
 mail:
 - lukas.jadlovsky@pirati.cz
 mob: 608 770 133
