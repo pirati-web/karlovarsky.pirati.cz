@@ -7,7 +7,7 @@ titles:
 category:
   - komunal
 description: Zastupitel ve městě Mariánské Lázně
-# img: people/ # zakomentuj radek dokud není fotka
+img: people/martin_sasko.jpg # zakomentuj radek dokud není fotka
 mail:
 - martin.sasko@pirati.cz
 mob:
