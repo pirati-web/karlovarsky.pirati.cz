@@ -2,10 +2,10 @@
 layout: default
 title: e-PIC
 description: V Karlových Varech je Pirátské centrum e-PIC, které slouží jako kontaktní centrum pro veřejnost.
-viewMode: alltogether
 residence: yes
 rbar:
-  - calendarepic
+   - calendarepic
+   - fb
 keywords: epic, piratské centrum, karlovy vary
 ---
 # e-PIC
