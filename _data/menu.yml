@@ -22,6 +22,9 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+  - link: /epic/
+    name: e-PIC
+    match: epic
 
 bottom:
   - class: small-12 medium-4
