@@ -28,4 +28,3 @@ Kapacita centra je zhruba 50 osob při přednáškovém rozestavení, prostor je
   
   PÁ ZAVŘENO
   
----
