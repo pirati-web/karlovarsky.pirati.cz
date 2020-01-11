@@ -1,26 +1,16 @@
 ---
 layout: contacts
-description: Pirátská strana v XY je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
+residence: yes
+description:Pirátská strana je otevřená i v Karlovarském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
+keywords: kontakt, adresa, mail, facebook, kde najdu, kde jsou
 contentSize: default
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
 # contentSize: even
 ---
+## Přidejte se
+Pirátská strana je otevřená i v Karlovarském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
+Pokud se chcete zapojit a nevíte jak na to, koukněte na naši stránku pro zájemce o členství a registrované příznivce.
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-</div>
+## Kde nás najdete
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
-
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
-
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
-
-
-Strany našeho kraje jsou TODO.
-
+Využíváme prostory e-PICu, Pirátského centra v Karlových Varech (bude odkaz na záložku) a navštívit můžete i kancelář Petra Třešňáka v Mariánských Lázních (Skalníkova 471, 353 01 Mariánské Lázně),  ale pravidelně se scházíme na výjezdech po celém kraji. Schůze jsou vždy v kalendáři a jste na ně zváni.
