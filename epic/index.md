@@ -8,7 +8,7 @@ rbar:
   - calendarepic
 keywords: epic, piratské centrum, karlovy vary
 ---
-# E-pic
+# e-PIC
 
 V Karlových Varech je Pirátské centrum e-PIC, které bylo otevřeno v dubnu roku 2018. Slouží jako kontaktní centrum pro veřejnost. Otevřeno je od úterý do čtvrtka vždy mezi 10 - 17 hodinou. Konají se zde různé veřejné akce (workshopy, přednášky, školení, projekce, kurzy) a schůze krajského a místního sdružení. Proto sledujte kalendář e-PICu, aby vám nic neuteklo. 
 Jelikož je transparentně financováno z veřejných peněz, nabízíme centrum ve volných chvílích bezplatně k uskutečnění Vašeho jedinečného nápadu. Pro Vaší akci nás kontaktujte, nebo vyplňte **[formulář](https://forms.gle/C3taRqTXmfPXk8Nz9)**. 
