@@ -9,7 +9,7 @@ category:
 description: Radní ve městě Loket
 img: people/roman_kvak.jpg # zakomentuj radek dokud není fotka
 mail:
--r.kvak@loket.cz
+- r.kvak@loket.cz
 mob: 607 077 321
 profiles:
   github:
