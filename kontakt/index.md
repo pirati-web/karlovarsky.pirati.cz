@@ -38,7 +38,7 @@ contactSummaryItems:
 </div>
 
 Pirátská strana je otevřená i v Karlovarském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
-Pokud se chcete zapojit a nevíte jak na to, koukněte na naši stránku pro zájemce o členství a registrované příznivce.
+Pokud se chcete zapojit a nevíte jak na to, koukněte na naši [stránku pro zájemce o členství a registrované příznivce](/zajemci).
 
 <br>
 
