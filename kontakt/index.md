@@ -21,8 +21,8 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-facebook
     label: Facebook
-    body: <a href="https://www.facebook.com/CeskaPiratskaStranaPraha/">CeskaPiratskaStranaPraha</a>
-  - type: custom
+    body: <a href="https://www.facebook.com/pirati.karlovarsko/">Piráti Karlovarský kraj</a>
+#  - type: custom
     iconClass: fa fa-twitter
     label: Twitter
     body: <a href="https://twitter.com/piratipraha">@piratipraha</a>
