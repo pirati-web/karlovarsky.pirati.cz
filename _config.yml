@@ -179,4 +179,5 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/epic
     - _sass
