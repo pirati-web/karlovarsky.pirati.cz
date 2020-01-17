@@ -7,10 +7,9 @@
 
 title: Piráti - Karlovarský kraj # To co je napsané na tabu ve kterém je stránka.
 email: karlovarsky@pirati.cz
-description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, karlovy vary, sokolov, cheb, karlovarský kraj
 
 administrator:
   email: michaela.kleslova@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
@@ -84,6 +83,8 @@ forum:
 github:
   url: https://github.com/pirati-web/karlovarsky.pirati.cz/
   branch: master
+youtube:
+  url: "https://www.youtube.com/channel/UC6zpUdw-MTT1WUBDo4K-nHA/videos"
 
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -138,6 +139,10 @@ defaults:   # defaults values for collection scope
       path: "_posts"
     values:
       layout: "post"
+      rbar:
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_people"
