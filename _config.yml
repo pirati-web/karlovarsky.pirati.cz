@@ -185,4 +185,5 @@ assets:
     - assets/video
     - assets/img
     - assets/img/epic
+    - assets/img/ms
     - _sass
