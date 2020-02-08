@@ -2,7 +2,7 @@
 uid: petr.adamec
 name:     Petr Adamec  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing. Mgr.
   after:
 category:
   - clenove
