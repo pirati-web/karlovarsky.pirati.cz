@@ -2,7 +2,7 @@
 uid: pavel.susanin
 name:     Pavel Sušanin  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:
   - clenove
