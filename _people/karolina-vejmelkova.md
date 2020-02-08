@@ -2,7 +2,7 @@
 uid: karolina.vejmelkova
 name:     Karolína Vejmělková  	# běžně používáné jméno
 titles:
-  before:
+  before: Bc. et Bc.
   after:
 category:
   - komunal
