@@ -2,7 +2,7 @@
 uid: karel.nykles
 name:     Karel Nykles  	# běžně používáné jméno
 titles:
-  before:
+  before: Bc.
   after:
 category:
   - clenove
