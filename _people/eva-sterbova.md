@@ -2,7 +2,7 @@
 uid: eva.sterbova
 name:     Eva Štěrbová  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:
   - vybor
