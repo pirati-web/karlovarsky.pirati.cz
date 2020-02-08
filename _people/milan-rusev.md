@@ -2,7 +2,7 @@
 uid: milan.rusev
 name:     Milan Rusev  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:
   - vybor
