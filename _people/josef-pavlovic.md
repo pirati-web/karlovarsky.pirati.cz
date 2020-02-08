@@ -2,7 +2,7 @@
 uid: josef.pavlovic
 name:     Josef Pavlovic  	# běžně používáné jméno
 titles:
-  before:
+  before: Bc.
   after:
 category:
   - clenove
