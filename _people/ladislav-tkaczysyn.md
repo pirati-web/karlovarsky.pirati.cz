@@ -8,7 +8,7 @@ category:
   - clenove
   - komunal
 description: Zastupitel ve městě Cheb
-# img: people/ # zakomentuj radek dokud není fotka
+img: people/lada_tkaczysyn.jpg # zakomentuj radek dokud není fotka
 mail:
 - ladislav.tkaczyszyn@pirati.cz
 mob:
