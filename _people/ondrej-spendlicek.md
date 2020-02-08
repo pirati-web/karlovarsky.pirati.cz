@@ -2,7 +2,7 @@
 uid: ondrej.spendlicek
 name:     Ondřej Špendliček  	# běžně používáné jméno
 titles:
-  before:
+  before: Mgr. Bc.
   after:
 category:
   - clenove
