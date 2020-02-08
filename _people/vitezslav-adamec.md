@@ -2,8 +2,8 @@
 uid: vitezslav.adamec
 name:     Vítězslav Adamec  	# běžně používáné jméno
 titles:
-  before:
-  after:
+  before: Mgr.
+  after: DiS.
 category:
   - clenove
   - komunal
