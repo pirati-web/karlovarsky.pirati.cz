@@ -2,7 +2,7 @@
 uid: miloslav.vrana
 name:     Miloslav Vrána  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:
   - vybor
