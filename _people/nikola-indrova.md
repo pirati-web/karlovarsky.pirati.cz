@@ -2,7 +2,7 @@
 uid: nikola.indrova
 name:     Nikola Indrová  	# běžně používáné jméno
 titles:
-  before: 
+  before: Mgr.
   after:
 category:
   - clenove
