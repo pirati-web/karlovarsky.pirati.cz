@@ -3,7 +3,7 @@ uid: ondrej.topinka
 name:     Ondřej Topinka 	# běžně používáné jméno
 titles:
   before:
-  after:
+  after: DiS.
 category:
   - clenove
   - pks
