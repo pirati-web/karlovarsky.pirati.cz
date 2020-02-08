@@ -2,7 +2,7 @@
 uid: petr.tresnak
 name:     Petr Třešňák	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:
   - clenove
