@@ -8,7 +8,7 @@ category:
   - clenove
   - komunal
 description: Zastupitelka ve městě Karlovy Vary
-# img: people/ # zakomentuj radek dokud není fotka
+img: people/renata_kozakova.png # zakomentuj radek dokud není fotka
 mail:
 - renata.kozakova@pirati.cz
 mob:
