@@ -2,7 +2,7 @@
 uid: martin.kalina
 name:     Martin Kalina 	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:
   - clenove
