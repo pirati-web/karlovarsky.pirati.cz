@@ -2,7 +2,7 @@
 uid: renata.kozakova
 name:     Renata Kozáková  	# běžně používáné jméno
 titles:
-  before:
+  before: JUDr.
   after:
 category:
   - clenove
