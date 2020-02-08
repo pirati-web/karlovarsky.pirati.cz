@@ -2,7 +2,7 @@
 uid: tereza.zykanova
 name:     Tereza Zykánová  	# běžně používáné jméno
 titles:
-  before:
+  before: Bc.
   after:
 category:
   - clenove
