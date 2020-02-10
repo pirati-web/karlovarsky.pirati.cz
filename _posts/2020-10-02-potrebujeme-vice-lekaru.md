@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2020-10-02
 category: blog
 tags: tag1 tag2
 title: Petr Třešňák: Potřebujeme více mladších lékařů
@@ -65,3 +65,4 @@ Další věci, na kterých pracuji nejen já, ale celý náš poslanecký klub n
 Petr Třešňák,
 poslanec za Piráty
 
+---
