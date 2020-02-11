@@ -7,7 +7,6 @@ author: petr.tresnak
 aurhodId: petr.tresnak
 image: posts/PT.jpg
 ---
-
 # Na podzim 2019 to byly dva roky, kdy jsi byl zvolen do poslanecké sněmovny za Piráty. Jak 
 toto období vnímáš, co se podařilo?
 
@@ -64,5 +63,4 @@ Další věci, na kterých pracuji nejen já, ale celý náš poslanecký klub n
 
 Petr Třešňák,
 poslanec za Piráty
-
 ---
