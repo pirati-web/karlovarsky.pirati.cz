@@ -2,7 +2,7 @@
 date: 2020-10-02
 category: blog
 tags: tag1 tag2
-title: Petr Třešňák: Potřebujeme více mladších lékařů
+title: Petr Třešňák - Potřebujeme více mladších lékařů
 author: petr.tresnak
 aurhodId: petr.tresnak
 image: posts/PT.jpg
