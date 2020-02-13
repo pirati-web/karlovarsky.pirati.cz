@@ -1,5 +1,5 @@
 ---
-date: 2018-02-13
+date: 2020-02-13
 category: blog
 tags: tag1 tag2
 title: Rok vlády v Lokti
