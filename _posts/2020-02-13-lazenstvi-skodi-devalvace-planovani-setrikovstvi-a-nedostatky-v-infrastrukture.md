@@ -1,5 +1,5 @@
 ---
-date: 2020-02-12
+date: 2020-02-13
 category: blog
 tags: tag1 tag2
 title: Lázeňství škodí devalvace plánování, šetřílkovství a nedostatky v infrastruktuře
