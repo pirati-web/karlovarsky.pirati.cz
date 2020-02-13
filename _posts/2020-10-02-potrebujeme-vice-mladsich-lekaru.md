@@ -2,13 +2,15 @@
 date: 2020-10-02
 category: blog
 tags: tag1 tag2
-title: Petr Třešňák - Potřebujeme více mladších lékařů
+title: Potřebujeme více mladších lékařů
 author: petr.tresnak
 aurhodId: petr.tresnak
 image: posts/PT.jpg
 ---
-# Na podzim 2019 to byly dva roky, kdy jsi byl zvolen do poslanecké sněmovny za Piráty. Jak 
-toto období vnímáš, co se podařilo?
+
+# Potřebujeme více mladších lékařů
+
+## Na podzim 2019 to byly dva roky, kdy jsi byl zvolen do poslanecké sněmovny za Piráty. Jak toto období vnímáš, co se podařilo?
 
 Je pravdou, že ty dva roky uplynuly jako voda. Práce bylo skutečně hodně, jen krátce pro naš
 e čtenáře připomenu, že jsem místopředsedou výboru pro zdravotnictví, členem podvýboru pro energetiku,
@@ -48,7 +50,7 @@ transparentní řešení. V současné době se vede diskuze o výstavbě jednoh
 Dukovanech a souvisejícího investorského i dodavatelského modelu. Více o našich stanoviscích si
 můžete přečíst na serveru http://www.allforpower.cz/clanek/nedelame-z-jadra-protipol-obnovitelnych-zdroju/
 
-# Zmínil jsi, že jsi místopředseda výboru pro zdravotnictví a právě zdravotnictví je jedno z bolavých míst našeho regionu, jak na tom vlastně zdravotnictví je?
+## Zmínil jsi, že jsi místopředseda výboru pro zdravotnictví a právě zdravotnictví je jedno z bolavých míst našeho regionu, jak na tom vlastně zdravotnictví je?
 
 Tohle by bylo na velmi dlouhou diskuzi, kdy bychom mohli střídat různé pohledy od finanční kondice přes kvalitu specializované péče, ale zkusím to vzít optikou občana Karlovarského kraje, který naprosto neřeší ukazatele, ale zajímá ho, kdo se o něj postará v případě problémů. 
 
@@ -61,6 +63,5 @@ Takže základní věci víme, potřebujeme více mladších lékařů a změnit
 
 Další věci, na kterých pracuji nejen já, ale celý náš poslanecký klub najdete na webu www.piratipracuji.cz 
 
-Petr Třešňák,
+- Petr Třešňák,
 poslanec za Piráty
----
