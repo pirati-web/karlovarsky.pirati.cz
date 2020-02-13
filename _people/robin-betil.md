@@ -1,6 +1,6 @@
 ---
 uid: robin.beitl
-name:     Jindřich Čermák  	# běžně používáné jméno
+name:     Robin Beitl  	# běžně používáné jméno
 titles:
   before: 
   after:
