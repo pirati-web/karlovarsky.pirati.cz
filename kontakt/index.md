@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contacts
 description: Kontakty na Piráty z Karlovarského kraje
 keywords: kontakt, karlovarsky kraj, centrum, adresa,telefon, mail, facebook, kde najdu, kde jsou, pirati karlovarsky kraj
 residences:
@@ -26,13 +26,10 @@ contactSummaryItems:
     iconClass: fa fa-twitter
     label: Twitter
     body: <a href="https://twitter.com/piratipraha">@piratipraha</a>
-  - type: custom
+ # -  type: custom
     iconClass: fa fa-user
     label: Předseda krajského sdružení
     body: <a href="/lide/karel-nykles">Karel Nykles</a>
- -  type: custom
-  	label: Mediální spojka
-    body: <a href="/lide/jindrich-cermak">Jindřich Čermák</a>
 # kontaktní osoby se nastavují v hlavičká _people
 ---
 
