@@ -1,5 +1,5 @@
 ---
-layout: contacts
+layout: default
 description: Kontakty na Piráty z Karlovarského kraje
 keywords: kontakt, karlovarsky kraj, centrum, adresa,telefon, mail, facebook, kde najdu, kde jsou, pirati karlovarsky kraj
 residences:
