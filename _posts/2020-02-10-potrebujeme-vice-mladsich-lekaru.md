@@ -40,8 +40,7 @@ návrh, který tuto horní hranici ruší. Čímž jsme přispěli k tomu, že m
 
 Stejně tak důležitou věcí, která může ovlivnit další rozvoj našeho kraje jsou peníze z 
 emisních povolenek. Již v únoru jsem se připojil k iniciativě senátorů a poslanců požadujících 
-po vládě, aby vyčlenila část prostředků příjmů z emisních povolenek pro Karlovarský a Ústecký kraj 
-- tedy regiony nejvíce postižené těžbou hnědého uhlí a jeho spalováním.
+po vládě, aby vyčlenila část prostředků příjmů z emisních povolenek pro Karlovarský a Ústecký kraj - tedy regiony nejvíce postižené těžbou hnědého uhlí a jeho spalováním.
 
 Na závěr zmíním i zásadní věc pro budoucnost celé ČR a to Stálý výbor pro výstavbu nových 
 jaderných zdrojů v ČR, ve kterém řešíme to, jakým způsobem a kdy budou nebo nebudou postaveny 
@@ -63,5 +62,5 @@ Takže základní věci víme, potřebujeme více mladších lékařů a změnit
 
 Další věci, na kterých pracuji nejen já, ale celý náš poslanecký klub najdete na webu www.piratipracuji.cz 
 
-- Petr Třešňák,
-poslanec za Piráty
+*Petr Třešňák,
+poslanec za Piráty*
