@@ -39,11 +39,13 @@ bottom:
     title: Makáme
     links:
       - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
+        name: Naše posádka
+      - link: /volby/
         name: Volby
       - link: /aktuality/
         name: Aktuality
+      - link: /epic/
+        name: E-pic
   - class: small-12 medium-4
     title: Otevřenost
     links:
