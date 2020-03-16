@@ -9,7 +9,7 @@ residences:
      Moskevská 60
      Karlovy Vary
    spravce: 
-   residenceImg: /img/epic/epic.jpg
+   residenceImg: assets/img/epic/epic.jpg
    mapLink: 
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
 # Nastavení zobrazení tabulky kontaktů.
