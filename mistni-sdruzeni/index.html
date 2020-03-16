@@ -3,13 +3,14 @@ layout: page
 title: Místní sdružení
 ---
 
-<div class="row">
-  <div class="medium-6 large-6 columns">
-    <section class="o-section o-section--noSpaceBottom">
-      <div class="o-section-inner">
-        <div class="c-BasicPage">
-          <div class="vspace-nb-m">
-            <div class="row vspace-nb-m">
+<section class="pk-election-crossroad row u-uniform-size-row">
+  {% for place in include.places %}
+    <div class="columns medium-6">
+      <article class="pk-election-crossroad__place">
+        <div class="c-tile c-tile--fill pk-election-crossroad__place-body">
+          <div class="pk-election-crossroad__coa"><img src="{{ place.coa }}" alt="{{ place.locality }}"></div>
+          <div class="c-tile__body">
+            <h2 class="t-h4">{{ place.locality }}</h2>
 {% include ms/item.html 
     img='ms/pir_ch.jpg'
     name='Chebsko'
