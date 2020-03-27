@@ -37,7 +37,7 @@ Obdobně pomáhají Piráti v Chebu, když sbírají materiál, ze kterého se p
 ![](/assets/img/posts/kvvirus04.jpg)
 *Bára Erbenová sbírá dobrovolníky k pomoci seniorům*
 
-O seniory se stará také krajská zastupitelka Markéta Monsportová, kterým zajišťuje nákupy potravjn a léků. Svou pomoc pak můžete nabídnout i přes stránky sousedskapomoc.cz, na jejichž vzniku se podílel Šimon Barczi.
+O seniory se stará také krajská zastupitelka Markéta Monsportová, kterým zajišťuje nákupy potravin a léků. Svou pomoc pak můžete nabídnout i přes stránky sousedskapomoc.cz, na jejichž vzniku se podílel Šimon Barczi.
 
 *Starostové v první linii*
 
