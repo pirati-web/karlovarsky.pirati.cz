@@ -22,3 +22,6 @@ Lázeňství projde jistou transformací, dotkne se to bohužel všech. Již dne
 **3.  Letos se měl dokončit přístup Slavných lázní Evropy do sítě UNESCO, jak to s ním vypadá?**
     
 Podobně jako s dalšími masivními akcemi, zatím je 44. zasedání Výboru světového dědictví nejisté, hovoří se i o propojení 44. a 45. jednání na rok 2021, ale nechci malovat čerta na zeď. Na programu jednání by lázně měly být a vyjádření expertů bychom se měli dozvědět zhruba šest týdnů před oficiálním termínem zasedání výboru, tedy v půlce května.
+
+
+*Doplnění redakce – podle čerstvých zpráv z tisku by se zveřejnění expertní zprávy mělo odehrát až bude jasný termín zasedání. Předběžně se mluvilo o říjnu.*
