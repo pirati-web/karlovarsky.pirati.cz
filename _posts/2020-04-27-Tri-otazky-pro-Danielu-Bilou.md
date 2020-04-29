@@ -14,7 +14,9 @@ Nouzový stav a vážná situace týkající se nového typu koronaviru dala doh
 
 Hlavními nositelkami nápadu, kromě mě, byla Michaela Kožíšková, Olča Bischofová a Lada Baranek Lapinová. Povedlo se nám se dobře propojit a vytvořit tak dobře fungující skupinu, která mohla už 19. března otevřít distribuční centrum právě u nás v Pirátském centru.
 
-Původně jsme se z roušek dostali přes rozdávání dezinfekce až k ochranným štítům. Rozdali jsme přes 3000 roušek a 2500 litrů dezinfekce. Vše pochopitelně zcela zdarma. Roušky nám sváželi lidé z celého širokého okolí, od Perninku až po Otročín. Dezinfekce je zejména darem Vladimíra Melichara (ten nezištně pomáhal s rozvozem) a Karlovarské Becherovky.
+Původně jsme se z roušek dostali přes rozdávání dezinfekce až k ochranným štítům. Rozdali jsme přes 3000 roušek a 2500 litrů dezinfekce. Vše pochopitelně zcela zdarma. Roušky jsme sváželi od lidí z celého širokého okolí, od Perninku až po Otročín. Dezinfekce je zejména darem Vladimíra Melichara (ten nezištně pomáhal s rozvozem) a Karlovarské Becherovky.
+
+Ráda bych zmínila také pomoc dobrovolnic z Dobrovolnického centra Instand.
 
 **2. Od minulého tohoto týdne je v provozu i 3D tiskárna. Jakou má kapacitu tisku a kam všude štíty rozvážíte?**
 
