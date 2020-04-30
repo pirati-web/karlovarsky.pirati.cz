@@ -8,7 +8,7 @@ category:
   - clenove
   - pks
   - vybory
-description: předseda krajského sdružení Karlovarský kraj, předseda Komise pro životní prostředí, zemědělství a energetiku Karlovarského kraje
+description: 4. místopředseda krajského sdružení Karlovarský kraj, předseda Komise pro životní prostředí, zemědělství a energetiku Karlovarského kraje
 img: people/karel_nykles.jpg # zakomentuj radek dokud není fotka
 mail:
 - karel.nykles@pirati.cz
