@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - pks
-description: 4. místopředseda krajského sdružení Karlovarský kraj a 2. místopředseda místního sdružení Chebsko
+description: 3. místopředseda krajského sdružení Karlovarský kraj a 2. místopředseda místního sdružení Chebsko
 img: people/ondrej_topinka.jpg # zakomentuj radek dokud není fotka
 mail:
 - ondrej.topinka@pirati.cz
