@@ -9,7 +9,7 @@ category:
   - pks
   - psp
   - komunal
-description: poslanec PSP ČR, 1. místopředseda krajského sdružení
+description: poslanec PSP ČR, předseda krajského sdružení
 img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
 - petr.tresnak@pirati.cz
