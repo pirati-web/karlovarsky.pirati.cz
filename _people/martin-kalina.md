@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - starostove
-description: Starosta města Mariánské Lázně
+description: Starosta města Mariánské Lázně, předseda MS Maránské Lázně
 img: people/martin_kalina.jpg # zakomentuj radek dokud není fotka
 mail:
 - martin.kalina@pirati.cz
