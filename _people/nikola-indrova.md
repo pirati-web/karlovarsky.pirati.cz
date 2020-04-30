@@ -9,7 +9,7 @@ category:
   - pks
   - pms
   - vybory
-description: 2. místopředsedkyně Krajského sdružení Karlovarský kraj a 2. místopředsedkyně místního sdružení Valeč, členka Komise pro rozvoj venkova # zobrazuje se v lide
+description: 2. místopředsedkyně Krajského sdružení Karlovarský kraj a předsedkyně místního sdružení Valeč, členka Komise pro rozvoj venkova # zobrazuje se v lide
 img: people/nikola_indrova.jpg # zakomentuj radek dokud není fotka
 mail:
   - nikola.indrova@pirati.cz
