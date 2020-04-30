@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - pks
-description: 3. místopředseda krajského sdružení Karlovarský kraj a 2. místopředseda místního sdružení Chebsko
+description: 3. místopředseda krajského sdružení Karlovarský kraj a předseda místního sdružení Chebsko
 img: people/ondrej_topinka.jpg # zakomentuj radek dokud není fotka
 mail:
 - ondrej.topinka@pirati.cz
@@ -19,7 +19,7 @@ profiles:
   linkedin:
 ---
 
-Ondřej Topinka (* 18. dubna 1994) je 2. místopředseda MS Chebsko. Ondřej pochází z města Cheb, kde žije celý život.
+Ondřej Topinka (* 18. dubna 1994) je předseda MS Chebsko a 3. místopředseda KS Karlovarský kraj. Ondřej pochází z města Cheb, kde žije celý život.
 
 Studoval obchodní akademii na Integrované střední škole v Chebu (2009 - 2013), dále 
 vystudoval Vyšší odbornou školu v oboru sociální práce (2015 - 2018) v Chebu kde získal titul DiS.
