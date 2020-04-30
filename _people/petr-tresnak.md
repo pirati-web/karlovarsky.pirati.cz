@@ -9,7 +9,7 @@ category:
   - pks
   - psp
   - komunal
-description: poslanec PSP ČR, předseda krajského sdružení
+description: poslanec PSP ČR, předseda krajského sdružení, místopředseda MS Mariánské Lázně
 img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
 - petr.tresnak@pirati.cz
@@ -29,7 +29,7 @@ profiles:
 ---
 
 Petr Třešňák (\*1983) pirátský poslanec PSP ČR za Karlovarský kraj. Rovněž je
-1. místopředsedou krajského sdružení Karlovarský kraj a dočasným garantem programového
+předsedou krajského sdružení Karlovarský kraj a dočasným garantem programového
 bodu energetika. Pochází z Mariánských Lázní.
 
 V letech 1998–2007 pobýval převážně v Plzni. 
