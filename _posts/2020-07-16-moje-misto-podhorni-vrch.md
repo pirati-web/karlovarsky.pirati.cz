@@ -6,7 +6,7 @@ tags:
     - Karlovarský_kraj
     - krajské_volby_2020
     - Moje_místo
-title: Moje místo - Slavkovský les
+title: Moje místo - Podhorní vrch
 author: Karel Nykles
 authorId: karel.nykles
 image: posts/MM_KN01.jpg
