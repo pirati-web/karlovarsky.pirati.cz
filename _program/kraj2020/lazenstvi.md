@@ -28,6 +28,6 @@ Kraj bude nadále podporovat rozvoj lázeňství i v zaměření na prevenci, v�
     
 Kraj podpoří otevření infrastruktury cestovního ruchu a jejich benefitů pro obyvatele kraje, podpoří vzdělávání a exkurze žáků a studentů v rámci tradičních odvětví v kraji.
     
-**5.  Hodláme podpořit kvalitní služby v cestovním ruchu **
+**5.  Hodláme podpořit kvalitní služby v cestovním ruchu**
     
 Kraj nastaví propodnikatelské prostředí, vytvoří zásobník potenciálních podnikatelských záměrů a bude vyhledávat jejich realizátory. Budeme podporovat takové podnikatelské subjekty, které rozvíjejí náš kraj a nabízejí kvalitní služby.
