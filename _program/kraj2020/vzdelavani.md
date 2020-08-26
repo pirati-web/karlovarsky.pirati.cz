@@ -7,7 +7,6 @@ title: Vzdělávání
 #garant: nikola.indrova
 image: program2020/01_vzdelavani.png
 perex: Vzdělání chápeme jako nejcennější hodnotu pro život v 21. století
-
 ---
 **1.  Vzdělání jako nejcennější hodnota pro život v 21. století**
     
