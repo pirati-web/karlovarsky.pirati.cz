@@ -5,17 +5,16 @@ uid: vzdelavani
 order: 1
 title: Vzdělávání
 #garant: nikola.indrova
-img: program2020/01_vzdelavani.png
-#perex: >
-#  [ text, který se zobrazí na přehledu programových bodů ]
-intro: Vzdělání chápeme jako nejcennější hodnotu pro život v 21. století
+image: program2020/01_vzdelavani.png
+perex: Vzdělání chápeme jako nejcennější hodnotu pro život v 21. století
+
 ---
 **1.  Vzdělání jako nejcennější hodnota pro život v 21. století**
     
 Nejohroženější pracovní skupinou v budoucnu budou lidé s nízkou kvalifikací. Proto si uvědomujeme, že naší povinností je motivovat každého jednotlivce k maximálnímu využití svého potenciálu, nezávisle na výchozí startovací pozici a nabídnout mu odpovídající způsob výuky.
     
 
-**2.  **Změna systému výuky je nevyhnutelná****
+**2.  Změna systému výuky je nevyhnutelná**
     
 
 Abychom se odrazili od pomyslného dna statistických žebříčků, musíme se nechat inspirovat moderními učebními metodami. Budeme podporovat alternativy k současným školským zařízením a zapojení metod učení prostřednictvím digitálních technologií. Nedílnou součástí moderního vzdělávání je důraz na rozvoj kompetencí kritického myšlení. Zatraktivníme výuku díky zkušenostem, které mohou přinést inspirativní lidé z praxe. Narušíme stereotyp současné výuky.
