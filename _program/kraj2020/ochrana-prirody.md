@@ -30,6 +30,6 @@ Náš kraj nemá jen bohatou historii a jedinečné lázeňství, ale také úž
 Budeme prosazovat takovou revitalizaci území, aby výsledkem byla krajina cenná z hlediska ochrany přírody, případně využitelná pro šetrné formy zemědělství, lesnictví a turismu.
     
 
-**5.  Zrealizujeme projekty vedoucí k zadržovánívody v krajině **
+**5.  Zrealizujeme projekty vedoucí k zadržovánívody v krajině**
     
 Je důležité vytvořit taková opatření, která budou přirozeně zadržovat vodu v krajině a zároveň budou sloužit jako protipovodňová ochrana. Podporujeme více drobných vodohospodářských opatření v krajině oproti výstavbě velkých vodních děl.
