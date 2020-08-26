@@ -1,6 +1,6 @@
 ---
 campaignCategoryUid: kraj2020
-campaignGroupUid: volby2020
+campaignGroupUid: kraj2020
 uid: vzdelavani
 order: 1
 title: Vzdělávání
