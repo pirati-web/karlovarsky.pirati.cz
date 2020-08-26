@@ -1,8 +1,8 @@
 ---
 title: Otevřená radnice
 uid: otevrena-radnice
-campaignCategoryUid: praha2018
-campaignGroupUid: volby-2018
+campaignCategoryUid: kraj2020
+campaignGroupUid: kraj2020
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: jakub.pirat
 perex: >
