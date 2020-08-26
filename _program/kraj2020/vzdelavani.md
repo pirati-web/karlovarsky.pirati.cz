@@ -1,5 +1,5 @@
 ---
-campaignCategoryUid: kraj2020
+campaignCategoryUid: volby-2020
 campaignGroupUid: kraj2020
 uid: vzdelavani
 order: 1
