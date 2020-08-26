@@ -2,11 +2,11 @@
 campaignCategoryUid: volby-2020
 campaignGroupUid: kraj2020
 uid: priroda
-order: 1
+order: 2
 title: Ochrana přírody a krajiny
 #garant: nikola.indrova
 image: program2020/02_zivotni-prostredi.png
-perex: Vzdělání chápeme jako nejcennější hodnotu pro život v 21. století
+perex: Chráníme svět i pro příští generace
 ---
 **1.  Kraj zásadně zintenzivní ochranu přírody a krajiny**
     
