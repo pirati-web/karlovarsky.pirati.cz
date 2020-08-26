@@ -1,13 +1,15 @@
 ---
 campaignCategoryUid: kraj2020
-campaignGroupUid: volby-2020
+campaignGroupUid: volby2020
 uid: vzdelani
 order: 1
 title: Vzdělání
 #garant: nikola.indrova
-image: program2020/01_vzdelavani.png
 perex: Vzdělání chápeme jako nejcennější hodnotu pro život v 21. století
 ---
+
+![](/assets/img/program2020/01_vzdelavani.png)
+
 **1.  Vzdělání jako nejcennější hodnota pro život v 21. století**
     
 Nejohroženější pracovní skupinou v budoucnu budou lidé s nízkou kvalifikací. Proto si uvědomujeme, že naší povinností je motivovat každého jednotlivce k maximálnímu využití svého potenciálu, nezávisle na výchozí startovací pozici a nabídnout mu odpovídající způsob výuky.
