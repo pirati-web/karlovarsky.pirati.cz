@@ -1,6 +1,6 @@
 ---
-campaignCategoryUid: volby-2020
-campaignGroupUid: kraj2020
+campaignCategoryUid: kraj2020
+campaignGroupUid: volby-2020
 uid: priroda
 order: 2
 title: Ochrana přírody a krajiny
