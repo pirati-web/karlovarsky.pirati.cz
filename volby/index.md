@@ -1,7 +1,6 @@
 ---
-layout: page
-#title: 
+layout: communal-elections
+title: Volby do krajského zastupitelstva 2020
+campaignCategoryUid: kraj2020
+candidateListUid: kraj2020
 ---
-
-V této chvíli probíhají nominace na kandidátku a příprava programu. Podrobnosti 
-můžete sledovat na našem [fóru](https://forum.pirati.cz/viewforum.php?f=412).
