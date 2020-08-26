@@ -1,13 +1,15 @@
 ---
 campaignCategoryUid: kraj2020
-campaignGroupUid: volby-2020
+campaignGroupUid: volby2020
 uid: priroda
 order: 2
 title: Ochrana přírody a krajiny
 #garant: nikola.indrova
-image: program2020/02_zivotni-prostredi.png
 perex: Chráníme svět i pro příští generace
 ---
+
+![](/assets/img/program2020/02_zivotni-prostredi.png)
+
 **1.  Kraj zásadně zintenzivní ochranu přírody a krajiny**
     
 Přepracujeme současné koncepce, které neodpovídají na výzvy související se změnou klimatu a pokračujícím suchem. Budeme vyžadovat důsledné naplňování těchto koncepcí.
