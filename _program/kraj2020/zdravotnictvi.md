@@ -18,12 +18,12 @@ Na základě nezávislé odborné studie vytvoříme funkční model, jehož pri
 
 Prosazujeme férové platby pojišťoven. Zlepšíme ekonomii a transparentnost provozu. Podpoříme návrat lukrativních zdravotnických zákroků do portfolia krajské nemocnice.
     
-**3.  Řešíme nedostatek lékařů**
+**3.  Budeme řešit nedostatek lékařů**
  
  Na podkladě podrobného mapování obsazení lékařských, sesterských a technických pozic v nemocnicích vytvoříme nový model spolupráce s vysokými školami. Ta bude podpořena formou stipendií, odborných stáží a startovacích bytů, které budou impulsem pro přestěhování do našeho regionu nebo zabrání odlivu zdravotníků. Podpoříme celoživotní vzdělávání těch, kteří shání uplatnění v perspektivním oboru.
     
 
-**4.  Podpora inovací ve zdravotnictví**
+**4.   Podpoříme inovace ve zdravotnictví**
     
 Prosadíme zapojení karlovarské záchranné služby do systému First responder a rozvoj telemedicíny, která pomůže lékařům přejít do doby digitální. Částečně může tento nástroj pomoci s nedostatkem lékařů, ulehčí ordinacím
     
