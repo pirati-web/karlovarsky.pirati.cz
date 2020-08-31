@@ -7,7 +7,7 @@ titles:
 category:
   - vybor
 description: členka Komise prevence kriminality Karlovarského kraje
-# img: people/ # zakomentuj radek dokud není fotka
+img: people/Daniela_Bila.jpg
 mail:
 mob: 
 profiles:
