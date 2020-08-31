@@ -8,7 +8,7 @@ category:
   - clenove
   - komunal
 description: Zastupitel ve městě Loket
-img: people/vitezslav_adamec.jpg # zakomentuj radek dokud není fotka
+img: people/Vitezslav_Adamec.jpg # zakomentuj radek dokud není fotka
 mail:
 - vitezslav.adamec@pirati.cz
 mob: 722 443 732
