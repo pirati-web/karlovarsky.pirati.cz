@@ -8,7 +8,7 @@ category:
   - clenove
   - vybory
 description: 2. místopředseda místního sdružení Sokolov, člen Výboru pro Hospodaření s majetkem Karlovarského kraje
-img: people/Lukáš_zykán.jpg # zakomentuj radek dokud není fotka
+img: people/Lukas_Zykan.jpg # zakomentuj radek dokud není fotka
 mail:
 - lukas.zykan@pirati.cz
 mob:
