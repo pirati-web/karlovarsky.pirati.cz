@@ -18,7 +18,6 @@ profiles:
   github:
   facebook:				https://www.facebook.com/pepik.janu
   twitter:
-  flickr:				https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ladislav%20kos
   calendar: https://calendar.google.com/calendar/embed?src=varskejpepik@gmail.com  
 ---
 
