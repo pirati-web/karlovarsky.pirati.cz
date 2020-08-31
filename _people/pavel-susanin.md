@@ -8,7 +8,7 @@ category:
   - clenove
   - komunal
 description: Zastupitel města Karlovy Vary
-img: people/pavel_susanin.png # zakomentuj radek dokud není fotka
+img: people/Pavel_Susanin.jpg # zakomentuj radek dokud není fotka
 mail:
 - pavel.susanin@pirati.cz
 mob: 776 009 865
