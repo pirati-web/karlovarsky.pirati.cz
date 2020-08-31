@@ -8,7 +8,7 @@ category:
   - clenove
   - kontaktni_osoba
 description: Koordinátorka krajského sdružení 
-img: people/lucie_trckova.jpg # zakomentuj radek dokud není fotka
+img: people/Lucie_Trckova.jpg # zakomentuj radek dokud není fotka
 mail:
 - lucie.trckova@pirati.cz
 mob: 778 111 472
