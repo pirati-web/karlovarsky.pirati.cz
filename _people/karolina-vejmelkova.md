@@ -7,7 +7,7 @@ titles:
 category:
   - komunal
 description: Zastupitelka ve městě Mariánské Lázně
-img: people/karolina_vejmelkova.jpg # zakomentuj radek dokud není fotka
+img: people/Karolina_Vejmelkova.jpg # zakomentuj radek dokud není fotka
 mail:
 - karolina.vejmelkova@pirati.cz
 mob:
