@@ -18,7 +18,8 @@ profiles:
   github:
   facebook:				https://www.facebook.com/pepik.janu
   twitter:
-  calendar: https://calendar.google.com/calendar/embed?src=varskejpepik%40gmail.com
-
+  
 ---
+
+https://calendar.google.com/calendar/embed?src=varskejpepik%40gmail.com
 
