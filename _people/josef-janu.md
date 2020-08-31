@@ -21,5 +21,3 @@ profiles:
   
 ---
 
-https://calendar.google.com/calendar/embed?src=varskejpepik%40gmail.com
-
