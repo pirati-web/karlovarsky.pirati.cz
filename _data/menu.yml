@@ -14,18 +14,14 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: Naše posádka
+    name: Lidé
     match: lide
-  - link: /volby/
-    name: Volby
-    match: volby
-    submenu:
-     - link: /volby/program
-       name: Program
-       match: program
   - link: /epic/
     name: e-PIC
     match: epic
+  - link: /volby-2020/
+    name: Komunální volby
+    match: volby-2020
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
