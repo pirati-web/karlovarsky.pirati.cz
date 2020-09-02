@@ -13,7 +13,7 @@ image: posts/MM_MM.jpg
 ---
 **Mám ve svém okolí spoustu míst, kam chodím odpočívat. A to jak aktivně – během, kolmo, v zimě na běžkách, tak jen relaxačně na procházku. Vypíchnout jedno jediné by byla velmi těžká volba. Přírodní rezervace Kladská, les mezi Velkou Hleďsebí a Krásnem, lesní židovský hřbitov u Drmoulu nebo nedaleká rozhledna na Panském vrchu. Jenom vyšplhat se na ní je sportovní výkon!**
 
-Kousek od Chebu ale leží vesnička Doubrava. A nedaleko ní é poutní místo Maria Loreto ve Starém Hrozňatově, odkud je při dobré viditelnosti vidět celý Slavkovský les a někdy dohlédnete až na Přimdu. Tam jsem nechala kus svého srdce a ráda se tam vracím.
+Kousek od Chebu ale leží vesnička Doubrava. A nedaleko ní je poutní místo Maria Loreto ve Starém Hrozňatově, odkud je při dobré viditelnosti vidět celý Slavkovský les a někdy dohlédnete až na Přimdu. Tam jsem nechala kus svého srdce a ráda se tam vracím.
 
 Do Doubravy jsem se dostala před 20 lety společně s manželem a malou dcerkou Marií a krátce na to se nám narodila druhá dcera Anna. Sedm let jsme tam provozovali restauraci, která byla součástí tamního kouzelného vesnického skanzenu. Těch koláčů, co jsem se tehdy napekla! Restaurace byla velmi oblíbená. Nejvíc hostů k nám docházelo přes hraniční přechod pro pěší na Mýtině z nedalekého Neualbenreuthu a Sibyllenbadu. Ale i z Chebu, nebo z Mariánských Lázních k nám občas někdo zavítal. Místo je to nádherné a kuchyně byla vyhlášená.
 
