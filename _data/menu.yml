@@ -23,7 +23,7 @@ main:
     name: e-PIC
     match: epic
   - link: /volby-2020/
-    name: Komunální volby
+    name: Volby
     match: volby-2020
   - link: /mistni-sdruzeni/
     name: Místní sdružení
