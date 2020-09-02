@@ -10,6 +10,7 @@ title: Moje místo - Maria Loreto
 author: Markéta Monsportová
 authorId: marketa.monsportova
 image: posts/MM_MM.jpg
+important: true
 ---
 
 **Mám ve svém okolí spoustu míst, kam chodím odpočívat. A to jak aktivně – během, kolmo, v zimě na běžkách, tak jen relaxačně na procházku. Vypíchnout jedno jediné by byla velmi těžká volba. Přírodní rezervace Kladská, les mezi Velkou Hleďsebí a Krásnem, lesní židovský hřbitov u Drmoulu nebo nedaleká rozhledna na Panském vrchu. Jenom vyšplhat se na ní je sportovní výkon!**
