@@ -13,11 +13,11 @@ description: Zastupitel města Karlovy Vary, člen Kontrolního výboru, Komise 
 img: people/Jindrich_Cermak.jpg # zakomentuj radek dokud není fotka
 mail:
 - jindrich.cermak@pirati.cz
-mob:
+mob: +420 604 317 512
 profiles:
   github:
-  facebook:
-  twitter:
+  facebook: https://www.facebook.com/jincer
+  twitter: https://twitter.com/jincer
   linkedin:
 ---
 
