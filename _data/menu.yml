@@ -23,16 +23,16 @@ main:
      - link: /volby/program
        name: Program
        match: program
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
   - link: /epic/
     name: e-PIC
     match: epic
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+    
 bottom:
   - class: small-12 medium-4
     title: Připoj se

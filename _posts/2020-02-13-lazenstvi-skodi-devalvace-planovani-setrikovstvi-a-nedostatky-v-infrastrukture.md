@@ -1,7 +1,7 @@
 ---
 date: 2020-02-13
 category: blog
-tags: tag1 tag2
+tags: lázeňství
 title: Lázeňství škodí devalvace plánování, šetřílkovství a nedostatky v infrastruktuře
 author: vojtech.franta
 authorId: vojtech.franta    # uid nekoho z _people (nepoviné)

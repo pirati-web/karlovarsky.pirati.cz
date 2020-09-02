@@ -11,6 +11,8 @@ description: Prosazujeme fungující moderní politiku založenou na využití t
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, karlovy vary, sokolov, cheb, karlovarský kraj
 
+mediaStorage: karlovarsky
+
 administrator:
   email: jan.suchanek@gmail.com, michaela.kleslova@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
@@ -22,7 +24,7 @@ organization:
   address: |
     Moskevská 60,
     Karlovy Vary
-  residenceImg:
+  residenceImg: https://a.pirati.cz/karlovarsky/img/epic/foto1.JPG
   mapLink: 
   redmineLink: 
   dataBoxId: b2i4r6j
@@ -68,7 +70,10 @@ twitter:
   profile: PiratskaStrana
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.karlovarsko/
+  profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
@@ -132,21 +137,11 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
-      path: "_posts"
-    values:
-      layout: "post"
-      rbar:
-        - foto
-        - personContact
-        - people
-  -
-    scope:
       path: "_people"
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
   -
     scope:
@@ -175,11 +170,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
-    - assets/img/epic
-    - assets/img/ms
     - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

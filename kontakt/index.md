@@ -9,8 +9,8 @@ residences:
      Moskevská 60
      Karlovy Vary
    spravce: 
-   residenceImg:
-   mapLink: 
+   residenceImg: https://a.pirati.cz/karlovarsky/img/epic/foto1.JPG
+   mapLink: https://www.google.com/maps/place/e-PIC,+Pir%C3%A1tsk%C3%A9+centrum+Karlovy+Vary/@50.2277088,12.8584517,17z/data=!3m1!4b1!4m5!3m4!1s0x47a0996fd58be81f:0x5313a1276b9897e1!8m2!3d50.2277088!4d12.8606404
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:

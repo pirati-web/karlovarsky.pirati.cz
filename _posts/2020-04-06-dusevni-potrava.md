@@ -3,7 +3,7 @@ date: 2020-04-06
 category: blog
 layout: post
 tags:
-    - Karlovarský_kraj
+    - Karlovarský kraj
     - kultura
 title: Duševní potrava
 author: Markéta Monsportová

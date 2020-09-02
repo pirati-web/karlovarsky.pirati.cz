@@ -3,8 +3,8 @@ date: 2020-03-27
 category: blog
 layout: post
 tags:
-    - Karlovarský_kraj
-    - Pirati_pracuji
+    - Karlovarský kraj
+    - Pirati pracuji
 title: Piráti za časů pandemie
 author: KS Karlovarský kraj
 image: posts/kvvirus00.jpg

@@ -10,7 +10,7 @@ category:
   - komunal
   - vybory
 description: Starosta města Loket, člen Výboru pro výchovu, vzdělávání a zaměstnanost v Karlovarském kraji
-img: people/Petr_Adamec.jpg # zakomentuj radek dokud není fotka
+img: people/petr_adamec.jpg # zakomentuj radek dokud není fotka
 mail:
 - p.adamec@loket@cz
 mob: 739 322 417
