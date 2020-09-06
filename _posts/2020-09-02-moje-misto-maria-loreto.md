@@ -23,4 +23,5 @@ Mezi naše pravidelné hosty patřili i manželé Hartovi. Pan Anton Hart byl st
 
 Moc ráda se sem vracím a pokaždé na tohle výjimečné setkání vzpomínám. Anton Hart pro mě byl velkou inspirací. Zemřel v roce 2004, ale jeho odkaz žije dál.
 
-![](/assets/img/posts/marketa_monsportova_2020.jpg)
+
+{% asset 'assets/img/posts/marketa_monsportova_2020.jpg' magick:gravity='north' %}
