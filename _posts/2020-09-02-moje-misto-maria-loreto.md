@@ -21,5 +21,7 @@ Do Doubravy jsem se dostala před 20 lety společně s manželem a malou dcerkou
 
 Mezi naše pravidelné hosty patřili i manželé Hartovi. Pan Anton Hart byl starousedlík vysídlený v roce 1946. Jeho rodina vlastnila ve Starém Hrozňatově továrnu a jeho předkové tam z vydolované hlíny vyráběli kameninové lahve na minerální vodu pro okolní lázně. Továrna vzala po válce za své, stejně tak jako nedaleké poutní místo Maria Loreto. Proto se pan Hart rozhodl založit v roce 1992 spolek na záchranu této unikátní barokní loretánské kaple. Jeho přáním bylo, aby se na obnově památky podíleli Češi i Němci, aby byla společným dílem, místem setkávání a smíření. A to se mu opravdu povedlo. Setkání s Antonem Hartem pro mě byl nezapomenutelný zážitek. Dokonce se nám párkrát poštěstilo, že mě a mé přátele, po Maria Loreto osobně provázel. "Narodil jsem se v Rakousko-Uhersku, žil jsem v Československu, potom v Německu, ale teď jsem Evropan. Všichni jsme," zmiňoval pokaždé s hrdostí Anton Hart.
 
-Moc ráda se sem vracím a pokaždé na tohle výjimečné setkání vzpomínám. Anton Hart pro mě byl velkou inspirací. Zemřel v roce 2004, ale jeho odkaz žije dál!
+Moc ráda se sem vracím a pokaždé na tohle výjimečné setkání vzpomínám. Anton Hart pro mě byl velkou inspirací. Zemřel v roce 2004, ale jeho odkaz žije dál.
+
+{% asset 'posts/marketa_monsportova_2020.jpg' magick:gravity='north' alt='Markéta'%}
 
