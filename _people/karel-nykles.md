@@ -10,7 +10,7 @@ category:
   - pks
   - vybory
 description: 4. místopředseda krajského sdružení Karlovarský kraj, zastupitel Mariánských Lázní
-img: people/karel_nykles.jpg # zakomentuj radek dokud není fotka
+img: people/Karel_Nykles.jpg # zakomentuj radek dokud není fotka
 mail:
 - karel.nykles@pirati.cz
 mob:
