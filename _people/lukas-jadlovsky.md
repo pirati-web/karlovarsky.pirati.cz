@@ -1,14 +1,15 @@
 ---
 uid: lukas.jadlovsky
-name:     Lukáš Jadlovský 	# běžně používáné jméno
+name: Lukáš Jadlovský 	# běžně používáné jméno
 titles:
   before:
   after:
 category:
   - clenove
   - komunal
-  - vybory
-description: Zastupitel ve městě Mariánskí Lázně, člen Komise pro otevřenou společnost a nové technologie
+description: Zastupitel Mariánských Lázní
+profession: OSVČ, zastupitel města Mariánské Lázně, technologický geek
+heroImg: banner-ml.jpg
 img: people/lukas_jadlovsky.jpg # zakomentuj radek dokud není fotka
 mail:
 - lukas.jadlovsky@pirati.cz
@@ -18,6 +19,11 @@ profiles:
   facebook:
   twitter:
   linkedin:
+partyUid: pirati
+---
+
+Lukáš Jadlovský je nejen zastupitelem v Mariánských Lázních, ale zejména kouzelník a vládcem technologické magie, který pomocí všech těch tajemných “hejblátek a udělátek” dokáže namichat výživný životabudič úplně pro každý projekt
+
 ---
 
 
