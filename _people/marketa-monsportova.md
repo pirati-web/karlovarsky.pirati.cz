@@ -20,6 +20,7 @@ profiles:
   facebook: https://www.facebook.com/MMonsportova
   twitter: https://twitter.com/MMonsportova
   linkedin:
+partyUid: pirati
 ---
 
 Markéta Monsportová se narodila v roce 1972 v Ostrově nad Ohří. Vystudovala mariánskolázeňskou hotelovou školu a v oboru cestovního ruchu zůstala doposud. Zastupuje jednoho z největších německých touroperátorů a zajišťuje tak servis pro více než deset tisíc lázeňských hostů ročně v celém lázeňském trojúhelníku.  
