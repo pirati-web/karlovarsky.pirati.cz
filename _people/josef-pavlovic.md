@@ -20,6 +20,7 @@ profiles:
   facebook: https://www.facebook.com/JosefPavlovic
   twitter:
   linkedin:
+partyUid: pirati
 ---
 Josef Pavlovic je dlouholetým členem Pirátů (od roku 2014). Josef z Mariánských Lázní pochází a stále spokojeně žije. Po vysoké škole zakotvil u společnosti Léčebné lázně Mariánské Lázně a.s. kde si prošel nejen pozici recepčního nebo event managera. Rok 2017 si užíval v jako otec na mateřské dovolené.
 
