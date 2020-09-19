@@ -7,6 +7,7 @@ titles:
 category:
   description: 
 profession: technik, alchymistka, občanská aktivistka
+heroImg: banner-kv.jpg
 img: people/Daniela_Bila.jpg
 mail:
 - daniela.bila@pirati.cz
@@ -14,6 +15,7 @@ mob:
 profiles:
   facebook: https://www.facebook.com/daniela.bila
   twitter:
+partyUid: pirati
 ---
 
 Daniela Bílá je Pirátka srdcem i duší. Daniela sice pochází z Podbořan, oblasti srážkového stínu, ale už přes 25 let žije v Karlových Varech (i když si dlouho zvykala na deštivé počasí na západě).
