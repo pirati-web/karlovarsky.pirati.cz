@@ -24,4 +24,5 @@ Dále se zabývá zahradničením a výrobou všelijakých léčivých mastí a 
 
 Má jednoho syna.
 
+--- 
 
