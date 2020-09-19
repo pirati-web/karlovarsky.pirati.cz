@@ -7,16 +7,34 @@ titles:
 category:
   - clenove
   - starostove
-description: Starosta města Mariánské Lázně, předseda MS Maránské Lázně
+  - komunal
+description: Starosta Mariánských Lázní
+profession: starosta města Mariánské Lázně
+heroImg: banner-ml.jpg
 img: people/Martin_Kalina.jpg # zakomentuj radek dokud není fotka
 mail:
 - martin.kalina@pirati.cz
-mob: 725 451 815
+mob: +420 725 451 815
 profiles:
   github:
   facebook:
   twitter:
   linkedin:
-calendar: https://mail.muml.cz/owa/calendar/e56f9134eabe402d9b6cb7b7357a4d5c@muml.cz/ee2b5704d7d542a39e857f7f86d40d0e10503943037333784796/calendar.html  
+partyUid: pirati
 ---
 
+Mariánské Lázně jsou Pirátská bašta, už druhé volební období je tamní starosta Pirát. Tím současným je od začátku roku 2018 Martin Kalina, Piráty před dvěma lety dovedl k obhajobě volebního vítězství.
+
+Martin je mariánskolázeňský rodák a patriot, které své rodné město "opustil" jen na dobu studií ekonomie na ZČU. Dlouhá léta pracoval jako dopravní dispečer, právě z této pozice přešel do funkce starosty. Ale dopravní problematika je stále v jeho hledáčku.
+
+Za poslední dva roky v Mariánských Lázních se jeho týmu povedla celá řada věcí. Je třeba zdůraznit, že úspěchy nejsou věcí jednotlivců. Pokud se má něco podařit, je třeba, aby na tom zamakali všichni. A právě to je podle jeho názoru hlavním důvodem Pirátských výsledků v Mariánských Lázních.
+
+Sestavili jsme silný tým lidí, kteří drží při sobě a prosazují společnou vizi. Tou je transparentní samospráva, zavádění moderních technologií a rozvoj města jako klenotu světového lázeňství. Podařilo se výrazně modernizovat odbavovací systém ve vozech MHD a díky snahám dopravního podniku se po městě prohánějí krásné nové trolejbusy. Ještě nás čeká rekonstrukce trolejového vedení. Celkově se do MHD investovalo a bude investovat téměř 200 milionů korun.
+
+Do 21. století se posunul také zimní stadion. Díky investici za 40 milionů je nový chladicí systém a moderní kluziště. V současnosti se rozjíždí na více etap kompletní rekonstrukci veřejného osvětlení. Celkem si tato investice vyžádá téměř sto milionů korun.
+
+V nejbližších letech čeká Mariánské Lázně rada dalších výzev – je potřeba zrekonstruovat radnici, připravit a nabídnout pozemky pro individuální výstavbu a pracovat na obnovení bytového fondu města.
+
+Martin je ve volném čase vášnivým čtenářem (pokud byste měli k prodeji kompletní dílo Jiřího Kulhánka, ozvěte se mu), rád vaří, tráví čas s přáteli a neodmítne v rozumné míře Plzeňské pivo.
+
+---
