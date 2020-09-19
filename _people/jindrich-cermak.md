@@ -10,7 +10,7 @@ category:
   - vybory
   - kontaktni_osoba
 description: Zastupitel města Karlovy Vary, mediální spojka pro Karlovarský Kraj
-profession: OSVČ, radní města Mariánské Lázně, fotograf, marketér
+profession: politický analytik, zastupitel města Karlovy Vary, psavec
 heroImg: banner-kv.jpg
 img: people/Jindrich_Cermak.jpg # zakomentuj radek dokud není fotka
 mail:
