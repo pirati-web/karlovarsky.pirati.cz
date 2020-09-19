@@ -16,6 +16,7 @@ profiles:
   twitter:
 partyUid: pirati
 ---
+
 Daniela Bílá je Pirátka srdcem i duší. Daniela sice pochází z Podbořan, oblasti srážkového stínu, ale už přes 25 let žije v Karlových Varech (i když si dlouho zvykala na deštivé počasí na západě).
 
 Pracovala na několika místních úřadech na různých úřednických pozicích, takže získala spoustu zkušeností.
