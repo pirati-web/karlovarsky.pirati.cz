@@ -19,6 +19,7 @@ profiles:
   facebook: https://www.facebook.com/profile.php?id=100006881596613
   twitter:
   linkedin:
+partyUid: pirati
 ---
 
 Zdeněk Třešňák je geodet a kartograf. I v důchodovém věku je stále aktivním sjezdovým lyžařem, windsurfistou, koloběžkářem. Vnoučata a pilotáž dronů vyplňují každou volnou chvíli. 
