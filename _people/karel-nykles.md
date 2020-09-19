@@ -6,9 +6,10 @@ titles:
   after:
 category:
   - clenove
+  - komunal
   - pks
   - vybory
-description: 4. místopředseda krajského sdružení Karlovarský kraj, předseda Komise pro životní prostředí, zemědělství a energetiku Karlovarského kraje
+description: 4. místopředseda krajského sdružení Karlovarský kraj, zastupitel Mariánských Lázní
 img: people/karel_nykles.jpg # zakomentuj radek dokud není fotka
 mail:
 - karel.nykles@pirati.cz
