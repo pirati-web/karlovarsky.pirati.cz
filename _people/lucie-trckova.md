@@ -19,6 +19,7 @@ profiles:
   facebook: https://www.facebook.com/lucie.svantnerova
   twitter:
   linkedin:
+partyUid: pirati
 ---
 
 Bez nadsázky nutno říci, že bez Lucie Trčkové by Piráti v Karlovarském kraji rozhodně tak dobře nefungovali.  
