@@ -9,6 +9,7 @@ category:
   - pks
   - pms
   - vybory
+ordpks: 3
 description: 2. místopředsedkyně Krajského sdružení Karlovarský kraj a předsedkyně místního sdružení Valeč # zobrazuje se v lide
 profession: regionální koordinátorka výzkumného projektu, ekologická zemědělkyně
 heroImg: banner-va.jpg
