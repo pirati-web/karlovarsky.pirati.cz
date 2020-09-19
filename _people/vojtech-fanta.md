@@ -8,7 +8,8 @@ category:
   - clenove
   - kraj
   - pks
-description: 1. místopředseda krajského sdružení, uvolněný zastupitel pro oblast lázeňství, cestovního ruchu a UNESCO
+ordpks: 2
+description: uvolněný zastupitel pro oblast lázeňství, cestovního ruchu a UNESCO, 1. místopředseda krajského sdružení
 img: people/Vojtech_Franta.jpg # zakomentuj radek dokud není fotka
 mail:
 - vojtech.franta@pirati.cz
