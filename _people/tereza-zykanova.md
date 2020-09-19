@@ -8,7 +8,7 @@ category:
   - clenove
   - komunal
   - vybory
-description: Zastupitelka ve městě Sokolov, členka Komise pro sociální oblast Karlovarského kraje
+description: Zastupitelka Sokolova
 img: people/tereza_zykanova.jpg # zakomentuj radek dokud není fotka
 mail:
 - tereza.zykanova@pirati.cz
