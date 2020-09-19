@@ -6,11 +6,11 @@ titles:
   after:
 category:
   - komunal
-description: Radní ve městě Loket
+description: Zastupitel Lokte
 img: people/roman_kvak.jpg # zakomentuj radek dokud není fotka
 mail:
 - r.kvak@loket.cz
-mob: 607 077 321
+mob: +420 607 077 321
 profiles:
   github:
   facebook:
