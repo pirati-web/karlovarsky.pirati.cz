@@ -1,6 +1,6 @@
 ---
 uid: daniela.bila
-name:     Daniela Bílá  	# běžně používáné jméno
+name: Daniela Bílá  	# běžně používáné jméno
 titles:
   before:
   after:
