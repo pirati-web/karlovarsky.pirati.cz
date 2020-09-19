@@ -17,7 +17,7 @@ mail:
 mob: +420 725 451 815
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/martin.kalina.545
   twitter:
   linkedin:
 partyUid: pirati
