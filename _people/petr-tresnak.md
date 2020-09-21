@@ -11,6 +11,7 @@ category:
   - komunal
 ordpks: 1
 description: poslanec PSP ČR, předseda krajského sdružení, zastupitel Mariánských Lázni
+heroImg: banner-ml.jpg
 img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
 - petr.tresnak@pirati.cz
