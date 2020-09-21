@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: zdravotnictvi
 order: 3
 title: Zdravotnictví
+img: program2020/03_zdrav.jpg
 #garant: nikola.indrova
 perex: Zdraví máme jen jedno
 ---
