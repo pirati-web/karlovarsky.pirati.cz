@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: zemedelstvi
 order: 10
 title: Zemědělství, lesnictví a vodní hospodářství
+img: program2020/10_zem.jpg
 #garant: nikola.indrova
 perex: Aktivně budeme podporovat odolné a šetrné hospodaření
 ---
