@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: urad
 order: 16
 title: Moderní úřad
+img: program2020/16_ku.jpg
 #garant: nikola.indrova
 perex: Naším cílem je přívětivý a vstřícný krajský úřad, který je blíže občanům
 ---
