@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: kontrola
 order: 9
 title: Kontrola a transparence
+img: program2020/09_transp.jpg
 #garant: nikola.indrova
 perex: Zveřejníme to, co můžeme, ne jen to, co musíme
 ---
