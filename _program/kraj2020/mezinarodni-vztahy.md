@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: mezinarodni-vztahy
 order: 15
 title: Mezinárodní vztahy
+img: program2020/15_mv.jpg
 #garant: nikola.indrova
 perex: Jsme krajem v srdci Evropy
 ---
