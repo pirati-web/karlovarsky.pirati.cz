@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: priroda
 order: 2
 title: Ochrana přírody a krajiny
+img: program2020/02_zp.jpg
 #garant: nikola.indrova
 perex: Chráníme svět i pro příští generace
 ---
