@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: finance
 order: 14
 title: Majetek a investice
+img: program2020/14_maj.jpg
 #garant: nikola.indrova
 perex: Prioritou jsou smysluplné projekty
 ---
