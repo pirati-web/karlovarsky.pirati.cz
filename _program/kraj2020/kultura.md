@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: kultura
 order: 5
 title: Kultura a památková péče
+img: program2020/05_kul.jpg
 #garant: nikola.indrova
 perex: Důraz klademe na kulturu
 ---
