@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: vzdelani
 order: 1
 title: Vzdělání
+img: program2020/01_vzdelavani.jpg
 #garant: nikola.indrova
 perex: Vzdělání chápeme jako nejcennější hodnotu pro život v 21. století
 ---
