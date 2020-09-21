@@ -7,7 +7,8 @@ titles:
 category:
   - clenove
   - komunal
-description: Zastupitel ve městě Cheb
+description: Zastupitel Chebu
+heroImg: banner-ch.jpg
 img: people/lada_tkaczysyn.jpg # zakomentuj radek dokud není fotka
 mail:
 - ladislav.tkaczyszyn@pirati.cz
