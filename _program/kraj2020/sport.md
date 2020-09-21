@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: sport
 order: 7
 title: Komunitní aktivity a sport
+img: program2020/07_sport.jpg
 #garant: nikola.indrova
 perex: Rozvoj pestrých komunitních aktivit napříč generacemi
 ---
