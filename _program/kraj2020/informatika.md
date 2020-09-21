@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: informatika
 order: 8
 title: IT a smart řešení
+img: program2020/08_it.jpg
 #garant: nikola.indrova
 perex: Vybudujeme opravdu chytrý kraj
 ---
