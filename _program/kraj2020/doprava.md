@@ -4,7 +4,7 @@ campaignGroupUid: volby2020
 uid: doprava
 order: 12
 title: Doprava a infrastruktura
-img: program2020/12_doprava.png
+img: program2020/12_dop.jpg
 #garant: nikola.indrova
 perex: Prioritní je dálniční propojení nejen s Prahou, ale i Německem
 ---
