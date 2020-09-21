@@ -7,6 +7,7 @@ titles:
 category:
   - komunal
 description: Zastupitel Lokte
+heroImg: banner-lo.jpg
 img: people/roman_kvak.jpg # zakomentuj radek dokud není fotka
 mail:
 - r.kvak@loket.cz
