@@ -9,6 +9,7 @@ category:
   - komunal
   - vybory
 description: Zastupitelka Sokolova
+heroImg: banner-so.jpg
 img: people/tereza_zykanova.jpg # zakomentuj radek dokud není fotka
 mail:
 - tereza.zykanova@pirati.cz
