@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: socialni-politika
 order: 6
 title: Sociální politika
+img: program2020/06_soc.jpg
 #garant: nikola.indrova
 perex: Chceme adekvátní financování klíčových sociálních služeb
 ---
