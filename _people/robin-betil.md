@@ -7,6 +7,7 @@ titles:
 category:
   - kontaktni_osoba
 description: Krajský koordinátor a volební manažer
+heroImg: banner-so.jpg
 img: people/Robin_Beitl.jpg # zakomentuj radek dokud není fotka
 mail:
 - robin.beitl@pirati.cz
