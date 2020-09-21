@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: energetika
 order: 11
 title: Energetika a nakládání s odpady
+img: program2020/11_energie.png
 #garant: nikola.indrova
 perex: Budeme se snažit cíleně snižovat emisní náročnost místní energetiky a průmyslu
 ---
