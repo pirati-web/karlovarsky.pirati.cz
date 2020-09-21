@@ -4,6 +4,7 @@ campaignGroupUid: volby2020
 uid: lazenstvi
 order: 4
 title: Cestovní ruch a lázeňství
+img: program2020/04_laz.jpg
 #garant: nikola.indrova
 perex: Kraj podporující lázeňství a cestovní ruch
 ---
