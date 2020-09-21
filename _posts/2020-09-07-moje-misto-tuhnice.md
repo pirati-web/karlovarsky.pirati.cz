@@ -10,7 +10,6 @@ title: Moje místo - Tuhnice
 author: Josef Janů
 authorId: josef.janu
 image: posts/MM_JJ.jpg
-important: true
 ---
 
 **Velmi rád zajedu na mnoho atraktivních míst v naší republice a Karlovarský kraj je takovými přímo poset. Ale nejoblíbenější je to, kde mám svou rodinu, přátele a uklidňující perličky každodenního života.** 
