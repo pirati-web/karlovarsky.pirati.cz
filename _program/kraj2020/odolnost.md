@@ -4,7 +4,7 @@ campaignGroupUid: volby2020
 uid: odolnost
 order: 13
 title: Odolnost v krizových situacích
-img: program2020/13_odol
+img: program2020/13_odol.jpg
 #garant: nikola.indrova
 perex: Aktivně budeme připravovat občany na krizové situace
 ---
