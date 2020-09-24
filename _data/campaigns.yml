@@ -6,4 +6,9 @@
   campaigns:
     - title: Šance změnit Karlovarský kraj    # individual campaigns within the group
       categoryUid: kraj2020
+  subLinks:
+    - title: Povolební strategie
+      icon: ico--strategy
+      classes: bg-grey-125 text-black
+      href: /volby-2020/povolebni-strategie/
 
