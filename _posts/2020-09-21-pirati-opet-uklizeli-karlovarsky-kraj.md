@@ -8,7 +8,6 @@ tags:
 title: Piráti opět uklízeli Karlovarský kraj
 author: KS Karlovarský kraj
 image: posts/uklid_2020.jpg
-important: true
 ---
 Tradiční dobrovolnické akce Ukliďme Česko, která si klade za cíl uklidit nelegálně vzniklé černé skládky a nepořádek na co největším území naší země, se jako obvykle účastnili Piráti po celém kraji.
 
