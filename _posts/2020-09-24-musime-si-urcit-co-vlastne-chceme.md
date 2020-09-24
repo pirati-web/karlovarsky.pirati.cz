@@ -5,11 +5,12 @@ layout: post
 tags:
     - Karlovarský_kraj
     - krajské_volby_2020
-title: Josef Janů a Vojtěch Frant: Musíme si určit, co vlastně chceme
+title: Josef Janů a Vojtěch Franta: Musíme si určit, co vlastně chceme
 author: Jindřich Čermák
 image: posts/duo_2020.jpg
 important: true
 ---
+
 ## **Josef Janů a Vojtěch Franta jsou ve vedení kraje čtyři roky. Co se jim povedlo a nepovedlo? Jaké jsou programové představy na další období? To vše ve velkém dvojrozhovoru!**
 
 **Ve vedení kraje jste takřka čtyři roky. Je za tu dobu něco, co se vám vysloveně nepovedlo?**
