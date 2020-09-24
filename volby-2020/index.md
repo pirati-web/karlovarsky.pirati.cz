@@ -21,5 +21,5 @@ Současně s volbami do krajského zastupitelstva probíhají <b>volby do Senát
 <div class="mt-24 md:mt-36 space-y-4">
   {% include buttons/icon.html href="?pohled=program" icon="ico--chevron-right" cta="Program" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
   {% include buttons/icon.html href="?pohled=kandidati" icon="ico--chevron-right" cta="Kandidáti" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
-  {% include buttons/icon.html href="/docs/PiratskeListy_Karlovarskykraj_podzim2020.pdf" icon="ico--book" cta="Pirátské Listy" class="btn--violet-400 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html href="https://a.pirati.cz/karlovarsky/docs/PiratskeListy_Karlovarskykraj_podzim2020.pdf" icon="ico--book" cta="Pirátské Listy" class="btn--violet-400 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 </div>
