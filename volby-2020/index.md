@@ -5,7 +5,7 @@ heroBgImg: volby2020.jpg
 campaignGroupUid: volby2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
-customizeHeader: true
+customizeHeader: false
 ---
 
 <h2 class="head-alt-md mt-64">2. a 3. října 2020</h2>
