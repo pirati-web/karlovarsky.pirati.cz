@@ -5,7 +5,7 @@ layout: post
 tags:
     - Karlovarský_kraj
     - krajské_volby_2020
-title: Josef Janů a Vojtěch Franta: Musíme si určit, co vlastně chceme
+title: Josef Janů a Vojtěch Franta - Musíme si určit, co vlastně chceme
 author: Jindřich Čermák
 image: posts/duo_2020.jpg
 important: true
