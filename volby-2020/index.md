@@ -15,7 +15,7 @@ Volby do Krajského zastupitelstva <b>proběhnou 2. a 3. října 2020</b>.
 </p>
 
 <p class="leading-snug">
-Současně s volbami do krajského zastupitelstva probíhají <b>volby do Senátu v obvodě č.3 - Cheb a Tachov</b>, za Piráty tam kandiduje <a href="/lide/marketa-monsportova">Markéta Monsportová</a>. Její webovou prezentaci u naleznete na <a href="https://petrjenik.cz" target="_blank">https://petrjenik.cz</a>. Případné druhé kolo voleb do Senátu proběhne 9. a 10. října 2020.
+Současně s volbami do krajského zastupitelstva probíhají <b>volby do Senátu v obvodě č.3 - Cheb a Tachov</b>, za Piráty tam kandiduje <a href="/lide/marketa-monsportova">Markéta Monsportová</a>. Její webovou prezentaci u naleznete na <a href="https://monsportova.cz" target="_blank">https://monsportova.cz</a>. Případné druhé kolo voleb do Senátu proběhne 9. a 10. října 2020.
 </p>
 
 <div class="mt-24 md:mt-36 space-y-4">
