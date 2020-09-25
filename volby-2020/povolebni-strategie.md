@@ -91,3 +91,5 @@ Pokud dostaneme důvěru občanů, budeme se snažit o pokračování naší pr�
  - Souběh funkce našeho zastupitele a členství v dozorčí radě či představenstvu krajské firmy je přípustný za předpokladu, že nominace bude výsledkem otevřeného a transparentního výběrového řízení s důrazem na kvalifikaci uchazeče a jeho schopnost věnovat se důsledně oběma funkcím.
 
 **Povolební strategie je nedílnou součástí volebního programu a kandidáti se zavázali k jejímu dodržování. Text strategie lze změnit pouze se souhlasem krajského fóra.**
+
+---
