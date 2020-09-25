@@ -11,4 +11,8 @@
       icon: ico--strategy
       classes: bg-grey-125 text-black
       href: /volby-2020/strategie.html
+    - title: Pirátské listy
+      icon: ico--calculator
+      classes: bg-black text-white
+      href: /download/Piratske_listy_Liberecky_kraj_podzim_2020.pdf
 
