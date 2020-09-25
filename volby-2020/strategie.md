@@ -1,6 +1,8 @@
 ---
 layout: page
 contentClass: content-block
+rbar:
+  - program
 campaignGroupUid: volby2020
 title: Povolební strategie pro volby do zastupitelstva Karlovarského kraje v roce 2020
 ---
