@@ -52,7 +52,7 @@ calendar:
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
   title: Kalendář
-  id: piratikvk@gmail.com
+  id: piratikvk@linen-bliss-290600.iam.gserviceaccount.com
   page: https://calendar.google.com/calendar/embed?src=piratikvk%40gmail.com&ctz=Europe%2FPrague
 calendarepic:
   title: Kalendář e-PIC
