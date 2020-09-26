@@ -1,6 +1,6 @@
 ---
 campaignCategoryUid: kraj2020
-campaignGroupUid: volby
+campaignGroupUid: volby2020
 uid: doprava
 order: 12
 title: Doprava a infrastruktura
