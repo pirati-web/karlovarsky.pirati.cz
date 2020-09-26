@@ -2,7 +2,7 @@
 layout: elections-2020
 title: Krajské volby 2020
 heroBgImg: volby2020.jpg
-campaignGroupUid: volby
+campaignGroupUid: volby2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 customizeHeader: true
