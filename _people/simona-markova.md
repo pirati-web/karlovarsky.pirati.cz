@@ -9,8 +9,6 @@ description:
 profession: historička umění
 heroImg: banner-lo.jpg
 img: people/Simona_Markova.jpg # zakomentuj radek dokud není fotka
-mail:
-- 
 profiles:
   facebook:
 ---
