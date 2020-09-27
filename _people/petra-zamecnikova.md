@@ -2,7 +2,7 @@
 uid: petra.zamecnikova
 name:     Petra Zámečníková 	# běžně používáné jméno
 titles:
-  before: 
+  before: Bc.
   after:
 category:
 description: 
