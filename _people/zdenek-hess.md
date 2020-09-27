@@ -8,7 +8,7 @@ category:
 description: 
 profession: lékař
 heroImg: banner-dr.jpg
-img: people/Zdeněk Hess.jpg # zakomentuj radek dokud není fotka
+img: people/Zdenek_Hess.jpg # zakomentuj radek dokud není fotka
 mail:
 - zdenek.hess@pirati.cz
 profiles:
