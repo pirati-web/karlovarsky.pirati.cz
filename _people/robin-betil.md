@@ -19,6 +19,8 @@ profiles:
   twitter:
   linkedin:
 ---
+**25 let, podnikatel, volební manažer a koordinátor Pirátů Karlovarského kraje, Sokolov**
+
 Robin Beitl pracuje jako koordinátor a volební manažer Pirátů Karlovarského kraje.
 
 Pochází z Březové u Sokolova. Vystudoval víceleté gymnázium v Sokolově a poté začal svou kariéru ve stavebním průmyslu ve kterém také dnes více než tři roky podniká.
