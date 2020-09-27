@@ -9,8 +9,6 @@ description:
 profession: zdravotní sestra na mateřské dovolené
 heroImg: banner-so.jpg
 img: people/Nikola_Pudilova.jpg # zakomentuj radek dokud není fotka
-mail:
-- 
 profiles:
   facebook:
 ---
