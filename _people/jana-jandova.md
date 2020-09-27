@@ -14,6 +14,8 @@ mail:
 profiles:
   facebook:
 ---
+**66 let, asistentka praktické lékařky, předsedkyně spolku, Karlovy Vary**
+
 Jana Jandová má bohaté zkušenosti z komunální politiky, kdy byla jeden čas i zastupitelkou a členkou komisí a dozorčích rad. V současné době je za Pirátskou stranu členkou kontrolního výboru v Karlových Varech.
 
 Mezi její záliby patří kultura, zahrada, ruční práce, veřejné dění, dobrovolnictví, společenské akce a zdravý životní styl.
