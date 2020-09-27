@@ -2,7 +2,7 @@
 uid: tadeas.kral
 name:     Tadeáš Král 	# běžně používáné jméno
 titles:
-  before: 
+  before: Bc.
   after:
 category:
 description: 
