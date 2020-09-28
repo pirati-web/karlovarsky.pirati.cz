@@ -20,4 +20,4 @@ Velkým tématem je denní pohyb českých pracovníků v německém pohraničí
 
 Plný dopad současné situace se projeví v řádech měsíců. Příjmy velké části obyvatel našeho kraje jsou přímo vázány na lázeňství, cestovní ruch, nebo přeshraniční styk, včetně pendlerů. Opatření proti koronaviru představují podstatný zásah do HDP našeho kraje a bude pro to důležité, jak našemu kraji vláda ekonomicky pomůže. *„Na všech úrovních samosprávy – vládní, krajské i obecní – musíme vytvořit účelné podpůrné plány pro obnovu, takové malé Marshallovy plány. Věřím, že současná obtížná situace nám přinese i něco dobrého. Uvědomíme si, co je v životě důležité a trochu přibrzdíme náš hektický životní styl. A k tomu může přispět návštěva a relaxace v lázních našeho kraje. Bude to ideální místo na dovolenou,“* uzavírá optimisticky Josef Janů, krajský radní.
 
-Pirátské listy si můžete přečíst [zde:](https://karlovarsky.pirati.cz/download/PiratskeListy_Karlovarskykraj_podzim2020.pdf)
+Pirátské listy si můžete přečíst **[zde](https://karlovarsky.pirati.cz/download/PiratskeListy_Karlovarskykraj_podzim2020.pdf)**
