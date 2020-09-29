@@ -24,6 +24,7 @@ Přínos dalších dvou velkých okruhů - lázeňství a cestovního ruchu - ov
 Kvůli pandemii bylo také odloženo finální rozhodnutí o přístupu západočeského lázeňského trojúhelníku na **seznam památek UNESCO** v rámci nominace The Great Spas of Europe. Tato iniciativa, která začala před více než deseti lety, spojuje jedenáct evropských lázeňských měst, nejvíce právě z našeho kraje. Celá nominace má tím pádem celoevropský význam. Můžeme se pokusit využít tento potenciál a lákat k léčbě a relaxaci i obyvatele na západ od nás. Když budeme mít dobrou strategii, můžeme z toho profitovat všichni, včetně samospráv. UNESCO je více příležitostí než hrozbou. Vnímáme synergii RE:STARTu, UNESCO a Institutu lázeňství a balneologie jako milník ve vývoji, kdy lázeňská města mohou zažít renesanci lázeňství. A to i přes těžkou ránu, která nyní na nás všechny dopadla.
 
 ***Josef Janů**, krajský radní*
+
 ***Vojtěch Franta**, uvolněný zastupitel*
 
 ## Mariánské Lázně
