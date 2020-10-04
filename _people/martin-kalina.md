@@ -9,6 +9,7 @@ category:
   - starostove
   - kraj
   - komunal
+ordkraj: 6
 description: Starosta Mariánských Lázní, Zastupitel Karlovarského kraje
 profession: starosta města Mariánské Lázně
 heroImg: banner-ml.jpg
