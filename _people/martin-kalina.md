@@ -7,8 +7,9 @@ titles:
 category:
   - clenove
   - starostove
+  - kraj
   - komunal
-description: Starosta Mariánských Lázní
+description: Starosta Mariánských Lázní, Zastupitel Karlovarského kraje
 profession: starosta města Mariánské Lázně
 heroImg: banner-ml.jpg
 img: people/Martin_Kalina.jpg # zakomentuj radek dokud není fotka
