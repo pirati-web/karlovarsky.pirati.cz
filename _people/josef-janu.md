@@ -9,6 +9,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - kraj
 - komunal
 - vybory
+ordkraj: 1
 profession: krajský radní pro regionální rozvoj, IT a projektové řízení, stavební inženýr
 heroImg: banner-kv.jpg
 img: people/Josef_Janu.jpg             # 165 x 220
