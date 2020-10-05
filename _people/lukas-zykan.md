@@ -9,7 +9,7 @@ category:
   - vybory
   - kraj
 ordkraj: 4
-description: Zastupitel Karlovarského kraje, 2. místopředseda místního sdružení Sokolov
+description: Zastupitel Karlovarského kraje
 profession: OSVČ, property manager, hudebník
 heroImg: banner-so.jpg
 img: people/Lukas_Zykan.jpg # zakomentuj radek dokud není fotka
