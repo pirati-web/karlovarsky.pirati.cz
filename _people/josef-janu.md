@@ -12,8 +12,8 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 ordkraj: 1
 profession: krajský radní pro regionální rozvoj, IT a projektové řízení, stavební inženýr
 heroImg: banner-kv.jpg
-img: people/Josef_Janu.jpg             # 165 x 220
-description: Krajský radní pro oblast regionálnhího rozvoje, zastupitel města Karlovy Vary # kratký popis, max 160 znaků
+img: people/Josef_Janu.jpg             
+description: Zastupitel Karlovarského kraje, zastupitel Karlových Varů 
 mail:
 - josef.janu@pirati.cz
 mob:	+420 606 183 864
