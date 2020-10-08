@@ -15,7 +15,7 @@ heroImg: banner-so.jpg
 img: people/Lukas_Zykan.jpg # zakomentuj radek dokud není fotka
 mail:
 - lukas.zykan@pirati.cz
-mob:
+mob: +420 737 256 408
 profiles:
   github:
   facebook: https://www.facebook.com/maitai.saytoo
