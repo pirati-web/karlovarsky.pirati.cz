@@ -8,7 +8,6 @@ tags:
 title: Piráti jsou vidět na kraji i v obcích
 author: Piráti Karlovarského kraje
 image: posts/skupina_2020.jpg
-important: true
 ---
 
 **Piráti vlétli do vod krajské i komunální politiky s pořádnou vervou. Jejich práce je vidět v koalicích a opozicích. Co se povedlo na kraji a v obcích shrnuje náš článek.**
