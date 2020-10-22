@@ -8,7 +8,6 @@ tags:
 title: Josef Janů a Vojtěch Franta - Kraj si musí určit, co vlastně chce
 author: Jindřich Čermák
 image: posts/duo_2020.jpg
-important: true
 ---
 
 ## **Josef Janů a Vojtěch Franta jsou ve vedení kraje čtyři roky. Co se jim povedlo a nepovedlo? Jaké jsou programové představy na další období? To vše ve velkém dvojrozhovoru!**
