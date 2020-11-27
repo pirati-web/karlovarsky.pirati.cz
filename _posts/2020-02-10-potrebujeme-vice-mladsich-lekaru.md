@@ -1,7 +1,6 @@
 ---
 date: 2020-02-10
 category: blog
-tags: tag1 tag2
 title: Potřebujeme více mladších lékařů
 author: petr.tresnak
 aurhodId: petr.tresnak
