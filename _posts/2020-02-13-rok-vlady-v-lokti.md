@@ -1,7 +1,7 @@
 ---
 date: 2020-02-13
 category: blog
-tags: loket
+tags: Loket
 title: Rok vlády v Lokti
 author: jindrich.cermak
 authorId: jindrich.cermak    # uid nekoho z _people (nepoviné)
