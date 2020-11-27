@@ -8,7 +8,6 @@ tags:
 title: Opravník populárních vyjednávacích omylů
 author: Piráti Karlovarského kraje
 image: posts/opravnik.jpg
-important: true
 ---
 
 **Sestavování nové krajské koalice vstoupilo do třetího týdne. Dva nejzápadnější kraje jsou v tuto chvíli poslední, kde není jasno o budoucích regionálních vládách. Pochopitelně, že čím déle vše trvá, tím roste nejen tlak na všechny zúčastněné, ale také různé dezinformace a mýty. Pokusíme se některá z těchto tvrzení vyvrátit v tomto textu.**
