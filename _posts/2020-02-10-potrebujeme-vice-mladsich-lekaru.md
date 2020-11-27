@@ -4,7 +4,6 @@ category: blog
 title: Potřebujeme více mladších lékařů
 author: petr.tresnak
 aurhodId: petr.tresnak
-image: posts/PT.jpg
 ---
 
 # Potřebujeme více mladších lékařů
