@@ -1,7 +1,6 @@
 ---
 date: 2020-01-23
 category: blog
-tags: tag1 tag2
 title: Tři roky ve vedení kraje
 author: josef.janu
 authorId: josef.janu    # uid nekoho z _people (nepoviné)
