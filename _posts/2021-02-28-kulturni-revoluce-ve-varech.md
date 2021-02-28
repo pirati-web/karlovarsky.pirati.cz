@@ -50,7 +50,7 @@ Jaké byly reálné důvody jejich odvolání?**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljxIG2mOXrU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Reprotáž ČT o odvolaných ředitelech*
 
-Proto požadujeme, aby vedení města tento svůj krok vysvětlilo, situaci dále nemlžilo a neuráželo občany, kteří se snaží jen znát odpovědi. Dělá ostudu nejen sobě, ale celému našemu krásnému městu. Duch karlovarského losovačky, který nás “proslavil” se opět vrátil.
+Proto požadujeme, aby vedení města tento svůj krok vysvětlilo, situaci dále nemlžilo a neuráželo občany, kteří se snaží jen znát odpovědi. Dělá ostudu nejen sobě, ale celému našemu krásnému městu. Duch karlovarské losovačky, který nás “proslavil” se opět vrátil.
 
 {% asset 'https://a.pirati.cz/karlovarsky/img/posts/kulturni_revoluce_03.jpg' magick:gravity='north' alt='osobnosti'%}
 *Šéfdirigent Kučera, ředitel Polívka a ředitel Kropp. Osobnosti na odchodu*
