@@ -6,10 +6,10 @@ titles:
   after:
 category:
   - clenove
-  - kraj
+  - vkraj
   - vybory
-ordkraj: 3
-description: Zastupitelka Karlovarského kraje
+ordvkraj: 3
+description: uvolněná zastupitelka Karlovarského kraje
 profession: vedoucí cestovní kanceláře, manažerka, kulturní aktivistka a zastupitelka Karlovarského kraje
 heroImg: banner-ml.jpg
 img: people/03_Marketa_Monsportova.jpg # zakomentuj radek dokud není fotka
