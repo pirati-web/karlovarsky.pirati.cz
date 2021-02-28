@@ -9,9 +9,8 @@ category:
   - komunal
   - kraj
   - vybory
-  - kontaktni_osoba
 ordkraj: 5
-description: Zastupitel Karlovarského kraje, Zastupitel Karlových Varů, mediální spojka pro Karlovarský Kraj
+description: Zastupitel Karlovarského kraje, Zastupitel Karlových Varů
 profession: politický analytik, zastupitel města Karlovy Vary, psavec
 heroImg: banner-kv.jpg
 img: people/Jindrich_Cermak.jpg # zakomentuj radek dokud není fotka
