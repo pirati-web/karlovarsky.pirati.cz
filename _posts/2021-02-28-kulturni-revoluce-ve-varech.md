@@ -23,7 +23,7 @@ V den, kdy se odvolávání projednávalo, proběhla před budovou magistrátu d
 
 Situaci dokresluje i skutečnost, že na jednání se takto důležité a kontroverzní rozhodnutí řešilo až v posledním bodě "Různé". Bez předložených materiálů. Bez slova vysvětlení. Jednoznačně to vypovídá o snaze karlovarského vedení zamést rozhodnutí pod koberec a finální verdikt co nejvíce tutlat.
 
-Jednoznačné hlasování rady potvrdilo neochotu vedení byť jen uvažovat nad svým krokem. Ředitele byli 23.2. odvoláni k 28.2.2021.
+Jednoznačné hlasování rady potvrdilo neochotu vedení byť jen uvažovat nad svým krokem. Ředitelé byli 23.2. odvoláni. Ke dni 28.2.2021...
 
 Pirátský zastupitel Jindřich Čermák, který byl na jednání jakožto zástupce opozice také přítomen, později uvedl:
 
