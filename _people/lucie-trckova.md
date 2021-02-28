@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - kontaktni_osoba
 description: Koordinátorka krajského sdružení
 profession: manažerka v tiskárně, markeťačka, produkční, koordinátorka Pirátů Karlovarského kraje
 heroImg: banner-so.jpg
