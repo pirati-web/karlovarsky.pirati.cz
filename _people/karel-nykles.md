@@ -7,10 +7,8 @@ titles:
 category:
   - clenove
   - komunal
-  - pks
   - vybory
-ordpks: 5
-description: 4. místopředseda krajského sdružení Karlovarský kraj, zastupitel Mariánských Lázní
+description: zastupitel Mariánských Lázní
 profession: EMEA Cyber Security Manager, zastupitel města Mariánské Lázně
 heroImg: banner-ml.jpg
 img: people/Karel_Nykles.jpg # zakomentuj radek dokud není fotka
