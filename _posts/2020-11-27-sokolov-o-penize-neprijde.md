@@ -10,7 +10,6 @@ tags:
 title: Sokolov o peníze nepřijde
 author: Piráti Karlovarského kraje
 image: posts/horni_zakon.jpg
-important: true
 ---
 **Informace šířící se z vedení sokolovské radnice jsou více než zavádějící. Změnou horního zákona město o peníze nepřijde. Ve skutečnosti dojde k podstatnému navýšení výběru, který bude muset těžební společnost zaplatit. Není nám tedy jasné, jestli vedení města hájí zájmy Sokolova a jeho občanů nebo zájmy Sokolovské uhelné.**
 
