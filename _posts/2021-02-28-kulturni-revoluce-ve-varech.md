@@ -25,8 +25,6 @@ Situaci dokresluje i skutečnost, že na jednání se takto důležité a kontro
 
 Jednoznačné hlasování rady potvrdilo neochotu vedení byť jen uvažovat nad svým krokem. Ředitele byli 23.2. odvoláni k 28.2.2021.
 
-  
-
 Pirátský zastupitel Jindřich Čermák, který byl na jednání jakožto zástupce opozice také přítomen, později uvedl:
 
 *"Politik by měl umět držet emoce. Nebo se to aspoň často požaduje. Těžko lze ale zachovat chladnou hlavu proti aroganci moci a lidsky podlému jednání, jak to předvedla současná rada města, jež se ve svých vyjádřeních schovává za ptydepe, které jako by připlulo z dob dávno minulých. Takové emoce jsou pak ze zoufalství nad takovým přístupem. I proto je tato glosa možná více zabarvená, než by měla být.*
@@ -37,15 +35,22 @@ Pirátský zastupitel Jindřich Čermák, který byl na jednání jakožto zást
 
 Na protest vůči odvolání ředitelů rezignoval Jan Kučera, šéfdirigent KSO, který v rozhovoru pro klasikaplus.cz řekl: *"Na odvolání pana ředitele jsem reagoval rezignací velmi spontánně doslova pár minut po odhlasování. Dal jsem tím jasně najevo, že s takovými praktikami ze strany magistrátu nechci mít nic společného. Neznamená to ovšem ani v nejmenším, že opouštím loď KSO! Naopak, další vývoj této bezprecedentní kauzy budu bedlivě sledovat a orchestrem chci umělecky spolupracovat i nadále. Takto moje rozhodnutí chápou i hudebníci z orchestru a další kolegové z oboru – a já jim za to děkuji!"*
 
-  
-
 *"Magistrát města Karlovy Vary pod vedením primátorky Andrey Pfeffer Ferklové z ANO právě zveřejnil výběrové řízení na nového ředitele KSO Karlovarský symfonický orchestr. Vyplývá z něj, že k získání toho místa nemusíte o hudbě vědět nic (podmínkou přijetí je pouze všeobecný kulturní přehled), ovšem bez kvalitních řidičských schopností to nepůjde. A taky jsem se konečně dozvěděl, že orchestr je žena! Se záměrem jejího financování ovšem občas bývá problém,"*  napsal následně Jan Kučera k novému výběrovému řízení na svém Facebooku.
 
- Abychom situaci shrnuli, vedení města má plné právo ředitele příspěvkových organizací odvolat. To co na situaci kritizujeme jsou okolnosti, a mlžení ze strany magistrátu. Vedení města [vydalo 25. 2. oficiální vyjádření](https://mmkv.cz/cs/aktuality/stanovisko-rady-mesta-k-vyberovym-rizenim-na-reditele), které však žádný z otazníků nevyvrací. O co hůře, mnohé otázky vyvstávají.  
+{% asset 'https://a.pirati.cz/karlovarsky/img/posts/kulturni_revoluce_02.jpg' magick:gravity='north' alt='inzerát'%}
+*Část inzerátu na nového ředitele KSO*
+
+Abychom situaci shrnuli, vedení města má plné právo ředitele příspěvkových organizací odvolat. To co na situaci kritizujeme jsou okolnosti, a mlžení ze strany magistrátu. Vedení města [vydalo 25. 2. oficiální vyjádření](https://mmkv.cz/cs/aktuality/stanovisko-rady-mesta-k-vyberovym-rizenim-na-reditele), které však žádný z otazníků nevyvrací. O co hůře, mnohé otázky vyvstávají.  
   
 **Jaké ostatní nástroje rada vyčerpala?  
 Proč ředitele ujišťovala, že jejich odvolání není na stole?  
 Proč nebere ohledy na názor veřejnosti?  
 Jaké byly reálné důvody jejich odvolání?**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljxIG2mOXrU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Reprotáž ČT o odvolaných ředitelech*
+
 Proto požadujeme, aby vedení města tento svůj krok vysvětlilo, situaci dále nemlžilo a neuráželo občany, kteří se snaží jen znát odpovědi. Dělá ostudu nejen sobě, ale celému našemu krásnému městu. Duch karlovarského losovačky, který nás “proslavil” se opět vrátil.
+
+{% asset 'https://a.pirati.cz/karlovarsky/img/posts/kulturni_revoluce_03.jpg' magick:gravity='north' alt='osobnosti'%}
+*Šéfdirigent Kučera, ředitel Polívka a ředitel Kropp. Osobnosti na odchodu*
