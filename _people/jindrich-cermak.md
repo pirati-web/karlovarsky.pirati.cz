@@ -7,10 +7,13 @@ titles:
 category:
   - clenove
   - komunal
+  - vkraj
   - kraj
+  - pks
   - vybory
-ordkraj: 5
-description: Zastupitel Karlovarského kraje, Zastupitel Karlových Varů
+ordvkraj: 2
+ordpks: 5
+description: Radní Karlovarského kraje pro školství, Zastupitel Karlových Varů, 4. místopředseda krajského sdružení Karlovarského kraje
 profession: politický analytik, zastupitel města Karlovy Vary, psavec
 heroImg: banner-kv.jpg
 img: people/Jindrich_Cermak.jpg # zakomentuj radek dokud není fotka
