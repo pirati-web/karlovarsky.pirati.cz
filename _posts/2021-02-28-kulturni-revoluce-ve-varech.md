@@ -25,7 +25,7 @@ Situaci dokresluje i skutečnost, že na jednání se takto důležité a kontro
 
 Jednoznačné hlasování rady potvrdilo neochotu vedení byť jen uvažovat nad svým krokem. Ředitele byli 23.2. odvoláni k 28.2.2021.
 
-Pirátský zastupitel [Jindřich Čermák](/lide/jindrich-cermak), který byl na jednání jakožto zástupce opozice také přítomen, později uvedl:
+Pirátský zastupitel Jindřich Čermák, který byl na jednání jakožto zástupce opozice také přítomen, později uvedl:
 
 *"Politik by měl umět držet emoce. Nebo se to aspoň často požaduje. Těžko lze ale zachovat chladnou hlavu proti aroganci moci a lidsky podlému jednání, jak to předvedla současná rada města, jež se ve svých vyjádřeních schovává za ptydepe, které jako by připlulo z dob dávno minulých. Takové emoce jsou pak ze zoufalství nad takovým přístupem. I proto je tato glosa možná více zabarvená, než by měla být.*
 
