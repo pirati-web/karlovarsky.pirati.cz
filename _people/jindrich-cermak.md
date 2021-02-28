@@ -8,7 +8,6 @@ category:
   - clenove
   - komunal
   - vkraj
-  - kraj
   - pks
   - vybory
 ordvkraj: 2
