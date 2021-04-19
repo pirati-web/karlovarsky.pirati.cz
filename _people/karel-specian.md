@@ -7,7 +7,7 @@ titles:
 category:
   - kontaktni_osoba
 description: mediální spojka pro Karlovarský Kraj
-profession: 
+profession: student, Mediální spojka Pirátské strany pro Karlovarský kraj
 heroImg: banner-kv.jpg
 img: people/Karel_Specian.jpg # zakomentuj radek dokud není fotka
 mail:
