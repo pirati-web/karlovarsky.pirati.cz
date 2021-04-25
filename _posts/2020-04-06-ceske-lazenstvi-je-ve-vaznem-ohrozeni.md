@@ -5,7 +5,7 @@ layout: post
 tags:
     - Karlovarský kraj
     - Tisková zpráva
-    - Lázeňství
+    - lázeňství
 title: České lázeňství je ve vážném ohrožení
 author: KS Karlovarský kraj
 image: posts/ferdinand.jpg
