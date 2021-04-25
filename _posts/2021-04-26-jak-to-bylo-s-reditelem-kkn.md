@@ -6,7 +6,8 @@ tags:
     - Karlovarský_kraj
     - KKN
     - Josef_März
-    - Dezinformace
+    - dezinformace
+    - zdravotnictví
 title: Jak to bylo s ředitelem KKN
 author: Piráti Karlovarského kraje
 image: posts/nemKV.png
