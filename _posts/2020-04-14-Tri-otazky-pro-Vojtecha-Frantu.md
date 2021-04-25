@@ -3,7 +3,7 @@ date: 2020-04-14
 category: blog
 tags: 
  - Karlovarský kraj 
- - Lázeňství 
+ - lázeňství 
  - 3 otázky
 title: Tři otázky pro... Vojtěcha Frantu
 author: KS Karlovarský kraj
