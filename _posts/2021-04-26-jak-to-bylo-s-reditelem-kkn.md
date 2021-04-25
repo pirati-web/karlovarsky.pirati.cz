@@ -1,4 +1,4 @@
-﻿Veřejným prostorem v Karlovarském kraji se poslední dobou šíří nepodložené a zavádějící informace o volbě ředitele Karlovarské krajské nemocnice. Rádi bychom proto veškerá fakta uvedli na pravou míru.
+*Veřejným prostorem v Karlovarském kraji se poslední dobou šíří nepodložené a zavádějící informace o volbě ředitele Karlovarské krajské nemocnice. Rádi bychom proto veškerá fakta uvedli na pravou míru.*
 
 Vedení kraje je vyčítáno, že součástí komise, která ředitele vybírala, byl i následný vítěz VŘ Josef März, to však není pravda. S podáním příhlášky do VŘ komisi opustil a ta nakonec zasedla v obsazení: Jindřich Čermák, Jan Bureš, Patrik Pizinger, Pavel Čekan, Petr Kulhánek.
 
