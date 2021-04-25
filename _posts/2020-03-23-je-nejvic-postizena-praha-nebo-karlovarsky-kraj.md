@@ -5,7 +5,7 @@ layout: post
 tags:
     - Tisková_zpráva
     - Karlovarský_kraj
-    - Zdravotnictví
+    - zdravotnictví
 title: Je nejvíce postižena Praha nebo Karlovarský kraj?
 author: KS Karlovarský kraj
 image: posts/virus.jpg
