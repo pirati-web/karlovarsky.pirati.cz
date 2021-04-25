@@ -9,7 +9,7 @@ tags:
     - Dezinformace
 title: Jak to bylo s ředitelem KKN
 author: Piráti Karlovarského kraje
-image: posts/kulturni_revoluce_01.jpg
+image: 
 ---
 
 **Veřejným prostorem v Karlovarském kraji se poslední dobou šíří nepodložené a zavádějící informace o volbě ředitele Karlovarské krajské nemocnice. Rádi bychom proto veškerá fakta uvedli na pravou míru.**
