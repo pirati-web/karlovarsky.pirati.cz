@@ -1,3 +1,17 @@
+---
+date: 2021-04-26
+category: blog
+layout: post
+tags:
+    - Karlovarský_kraj
+    - KKN
+    - Josef_März
+    - Dezinformace
+title: Jak to bylo s ředitelem KKN
+author: Piráti Karlovarského kraje
+image: posts/kulturni_revoluce_01.jpg
+---
+
 **Veřejným prostorem v Karlovarském kraji se poslední dobou šíří nepodložené a zavádějící informace o volbě ředitele Karlovarské krajské nemocnice. Rádi bychom proto veškerá fakta uvedli na pravou míru.**
 
 Vedení kraje je vyčítáno, že součástí komise, která ředitele vybírala, byl i následný vítěz VŘ Josef März, to však není pravda. S podáním příhlášky do VŘ komisi opustil a ta nakonec zasedla v obsazení: Jindřich Čermák, Jan Bureš, Patrik Pizinger, Pavel Čekan, Petr Kulhánek.
