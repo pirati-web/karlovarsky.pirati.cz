@@ -11,7 +11,7 @@ title: Kulturní revoluce v Karlových Varech?
 author: Karel Špecián
 authorId: karel.specian
 image: posts/kulturni_revoluce_01.jpg
-important: true
+
 ---
 **Víte, co začíná být novodobá karlovarská tradice? Vždy v únoru se hledají nové impulsy. Jinými slovy, od nástupu nového vedení se vždy v únoru vyhazují ředitelé městských organizací. Bez důvodů. V roce 2019 to bylo Infocentrum, loni ředitelé Lázeňských lesů, Správy lázeňských parků, Městského zařízení sociálních služeb a Správy přírodních léčivých zdrojů a kolonád. Letos se budou hledat nové impulsy v Karlovarském symfonickém orchestru (KSO) a v Kanceláři architektury města (KAM). V zemi nám nyní probíhá čtvrtá vlna pandemie koronaviru a kulturní instituce po celém Česku padají do finančních problémů. Téměř všude města své kulturní instituce ať už finančně, nebo jiným způsobem podporují. Karlovy Vary jsou tak v tomto ohledu nepěknou výjimkou.**
 
