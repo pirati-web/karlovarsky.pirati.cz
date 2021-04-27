@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2021-04-27
 category: blog
 layout: post
 tags:
@@ -8,7 +8,8 @@ tags:
     - ZSO
 title: Orchestry o peníze nepřijdou!
 author: Piráti Karlovarského kraje
-image: 
+image: posts/kso_penize.jpg
+important: true
 ---
 **Karlovarský kraj bude již příští zastupitelstvo řešit dotace pro naše symfonické orchestry a další kulturní instituce.**
 
