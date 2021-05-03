@@ -12,7 +12,7 @@ authorId: martin.kalina
 image: posts/Martin_Kalina_Marianske_lazne.png
 important: true
 ---
-## **Krajský zastupitel vs. představitel města – pohled na věc ze správného úhlu**
+## **Krajský zastupitel vs. představitel města – pohled na otázku dotace pro orchestry ze správného úhlu**
 
 Vážení spoluobčané.
 
