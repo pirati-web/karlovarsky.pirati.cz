@@ -8,7 +8,7 @@ tags:
     - ZSO
 title: Správný úhel pohledu
 author: Martin Kalina
-authorID: martin.kalina
+authorId: martin.kalina
 image: 
 important: true
 ---
