@@ -1,3 +1,4 @@
+---
 date: 
 category: blog
 layout: post
@@ -10,6 +11,7 @@ author: Martin Kalina
 authorID: martin.kalina
 image: posts/kso_money.jpg
 important: true
+---
 ## **Krajský zastupitel vs. představitel města – pohled na věc ze správného úhlu**
 
 Vážení spoluobčané.
