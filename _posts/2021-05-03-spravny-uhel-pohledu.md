@@ -27,3 +27,5 @@ Jednak kategoricky nesouhlasím s rozdílnou výší příspěvků. Rozevřené 
 Druhým důvodem bylo to, že kultura v našem kraji není ani zdaleka jen o orchestrech. Jak by se na takto nesystémový krok asi dívali zřizovatelé divadel, muzeí, galerií a dalších kulturních institucí? Takové téma, jako je podpora kultury, musíte řešit komplexně a spravedlivě! Proto jsem rád, že vedení Kraje přislíbilo připravit materiál, který bude dofinancování kultury v našem krásném koutu země řešit jako celek.
 
 **Pro takový návrh zvednu s čistým svědomím a rád ruku kdykoli.**
+
+*Martin Kalina*
