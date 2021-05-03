@@ -6,6 +6,8 @@ tags:
     - Kultura
     - KSO
     - ZSO
+    - Martin Kalina
+    - Dotace
 title: Správný úhel pohledu
 author: Martin Kalina
 authorId: martin.kalina
