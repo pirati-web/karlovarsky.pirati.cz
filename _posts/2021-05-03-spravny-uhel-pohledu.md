@@ -10,7 +10,6 @@ title: Správný úhel pohledu
 author: Martin Kalina
 authorId: martin.kalina
 image: posts/Martin_Kalina_Marianske_lazne.png
-important: true
 ---
 ## **Krajský zastupitel vs. představitel města – pohled na dotace pro orchestry ze správného úhlu**
 
