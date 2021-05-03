@@ -9,7 +9,7 @@ tags:
 title: Správný úhel pohledu
 author: Martin Kalina
 authorID: martin.kalina
-image: posts/kso_money.jpg
+image: 
 important: true
 ---
 ## **Krajský zastupitel vs. představitel města – pohled na věc ze správného úhlu**
@@ -18,7 +18,7 @@ Vážení spoluobčané.
 
 Rád bych se s Vámi dnes podělil o jednu problematiku, na kterou jsme narazili během posledního krajského zastupitelstva.
 
-Na něm zástupci opozice bez předchozí diskuse přišli od stolu s líbivým návrhem na navýšení příspěvků pro symfonické orchestry (ZSO a KSO). Návrh zněl na 5 milionů Kč pro orchestr z Karlových Varů a 2,5 milionů pro ten z Mariánských Lázní. Jakkoli bych jako starosta Mariánských Lázní příspěvek pro ZSO samozřejmě uvítal a dál za něj budu bojovat, tak jsem s čistým svědomím ruku pro návrh zvednout nemohl.
+Na něm zástupci opozice bez předchozí diskuse přišli od stolu s líbivým návrhem na navýšení příspěvků pro symfonické orchestry (ZSO a KSO). Návrh zněl na 5 milionů Kč pro orchestr z Karlových Varů a 2,5 milionů pro ten z Mariánských Lázní. **Jakkoli bych jako starosta Mariánských Lázní příspěvek pro ZSO samozřejmě uvítal a dál za něj budu bojovat, tak jsem s čistým svědomím ruku pro návrh zvednout nemohl.**
 
 Měl jsem k tomu 2 důvody.
 
