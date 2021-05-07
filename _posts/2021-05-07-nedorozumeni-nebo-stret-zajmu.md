@@ -1,5 +1,5 @@
 ---
-date: 2021-05-08
+date: 2021-05-07
 category: blog
 layout: post
 tags:
@@ -10,6 +10,7 @@ tags:
 title: Nedorozumění, nebo střet zájmů?
 author: Piráti Karlovarský kraj
 image: posts/marketa.jpg
+important: true
 ---
 
 
