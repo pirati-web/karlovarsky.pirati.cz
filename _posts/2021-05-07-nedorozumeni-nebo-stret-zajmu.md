@@ -14,7 +14,7 @@ important: true
 ---
 
 
-Tonoucí se stébla chytá, či kdo chce psa bít, hůl si najde. I tak by se dal vysvětlit boj hnutí ANO proti současnému vedení kraje. **Na pomoc se nebojí vytahovat dezinformace, nebo ohýbat pravdu dle libosti.**
+Tonoucí se stébla chytá, či kdo chce psa bít, hůl si najde. I tak by se dal vysvětlit boj hnutí ANO proti současnému vedení kraje. **Na pomoc se tak nebojí ohýbat pravdu dle libosti.**
 
   
 
