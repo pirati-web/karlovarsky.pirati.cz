@@ -9,7 +9,7 @@ tags:
     - Manipulace
 title: Nedorozumění, nebo střet zájmů?
 author: Piráti Karlovarský kraj
-image: posts/markéta.jpg
+image: posts/marketa.jpg
 ---
 
 Tonoucí se stébla chytá. I tak by se dal vysvětlit boj hnutí ANO proti současnému vedení kraje, které se nebojí **vytahovat dezinformace a ohýbat pravdu dle libosti**.
