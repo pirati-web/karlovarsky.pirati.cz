@@ -9,7 +9,7 @@ tags:
 title: Orchestry o peníze nepřijdou!
 author: Piráti Karlovarského kraje
 image: posts/kso_money.jpg
-important: true
+important: false
 ---
 **Karlovarský kraj bude již příští zastupitelstvo řešit dotace pro naše symfonické orchestry a další kulturní instituce.**
 
