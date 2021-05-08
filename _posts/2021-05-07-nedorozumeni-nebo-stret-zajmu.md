@@ -22,7 +22,7 @@ Nejnovější nařčení od zastupitele Hurajčíka ze střetu zájmů Markéty 
 
   
 
-Markéta Monsportová přípravu tohoto dotačního titulu **nezajišťovala**. Spadal totiž gesčně pod radní Ol'gu Halákovou. Zároveň spolek nezastupovala při žádosti o dotaci. Nutno podotknout, že na pozici člena statutárního orgánu spolku MFF již **podala svou rezignaci** k 1.5., což je nyní právní cestou řešeno.
+Markéta Monsportová přípravu tohoto dotačního titulu **nezajišťovala**. Spadal totiž gesčně pod radní Ol'gu Halákovou. Zároveň spolek nezastupovala při žádosti o dotaci. Nutno podotknout, že na pozici člena statutárního orgánu spolku MFF již **podala svou rezignaci**, což je nyní právní cestou řešeno.
 
   
 
