@@ -7,7 +7,7 @@ tags:
     - Dotace
     - Markéta_Monsportová
     - Manipulace
-title: Nedorozumění, nebo střet zájmů?
+title: Markéta Monsportová: Obvinění ze střetu zájmů odmítám
 author: Piráti Karlovarský kraj
 image: posts/marketa.jpg
 important: true
