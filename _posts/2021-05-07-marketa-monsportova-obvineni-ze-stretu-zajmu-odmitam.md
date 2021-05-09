@@ -13,8 +13,6 @@ image: posts/marketa.jpg
 important: true
 ---
 
-
-
 **Krajská zastupitelka za Piráty v Karlovarském kraji Markéta Monsportová byla opozičními stranami nařčena ze střetu zájmů při hlasování o přidělování dotací pro kulturní spolky a organizace. V předsednictvu organizace Marienbad Film Festival však již dva roky nepůsobí, žádost o dotaci nevyjednávala, navíc celá záležitost gesčně spadá pod radní pro kulturu Ol’gu Halákovou z KDU-ČSL.**
 
   
