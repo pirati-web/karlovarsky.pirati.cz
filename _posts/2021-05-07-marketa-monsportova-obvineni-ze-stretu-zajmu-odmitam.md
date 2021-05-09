@@ -9,6 +9,7 @@ tags:
     - Manipulace
 title: Markéta Monsportová: Obvinění ze střetu zájmů odmítám
 author: Piráti Karlovarský kraj
+authorId: marketa.monsportova
 image: posts/marketa.jpg
 ---
 
