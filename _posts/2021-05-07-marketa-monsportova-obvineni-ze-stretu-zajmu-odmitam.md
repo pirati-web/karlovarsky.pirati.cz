@@ -10,7 +10,6 @@ tags:
 title: Markéta Monsportová: Obvinění ze střetu zájmů odmítám
 author: Piráti Karlovarský kraj
 image: posts/marketa.jpg
-important: true
 ---
 
 
@@ -24,7 +23,7 @@ Jaká je však pravda?
 
   
 
-Markéta Monsportová je sice zakládající členkou MFF, nicméně v představenstvu již 2 roky aktivně nepůsobí, na svou pozici navíc rezignovala. Příprava tohoto dotačního titulu navíc gesčně spadala pod radní pro kulturu, Ol'gu Halákovou z KDU-ČSL. Markéta Monsportová se na vyjednávání dotace nijak nepodílela, což potvzuje sama paní Haláková:
+Markéta Monsportová je sice zakládající členkou MFF, nicméně v představenstvu již 2 roky aktivně **nepůsobí** a na svou pozici **rezignovala**. Příprava tohoto dotačního titulu navíc gesčně spadala pod radní pro kulturu, Ol'gu Halákovou z KDU-ČSL. Markéta Monsportová se na vyjednávání dotace nijak nepodílela, což potvzuje sama paní Haláková:
 
   
 
