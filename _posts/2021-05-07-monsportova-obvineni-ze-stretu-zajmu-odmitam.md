@@ -11,6 +11,8 @@ title: Markéta Monsportová- Obvinění ze střetu zájmů odmítám
 author: Piráti Karlovarského kraje
 image: posts/marketa.jpg
 important: true
+git remote set-url --add --push [remote] [https://karlovarsky.pirati.cz/aktuality/monsportova-obvineni-ze-stretu-zajmu-odmitam.html]
+git remote set-url --add --push [remote] [https://karlovarsky.pirati.cz/aktuality/nedorozumeni-nebo-stret-zajmu.html]
 ---
 
 
