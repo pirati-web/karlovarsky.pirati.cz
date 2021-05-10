@@ -15,5 +15,6 @@ important: true
 ---
 Rekonstrukce Císařských lázní pokračuje a s ní přichází otázky na její průběh.
 Na ty nejčastěji kladené dotazy v dnešním videu odpovídal Vojta Franta, náměstek hejtmana Karlovarského kraje:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J6TBRkar8pE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Otázky a odpovědi k Císařským lázním*
