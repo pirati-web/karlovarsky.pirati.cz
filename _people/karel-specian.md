@@ -15,8 +15,9 @@ mail:
 mob: +420 737 581 213
 profiles:
   github:
-  facebook: kaja.specian1
-  twitter: 
+  facebook: https://www.facebook.com/kaja.specian1
+  twitter: https://twitter.com/liberal_kaja
+  instagram: https://www.instagram.com/kaja.specian/
   linkedin:
 ---
 **17 let, student, Mediální spojka Pirátské strany pro Karlovarský kraj, Karlovy Vary**
