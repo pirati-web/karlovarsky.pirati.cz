@@ -12,10 +12,10 @@ heroImg: banner-kv.jpg
 img: people/Karel_Specian.jpg # zakomentuj radek dokud není fotka
 mail:
 - kajaspecian@gmail.com
-mob: +420 723 628 378
+mob: +420 737 581 213
 profiles:
   github:
-  facebook: 
+  facebook: kaja.specian1
   twitter: 
   linkedin:
 ---
