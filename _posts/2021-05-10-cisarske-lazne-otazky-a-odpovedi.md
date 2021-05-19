@@ -11,7 +11,7 @@ title: Císařské lázně - otázky a odpovědi
 author: Vojtěch Franta
 authorId: vojtech.franta
 image: posts/vojta_franta2.jpg
-important: true
+important: false
 ---
 Rekonstrukce Císařských lázní pokračuje a s ní přichází otázky na její průběh.
 Na ty nejčastěji kladené dotazy v dnešním videu odpovídal Vojta Franta, náměstek hejtmana Karlovarského kraje:
