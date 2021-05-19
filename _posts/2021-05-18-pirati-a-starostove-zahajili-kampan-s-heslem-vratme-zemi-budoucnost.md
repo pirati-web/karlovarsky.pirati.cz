@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2021-05-17
 category: blog
 layout: post
 tags:
@@ -8,7 +8,7 @@ tags:
     - Vratme_zemi_budoucnost
 title: Piráti a Starostové zahájili volební kampaň s heslem "Vraťme zemi budoucnost"
 author: Piráti Karlovarského kraje
-image:
+image: posts/Zahajeni_kampane_2021.jpg
 important: true
 ---
 **Vraťme zemi budoucnost: Piráti a STAN zahájili kampaň do sněmovních voleb. Chtějí vyvést Česko z krize, modernizovat ekonomiku i zdravotnictví či zajistit dostupnější bydlení.**
