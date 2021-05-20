@@ -21,7 +21,6 @@ Karlovy Vary, 20. 5. 2021- **Piráti a Starostové dnes v Karlových Varech pře
   
 
 *“O Karlovarský kraj se současná vláda často otírá jako o „nejhorší kraj“. My se zasadíme, aby všechny regiony v republice měly rovné příležitosti i dostupnost zdravotní péče. A v zájmu bezpečí našich občanů se dobře připravíme na jakékoliv další vlny pandemie či obdobné hrozby,”* říká lídr koalice, pirátský poslanec Petr Třešňák. A doplňuje, 
-
 *“Zajistíme skutečně chytrý systém trasování, testovací kapacity, ale především dostatek personálu a technického vybavení ve zdravotnictví obecně. Digitalizací zdravotnictví pak usnadníme lidem přístup k péči. A rovněž uvolníme ruce lékařům od byrokracie, aby mohli svůj čas věnovat tomu nejdůležitějšímu - pacientům.”*
 
   
