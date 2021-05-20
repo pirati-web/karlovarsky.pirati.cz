@@ -10,7 +10,6 @@ tags:
 title: Piráti a STAN v Karlovarském kraji představili čelo kandidátky do sněmovních voleb
 author: Tisková zpráva
 image: posts/foto_zahajeni_kampan.jpg
-important: true
 ---
 Karlovy Vary, 20. 5. 2021- **Piráti a Starostové dnes v Karlových Varech představili čelo kandidátky do podzimních sněmovních voleb. Na tiskové konferenci vystoupila čelní pětice kandidátů - poslanec Petr Třešňák, starosta Jan Kuchař, památkář Vítězslav Adamec, historik Jiří Klsák a ekologická zemědělkyně Nikola Kassl. Kromě celostátních témat se budou soustředit především na energetiku a transformaci ekonomiky, lázeňství a cestovní ruch, zdravotnictví, životní prostředí, kulturu, památky a venkov.**
 
