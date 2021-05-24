@@ -8,6 +8,7 @@ tags:
     - Smart_venkov
 title: Chytrý venkov
 author: Nikola Kassl
+authorId: nikola.indrova
 image: posts/nikola_kassl.jpg
 ---
 **Chytrý venkov není laciná fráze a nenechme se unést prvním dojmem, venkov rozhodně není hloupý.**
