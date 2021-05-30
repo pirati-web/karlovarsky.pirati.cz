@@ -9,7 +9,7 @@ tags:
 title: Sport dostane od kraje dotaci 38 milionů
 author: Ondřej Topinka
 authorId: ondrej.topinka
-image: posts/ondra_topinka_2020.jpg
+image: posts/ondra_topinka_1.jpg
 important: true
 ---
 
