@@ -15,7 +15,7 @@ important: true
 
 Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského kraje na kterém se rozdělovaly dotace, jež byly rozděleny ve čtyřech programech a individuální dotace zaštiťující různá odvětví. Celkový přehled rozdělených dotací dáváme k nahlédnutí:
 <br>
-1.  **sportovní aktivity dětí a mládeže - rozděleno - 22 452 600 Kč**
+1.  **Sportovní aktivity dětí a mládeže - rozděleno - 22 452 600 Kč**
   -   198 žádostí - podpořeno 193
   -   požadovaná částka - 52 217 087 Kč
   -   nepodpořily se sportovní svazy, snaha dostat víc prostředků do klubů na mládež
