@@ -29,13 +29,13 @@ Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského k
   -   41 žádostí - 34 podpořeno
   -   důvody nepodpoření - nejednalo se o 2 nejvyšší soutěže + vyšší podpora mládeže
   -   zaměřeno na podporu nejvyšších 2 soutěží u kolektivních sportů, podpora pro účasti na MČR, či na mezinárodních aktivitách
-  -   Požadováno - 11 890 000 Kč
+  -   požadováno - 11 890 000 Kč
 
 4.  **Na podporu obnovy a údržby sportovních zařízení - 7 854 000 Kč**
   -   118 žádostí - 112 podpořeno
   -   nepodpořené z důvodu nesplnění podmínek
   -   všechny žádosti zkráceny procentuálně - 46 % z požadované částky
-  -   Požadováno - 17 869 547 Kč
+  -   požadováno - 17 869 547 Kč
 
 5.  **Individuální dotace - 1 250 000 Kč**
   -   14 žádostí - 11 podpořeno
