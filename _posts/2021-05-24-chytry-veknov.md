@@ -10,7 +10,6 @@ title: Chytrý venkov
 author: Nikola Kassl
 authorId: nikola.indrova
 image: posts/nikola_kassl.jpg
-important: true
 ---
 **Chytrý venkov není laciná fráze a nenechme se unést prvním dojmem, venkov rozhodně není hloupý.**
 
