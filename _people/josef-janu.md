@@ -10,7 +10,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - komunal
 - vybory
 ordkraj: 1
-profession: krajský radní pro regionální rozvoj, IT a projektové řízení, stavební inženýr
+profession: stavební inženýr
 heroImg: banner-kv.jpg
 img: people/Josef_Janu.jpg             
 description: Zastupitel Karlovarského kraje, zastupitel Karlových Varů 
