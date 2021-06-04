@@ -42,7 +42,7 @@ Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského k
   -   požadováno - 3 812 500 Kč
 
 Dohromady jsme v těchto programech posuzovali 419 žádostí v částce 94 358 634 Kč, kdy bylo navrženo podpořit 373 žádostí v souhrnné částce **38 056 600 Kč**, kdy v komisi bylo hlasováno o každé jednotlivé položce, kromě programu “Na podporu obnovy a údržby sportovních zařízení”, kde byl hlasováno plošné procentuelní krácení.
-Celkem jsme na sportovní komisi jednali okolo 10 hodin a další hodiny připadaly na “domácí přípravu” a seznámením se s jednotlivými žádosti, proto jako člen sportovní komise můžu říct, že jsme po třídenním náročném jednání nalezli konsenzus napříč členy komise, tedy napříč politickým spektrem.
+Celkem jsme na sportovní komisi jednali okolo 10 hodin a další hodiny připadaly na “domácí přípravu” a seznámení se s jednotlivými žádostmi, proto jako člen sportovní komise můžu říct, že jsme po třídenním náročném jednání nalezli konsenzus napříč členy komise, tedy napříč politickým spektrem.
 
 Bohužel žádosti výrazně převyšovaly prostředky, a to i přesto že ty byly výrazně navýšeny.
 S klidným svědomím však konstatuji, že jsme společnými silami navrhli rozdělení podle našeho nejlepšího vědomí a svědomí.
