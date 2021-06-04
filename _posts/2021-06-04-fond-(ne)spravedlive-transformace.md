@@ -3,13 +3,13 @@ date:
 category: blog
 layout: post
 tags:
-    - Životní_prostředí
-    - Krušné_hory
+    - JTF
+    - Fond_spravedlivé_transformace
     - Karlovarský_kraj
 title: Fond (ne)spravedlivé transformace?
 author: Vojtěch Franta
 authorId: vojtech.franta
-image: posts/krusnohori.jpg
+image: posts/JTF.jpg
 important: true
 ---
 **24.5.2021 představila Vláda ČR způsob rozdělení peněz v rámci Fondu spravedlivé transformace mezi uhelné regiony. To však šlo velmi nestandardní cestou a je pro Karlovarský kraj nevýhodné. Jak k tomu došlo a jak hodláme situaci řešit?**
