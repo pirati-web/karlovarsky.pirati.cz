@@ -10,7 +10,7 @@ title: Sport dostane od kraje dotaci 38 milionů
 author: Ondřej Topinka
 authorId: ondrej.topinka
 image: posts/ondra_topinka_1.jpg
-important: true
+important:
 ---
 
 Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského kraje na kterém se rozdělovaly dotace, jež byly rozděleny ve čtyřech programech, a individuální dotace zaštiťující různá odvětví. Celkový přehled rozdělených dotací dáváme k nahlédnutí:
