@@ -13,7 +13,7 @@ image: posts/ondra_topinka_1.jpg
 important: true
 ---
 
-Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského kraje na kterém se rozdělovaly dotace, jež byly rozděleny ve čtyřech programech a individuální dotace zaštiťující různá odvětví. Celkový přehled rozdělených dotací dáváme k nahlédnutí:
+Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského kraje na kterém se rozdělovaly dotace, jež byly rozděleny ve čtyřech programech, a individuální dotace zaštiťující různá odvětví. Celkový přehled rozdělených dotací dáváme k nahlédnutí:
 <br>
 1.  **Sportovní aktivity dětí a mládeže - rozděleno - 22 452 600 Kč**
   -   198 žádostí - podpořeno 193
@@ -40,10 +40,9 @@ Dnes proběhlo poslední jednání sportovní komise při Radě Karlovarského k
 5.  **Individuální dotace - 1 250 000 Kč**
   -   14 žádostí - 11 podpořeno
   -   požadováno - 3 812 500 Kč
-<br>
-Dohromady v těchto programech jsme posuzovali 419 žádostí v částce 94 358 634 Kč, kdy bylo navrženo podpořit 373 žádostí v souhrnné částce **38 056 600 Kč**, kdy v komisi bylo hlasováno o každé jednotlivé položce, kromě programu “Na podporu obnovy a údržby sportovních zařízení”, kde byl hlasováno plošné procentuelní krácení.
 
-Dohromady jsme na sportovní komisi jednali okolo 10 hodin a další hodiny připadaly na “domácí přípravu” a seznámením se s jednotlivými žádosti, proto jako člen sportovní komise můžu říct, že jsme po třídenním náročném jednání nalezli konsenzus napříč členy komise, tedy napříč politickým spektrem.
+Dohromady jsme v těchto programech posuzovali 419 žádostí v částce 94 358 634 Kč, kdy bylo navrženo podpořit 373 žádostí v souhrnné částce **38 056 600 Kč**, kdy v komisi bylo hlasováno o každé jednotlivé položce, kromě programu “Na podporu obnovy a údržby sportovních zařízení”, kde byl hlasováno plošné procentuelní krácení.
+Celkem jsme na sportovní komisi jednali okolo 10 hodin a další hodiny připadaly na “domácí přípravu” a seznámením se s jednotlivými žádosti, proto jako člen sportovní komise můžu říct, že jsme po třídenním náročném jednání nalezli konsenzus napříč členy komise, tedy napříč politickým spektrem.
 
 Bohužel žádosti výrazně převyšovaly prostředky, a to i přesto že ty byly výrazně navýšeny.
 S klidným svědomím však konstatuji, že jsme společnými silami navrhli rozdělení podle našeho nejlepšího vědomí a svědomí.
