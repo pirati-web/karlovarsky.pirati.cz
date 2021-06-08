@@ -7,7 +7,7 @@ tags:
 title: Živá kultura za časů pandemie
 author: Vítězslav Adamec
 authorId: vitezslav.adamec
-image: posts/03_Vitezslav_Adamec.jpg
+image: posts/housle.jpg
 important: true
 ---
 
