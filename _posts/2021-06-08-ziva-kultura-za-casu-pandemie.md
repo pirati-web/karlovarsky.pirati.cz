@@ -11,7 +11,7 @@ image: posts/housle.jpg
 important: true
 ---
 
-**Umělecká sféra zažila v uplynulém roce nebývalou existenční krizi. Z koncertních síní a hudebních klubů velkou část roku nezněly tóny hlasů a nástrojů, z divadelních sálů nebyl slyšet smích či pláč, taktéž kina a galerie zela prázdnotou. O to více si lze cenit vytrvalosti *“posledních Mohykánů”*, kteří se stále snažili prezentovat svá díla alespoň pomocí rozvíjejích se online platforem. Všichni vnitřně cítíme, že umění ve všech svých podobách je pro nás bytostně důležité a nenahraditelné.**
+**Umělecká sféra zažila v uplynulém roce nebývalou existenční krizi. Z koncertních síní a hudebních klubů velkou část roku nezněly tóny hlasů a nástrojů, z divadelních sálů nebyl slyšet smích či pláč, taktéž kina a galerie zela prázdnotou. O to více si lze cenit vytrvalosti *“posledních Mohykánů”*, kteří se stále snažili prezentovat svá díla alespoň pomocí rozvíjejících se online platforem. Všichni vnitřně cítíme, že umění ve všech svých podobách je pro nás bytostně důležité a nenahraditelné.**
 
 Jaká byla reakce regionálních kulturních institucí v našem kraje na nastalou situaci? Po prvotním šoku se přizpůsobily nastalé situaci a snažily se převést alespoň částečně svůj kulturní program do omezené online podoby a tímto alespoň částečně podpořit místní umělce. Nelze zde však při této příležitosti bohužel nevzpomenout ani na ostudné a neodůvodněné odvolání ředitelů Karlovarského symfonického orchestru a Kanceláře architektury města Karlovy Vary v nejhorších chvílích pandemie. Obě instituce svým významem zásadně přesahují hranice města a doufejme, že proběhlé kroky nebyly záminkou pro jejich postupnou a nenápadnou likvidaci.
 
