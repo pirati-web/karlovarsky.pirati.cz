@@ -10,7 +10,6 @@ title: Piráti vyslyšeli volání po vzniku CHKO Krušné hory a iniciovali vzn
 author: Robin Beitl
 authorId: robin.beitl
 image: posts/krusnohori.jpg
-important: true
 ---
 Karlovy Vary, 2. 6. 2021- **Piráti vyslyšeli volání po vzniku CHKO Krušné hory a v souladu se svým programem na dnešním jednání Komise životního prostředí a změny klimatu Karlovarského kraje iniciovali vznik Pracovní skupiny pro přípravu CHKO Krušné hory, pro kterou našli podporu napříč politickým spektrem.** 
 
