@@ -8,7 +8,6 @@ title: Živá kultura za časů pandemie
 author: Vítězslav Adamec
 authorId: vitezslav.adamec
 image: posts/housle.jpg
-important: true
 ---
 
 **Umělecká sféra zažila v uplynulém roce nebývalou existenční krizi. Z koncertních síní a hudebních klubů velkou část roku nezněly tóny hlasů a nástrojů, z divadelních sálů nebyl slyšet smích či pláč, taktéž kina a galerie zela prázdnotou. O to více si lze cenit vytrvalosti *“posledních Mohykánů”*, kteří se stále snažili prezentovat svá díla alespoň pomocí rozvíjejících se online platforem. Všichni vnitřně cítíme, že umění ve všech svých podobách je pro nás bytostně důležité a nenahraditelné.**
