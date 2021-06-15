@@ -10,9 +10,9 @@ authorId: marketa.monsportova
 image: posts/pastelky.jpg
 important: true
 ---
-**V rámci Operačního programu Spravedlivé transformace byl po schválení Rady Karlovarského kraje zařazen i krajský strategický projekt, který se zaměří na rozvoj kulturních a kreativních odvětví (KKO).**
+**V rámci Operačního programu Spravedlivé transformace byl po schválení Rady Karlovarského kraje zařazen i krajský strategický projekt, který se zaměří na rozvoj kulturních a kreativních odvětví (KKO). Cílem projektu je nastartovat transformační změny v celém regionu a přispět k oživení a rozvoji kreativních odvětví, jež mají u nás dlouholetou tradici. Nejde o to, chytit se módního trendu, o kterém se v poslední době hodně mluví, ale rozvinout to, co je v kraji dlouhodobě a co potřebuje soustředěnou podporu.**
 
-Cílem projektu je nastartovat transformační změny v celém regionu a přispět k oživení a rozvoji kreativních odvětví, jež mají u nás dlouholetou tradici. Nejde o to, chytit se módního trendu, o kterém se v poslední době hodně mluví, ale rozvinout to, co je v kraji dlouhodobě a co potřebuje soustředěnou podporu. Keramika, sklo, porcelán, krajkářství, film, design jsou dlouhodobě naší doménou, přinášejí kraji světovou proslulost, firmám peníze a lidem práci. Cílem projektu je zvýšit podnikavost zejména mladých lidí v oborech, které budou v kraji užitečné, a tím podpořit ekonomickou transformaci kraje. Kreativní kancelář by se tak měla stát hlavním koordinátorem kulturně kreativních odvětví. Ta v současné době patří mezi nejrychleji ekonomicky rostoucí a výrazně se podílí na vzniku nových pracovních příležitostí
+Keramika, sklo, porcelán, krajkářství, film, design jsou dlouhodobě naší doménou, přinášejí kraji světovou proslulost, firmám peníze a lidem práci. Cílem projektu je zvýšit podnikavost zejména mladých lidí v oborech, které budou v kraji užitečné, a tím podpořit ekonomickou transformaci kraje. Kreativní kancelář by se tak měla stát hlavním koordinátorem kulturně kreativních odvětví. Ta v současné době patří mezi nejrychleji ekonomicky rostoucí a výrazně se podílí na vzniku nových pracovních příležitostí
 
 Krajská kulturně kreativní kancelář - 4K - bude tvořena týmem odborných pracovníků a bude mít dvě části, koncepční a realizační.
 
