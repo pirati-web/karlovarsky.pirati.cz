@@ -1,5 +1,15 @@
 ---
-
+date: 2021-06-15
+category: blog
+layout: post
+tags:
+    - Kultura
+    - KKO
+title: Kreativita mění svět i náš kraj?
+author: Markéta Monsportová
+authorId: marketa.monsportova
+image: posts/housle.jpg
+important: true
 ---
 **V rámci Operačního programu Spravedlivé transformace byl po schválení Rady Karlovarského kraje zařazen i krajský strategický projekt, který se zaměří na rozvoj kulturních a kreativních odvětví (KKO).**
 
