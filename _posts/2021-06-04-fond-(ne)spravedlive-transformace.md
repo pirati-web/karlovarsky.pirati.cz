@@ -10,7 +10,6 @@ title: Fond (ne)spravedlivé transformace?
 author: Vojtěch Franta
 authorId: vojtech.franta
 image: posts/JTF.jpg
-important: true
 ---
 **24.5.2021 představila Vláda ČR způsob rozdělení peněz v rámci Fondu spravedlivé transformace mezi uhelné regiony. To však šlo velmi nestandardní cestou a je pro Karlovarský kraj nevýhodné. Jak k tomu došlo a jak hodláme situaci řešit?**
 
