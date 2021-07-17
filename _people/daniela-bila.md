@@ -6,7 +6,7 @@ titles:
   after:
 category:
   description: 
-profession: technik, alchymistka, občanská aktivistka
+profession: technik, občanská aktivistka
 heroImg: banner-kv.jpg
 img: people/Daniela_Bila.jpg
 mail:
