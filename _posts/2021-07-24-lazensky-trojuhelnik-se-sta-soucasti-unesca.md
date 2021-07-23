@@ -1,5 +1,5 @@
 ---
-date: 2021-07-23
+date: 2021-07-24
 category: blog
 layout: post
 tags:
@@ -19,4 +19,4 @@ Velmi silnou roli měl také Karlovarský kraj, a vedení jednotlivých měst. Z
 
 Velkou výhodou bylo, že všechna tři nominovaná města z České Republiky byla z jednoho kraje což velmi zjednodušovalo komunikaci a spolupráci. Tato blízkost umožnila mimo jiné vznik studie Mastercard, která určila směr, jakým se má prohloubit spolupráce a provázanost těchto měst. V blízké době by tak mohla vzniknout možnost sdílených aut, které si může uživatel půjčit např. v Mariánských Lázních a vrátit v Karlových Varech. S tím jde i ruku v ruce možnost bikesharingu, či sdílených koloběžek. Z toho plyne mobilita, která pokrývá de facto celý kraj. Ze zápisu na seznam UNESCO tak budou benefitovat nejen samotná města, ale v podstatě celý region. 
 
-Zajímalo by vás čem UNESCO spočívá? Jak přesně probíhal proces selekce lázeňských měst? Co všechno nám UNESCO do kraje přinese? Toto všechno se dozvíte v novém miniseriálu s náměstkem hejtmana Vojtou Frantou, který na tyto a spoustu dalších otázek odpoví!
+Zajímalo by vás čem UNESCO spočívá? Jak přesně probíhal proces selekce lázeňských měst? Co všechno nám UNESCO do kraje přinese? Toto všechno se dozvíte v novém miniseriálu s náměstkem hejtmana Vojtěchem Frantou, který na tyto a spoustu dalších otázek odpoví!
