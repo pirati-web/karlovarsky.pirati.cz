@@ -5,7 +5,8 @@ layout: post
 tags:
     - UNESCO
 title: Lázeňský trojúhelník se stal součástí UNESCA
-author: Piráti Karlovarský kraj
+author: Karel Špecián
+authorId: karel.specian
 image: posts/UNESCO.jpg
 important: true
 ---
@@ -19,4 +20,4 @@ Velmi silnou roli měl také Karlovarský kraj, a vedení jednotlivých měst. Z
 
 Velkou výhodou bylo, že všechna tři nominovaná města z České Republiky byla z jednoho kraje což velmi zjednodušovalo komunikaci a spolupráci. Tato blízkost umožnila mimo jiné vznik studie Mastercard, která určila směr, jakým se má prohloubit spolupráce a provázanost těchto měst. V blízké době by tak mohla vzniknout možnost sdílených aut, které si může uživatel půjčit např. v Mariánských Lázních a vrátit v Karlových Varech. S tím jde i ruku v ruce možnost bikesharingu, či sdílených koloběžek. Z toho plyne mobilita, která pokrývá de facto celý kraj. Ze zápisu na seznam UNESCO tak budou benefitovat nejen samotná města, ale v podstatě celý region. 
 
-Zajímalo by vás čem UNESCO spočívá? Jak přesně probíhal proces selekce lázeňských měst? Co všechno nám UNESCO do kraje přinese? Toto všechno se dozvíte v novém miniseriálu s náměstkem hejtmana Vojtěchem Frantou, který na tyto a spoustu dalších otázek odpoví!
+Nyní si však nemůžeme sednout se založenýma rukama. Naopak nás čeká spousta práce. Těšíme se však, že velký potenciál zápisu na seznam UNESCO efektivně využijeme. 
