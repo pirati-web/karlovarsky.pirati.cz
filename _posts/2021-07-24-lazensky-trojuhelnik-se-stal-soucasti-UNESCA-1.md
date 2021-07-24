@@ -1,5 +1,5 @@
 ---
-date: 2021-07-24 12:00:00 UTC
+date: 2021-07-24T12:00:00.000Z
 category: blog
 layout: post
 tags:
