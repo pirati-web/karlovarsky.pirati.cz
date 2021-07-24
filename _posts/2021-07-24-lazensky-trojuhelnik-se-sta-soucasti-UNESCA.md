@@ -8,7 +8,6 @@ title: Lázeňský trojúhelník se stal součástí UNESCA
 author: Karel Špecián
 authorId: karel.specian
 image: posts/UNESCO.jpg
-important: true
 ---
 **Dnes došlo k velmi významné události pro celý Karlovarský kraj. Výbor světového dědictví finálně rozhodl o zápisu Karlových Varů, Mariánských Lázní a Františkových lázní na Seznam světového dědictví UNESCO.**
 
