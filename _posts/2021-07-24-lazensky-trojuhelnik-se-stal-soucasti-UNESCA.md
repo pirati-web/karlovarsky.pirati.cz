@@ -4,7 +4,7 @@ category: blog
 layout: post
 tags:
     - UNESCO
-title: Lázeňský trojúhelník se stal součástí UNESCA
+title: Lázeňský trojúhelník se stal součástí UNESCO
 author: Piráti Karlovarský kraj
 image: posts/UNESCO.jpg
 important: true
