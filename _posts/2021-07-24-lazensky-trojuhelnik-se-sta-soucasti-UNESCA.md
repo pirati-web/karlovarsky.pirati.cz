@@ -5,8 +5,7 @@ layout: post
 tags:
     - UNESCO
 title: Lázeňský trojúhelník se stal součástí UNESCA
-author: Karel Špecián
-authorId: karel.specian
+author: Piráti Karlovarský kraj
 image: posts/UNESCO.jpg
 important: true
 ---
