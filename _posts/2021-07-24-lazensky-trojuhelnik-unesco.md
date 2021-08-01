@@ -1,5 +1,5 @@
 ---
-date: 2021-07-24
+date: 2021-07-25
 category: blog
 layout: post
 tags:
@@ -10,7 +10,7 @@ authorId: karel.specian
 image: posts/UNESCO_a.jpg
 important: true
 ---
-**Dnes došlo k velmi významné události pro celý Karlovarský kraj. Výbor světového dědictví finálně rozhodl o zápisu Karlových Varů, Mariánských Lázní a Františkových lázní na Seznam světového dědictví UNESCO.**
+**Došlo k velmi významné události pro celý Karlovarský kraj. Výbor světového dědictví finálně rozhodl o zápisu Karlových Varů, Mariánských Lázní a Františkových lázní na Seznam světového dědictví UNESCO.**
 
 Tento proces byl velmi složitý a lázeňský trojúhelník o nominaci bojoval už od roku 2010. 
 Po přihlášení cca 65 lázní přišel na řadu selektivní proces, který měl určit, které lázně jsou skutečně hodnotné. Po vyjasnění všech specifikací tak seznam skončil na 11 lázních z celé Evropy.
