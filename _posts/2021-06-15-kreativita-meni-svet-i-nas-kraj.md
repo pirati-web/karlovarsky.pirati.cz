@@ -8,7 +8,7 @@ title: Kreativita mění svět i náš kraj?
 author: Markéta Monsportová
 authorId: marketa.monsportova
 image: posts/pastelky.jpg
-important: true
+important: 
 ---
 **V rámci Operačního programu Spravedlivé transformace byl po schválení Rady Karlovarského kraje zařazen i krajský strategický projekt, který se zaměří na rozvoj kulturních a kreativních odvětví (KKO). Cílem projektu je nastartovat transformační změny v celém regionu a přispět k oživení a rozvoji kreativních odvětví, jež mají u nás dlouholetou tradici. Nejde o to, chytit se módního trendu, o kterém se v poslední době hodně mluví, ale rozvinout to, co je v kraji dlouhodobě a co potřebuje soustředěnou podporu.**
 
