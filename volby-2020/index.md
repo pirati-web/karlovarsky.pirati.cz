@@ -6,6 +6,8 @@ campaignGroupUid: volby2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 customizeHeader: true
+redirect_to:
+  - https://www.piratiastarostove.cz/kandidati/kraj/karlovarsky/
 ---
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
