@@ -2,14 +2,14 @@
 layout: pirate-center
 description: V Karlových varech jsme otevřeli nové pirátské centrum pod zkratkou e-PIC. Centrum nabídne akce všeho druhu, cowork a dětský koutek.
 keywords: karlovy vary, pirátské-centrum, vary, centrum
-title: e-PIC - Pardubické pirátské centrum
+title: e-PIC - Karlovarské pirátské centrum
 shorthand: e-PIC
-openingHoursSEO: Üt-Čt 10:00-17:00
+openingHoursSEO: Út-Čt 10:00-17:00
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: V Karlových varech jsme otevřeli nové pirátské centrum pod zkratkou e-PIC.
 img: 
 address: |
-  e-PIC - Pírátské centrum
+  e-PIC - Pirátské centrum
   Moskevská 60
   Karlovy Vary
 addressNote: 
