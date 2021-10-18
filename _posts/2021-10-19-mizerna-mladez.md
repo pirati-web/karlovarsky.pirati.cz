@@ -7,7 +7,7 @@ tags:
 title: Mizerná mládež
 author: Jindřich Čermák
 authorId: jindrich.cermak
-image: posts/jindrich_cermak_2020.jpg
+image: posts/cermak2021.png
 important: true
 ---
 ***„Naše mládež miluje přepych, má špatné mravy, opovrhuje autoritou, nerespektuje starší.“*** 
