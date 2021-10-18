@@ -4,7 +4,7 @@ category: blog
 layout: post
 tags:
     - Školství
-title: Mizerná mládež
+title: Jindřich Čermák - Mizerná mládež
 author: Jindřich Čermák
 authorId: jindrich.cermak
 image: posts/jindrich_cermak_2020.jpg
