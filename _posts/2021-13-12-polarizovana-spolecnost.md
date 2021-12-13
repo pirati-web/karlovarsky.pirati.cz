@@ -7,7 +7,8 @@ tags:
     - očkování
     - covid
 title: Vzájemným respektem skoncujme s polarizací
-author: Piráti Karlovarský kraj
+author: Lukáš Zykán
+authorId: lukas.zykan
 image: posts/zykan.png
 important: true
 ---
@@ -15,7 +16,7 @@ important: true
 
 Oni můžou, my ne. My se testujeme, oni ne. Za poslední dobu se mezi lidmi vyrojilo spoustu odborníků na slovo vzaté, virologů, imunologů a odborníků na ústavu. Nic ale není jen černobílé. Každý čerpá z jiných zdrojů a každý má možná trochu pravdu. Ale to nejdůležitější je, že byť jsme rozděleni na dva tábory, že nepřítel je společný. Jsou mezi námi však lidé, kteří toto prožívají každý den a jsou svědky stále se opakujících příběhů. Jedním z těchto lidí je i nejmenovaný pracovník z jednoho z lékařských pracovišť. (kvůli ochraně osobních údajů si nepřál být jmenován)
 
-> *„Není žádnou výjimkou, že přijíždíme do domácností, kde si jeden z členů rodiny, jako covid pozitivní, volá rychlou záchrannou službu, s dýchacími potížemi. Při dotazu, zda je očkovaný, v drtivé většině slýcháme, že ne. V domácnosti je ale další covid pozitivní, většinou partner/ka, který ale očkovaný je. Při otázce, jaký má průběh, slyšíme, že v pohodě, že má rýmu. A to je přesně ten důvod, proč by se lidé měli nechat očkovat, bez ohledu na zdravotní stav a věk. I zdravého a mladého člověka v kondici, může covid srazit na kolena,“* říká zdravotník.
+> *„Není žádnou výjimkou, že přijíždíme do domácností, kde si jeden z členů rodiny, jako covid pozitivní, volá rychlou záchrannou službu, s dýchacími potížemi. Při dotazu, zda je očkovaný, v drtivé většině slýcháme, že ne. V domácnosti je ale další covid pozitivní, většinou partner či partnerka, který ale očkovaný je. Při otázce, jaký má průběh, slyšíme, že v pohodě, že má rýmu. A to je přesně ten důvod, proč by se lidé měli nechat očkovat, bez ohledu na zdravotní stav a věk. I zdravého a mladého člověka v kondici, může covid srazit na kolena,“* říká zdravotník.
 
 Jako nešťastné považuji hlavně komunikaci vlády a ministerstev, kdy se nedaří v lidech vyvolat nutnost a přidanou hodnotu očkování. V současné době už jsme v situaci, která postupuje tak dramaticky rychle, že nynější očkování již nedokáže epidemii zbrzdit, v lepším případě zastavit. Tady vidím obrovské selhání vládních elit za poslední půlrok, kdy se nepodařilo nastartovat motivující očkovací kampaň. Dezinformační kampaň je bohužel silnější, hlasitější a mezi odpůrci očkování se velice rychle šíří, a to nejen po sociálních sítích.
 
