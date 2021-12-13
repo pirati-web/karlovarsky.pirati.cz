@@ -8,7 +8,6 @@ title: Mizerná mládež
 author: Jindřich Čermák
 authorId: jindrich.cermak
 image: posts/cermak2021.png
-important: true
 ---
 ***„Naše mládež miluje přepych, má špatné mravy, opovrhuje autoritou, nerespektuje starší.“*** 
 **Leckdo určitě bude kývat nad tímto citátem hlavou. Že jsou ti mladí strašní a že za nás by se různé nepřístojnosti neděly. Ovšem vězte, že ten výše uvedený citát je 2500 let starý (údajně ho pronesl starořecký básník Isokratés). Jinými slovy, na přicházející generace si stěžujeme už od začátku lidstva. A přesto se země dále točí.**
