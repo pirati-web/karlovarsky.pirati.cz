@@ -3,7 +3,7 @@ date: 2022-01-03
 category: blog
 layout: post
 tags: 
-title: Rok na ve vedení kraje očima Markéty Monsportové
+title: Rok ve vedení kraje očima Markéty Monsportové
 author: Markéta Monsportová
 authorId: marketa.monsportova
 image: posts/roknakraji.jpeg
