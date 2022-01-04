@@ -8,7 +8,7 @@ title: Slam poetry otevřela diskuzi se studenty
 author: Markéta Monsportová
 authorId: marketa.monsportova
 image: posts/slam_poetry.jpeg
-important: true
+important: false
 ---
 **Není žádným tajemstvím, že se náš kraj potýká s velmi negativním demografickým vývojem, způsobeným odchodem mladé generace. Zároveň nás dlouhodobě trápí i nepříznivé vzdělanostní složení obyvatel. V rámci transformace regionu je právě ta společenská po ukončení těžby uhlí dalším důležitým tématem, na které se musíme zaměřit.**
 
