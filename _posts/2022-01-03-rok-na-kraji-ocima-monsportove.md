@@ -1,4 +1,4 @@
----
+﻿---
 date: 2022-01-03
 category: blog
 layout: post
@@ -14,6 +14,7 @@ important: true
 
 
 ## Seznamování se
+
 První kvartál byl ve znamení seznamování se s úředníky, s aparátem krajského úřadu a s agendou. Většina schůzek probíhala online, chyběl osobní kontakt. Během prvních pracovních schůzek jsem se občas ztrácela, zkratky jako SLM, SLL, AHR, KARP, PRRKK, ITI,OŽP, MMR, AKČR atd…. jsem si nenápadně zapisovala a snažila se po večerech rozklíčovat. Cestovní ruch, který mám společně s Vojtou v gesci, byl zastaven, pak se spontánně rozběhl a teď opět funguje v přidušené formě. Největším problémem bylo a stále je, že nikdo pořádně neví, co přijde. Několikrát jsme apelovali na vládu, většinou bez úspěchu. O dalších aktivitách a hlavně o UNESCO se jistě rozepíše příště Vojta Franta.
 
 Věnujeme se také hodně Krušným Horám a věřím, že snahy o založení CHKO a destinační agentury pomohou přispět ke smysluplnému rozvoji. Navázali jsme také velmi aktivní spolupráci s Ústeckým krajem
@@ -36,3 +37,4 @@ V osvětě a komunikaci ven, ať už o úloze kraje, ale i o probíhající tran
 **Nakonec musím zmínit, že jsem za tuto příležitost velmi vděčná. Nejen, že mě nesmírně těší spolupráce s novými a schopnými lidmi, kterých je u nás nás opravdu hodně, ale i pospolitost a společný zájem celé rady náš kraj posunout ze spodních příček, je velmi motivující. Jsem také ráda, že se nenaplnily predikce, že koalice nepřežije ani první rok.**
 
 [***Markéta Monsportová***](https://karlovarsky.pirati.cz/lide/marketa-monsportova/)
+
