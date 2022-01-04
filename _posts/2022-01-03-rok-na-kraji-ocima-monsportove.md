@@ -35,4 +35,4 @@ V osvětě a komunikaci ven, ať už o úloze kraje, ale i o probíhající tran
 ---
 **Nakonec musím zmínit, že jsem za tuto příležitost velmi vděčná. Nejen, že mě nesmírně těší spolupráce s novými a schopnými lidmi, kterých je u nás nás opravdu hodně, ale i pospolitost a společný zájem celé rady náš kraj posunout ze spodních příček, je velmi motivující. Jsem také ráda, že se nenaplnily predikce, že koalice nepřežije ani první rok.**
 
-***Markéta Monsportová***
+[***Markéta Monsportová***](https://karlovarsky.pirati.cz/lide/marketa-monsportova/)
