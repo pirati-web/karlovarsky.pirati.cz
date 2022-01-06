@@ -6,6 +6,8 @@ titles:
   after:
 category:
   - clenove
+  - pks
+ordpks: 3
 description: Koordinátorka krajského sdružení
 profession: manažerka v tiskárně, markeťačka, produkční, koordinátorka Pirátů Karlovarského kraje
 heroImg: banner-so.jpg
