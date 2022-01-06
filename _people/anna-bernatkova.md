@@ -5,7 +5,8 @@ titles:
   before: 
   after:
 category:
-  -pks
+  - pks
+  - clenove
 ordpks: 5
 description: 4. Místopředsedkyně Krajského sdružení Karlovarského kraje
 profession:
