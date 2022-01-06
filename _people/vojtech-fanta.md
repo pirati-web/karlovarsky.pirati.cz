@@ -7,10 +7,8 @@ titles:
 category:
   - clenove
   - vkraj
-  - pks
 ordvkraj: 1
-ordpks: 2
-description: náměstek hejtmana Karlovarského kraje, 1.místopředseda krajského sdružení
+description: náměstek hejtmana Karlovarského kraje
 profession: krajský zastupitel pro oblast lázeňství a cestovního ruchu, první Pirátský starosta, architekt a spoluzakladatel Šviháka
 heroImg: banner-ml.jpg
 img: people/Vojtech_Franta.jpg # zakomentuj radek dokud není fotka
