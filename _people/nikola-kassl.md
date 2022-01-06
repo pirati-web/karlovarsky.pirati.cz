@@ -8,7 +8,7 @@ category:
   - clenove
   - pms
   - vybory
-description: 2. místopředsedkyně Krajského sdružení Karlovarský kraj a předsedkyně místního sdružení Valeč # zobrazuje se v lide
+description: Předsedkyně místního sdružení Valeč # zobrazuje se v lide
 profession: regionální koordinátorka výzkumného projektu, ekologická zemědělkyně
 heroImg: banner-va.jpg
 img: people/Nikola_Indrova.jpg # zakomentuj radek dokud není fotka
