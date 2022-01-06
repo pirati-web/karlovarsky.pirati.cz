@@ -9,7 +9,7 @@ category:
   - clenove
   - komunal
 ordpks: 1
-description: Radní Lokte
+description: Předseda Krajského sdružení Karlovarského kraje, Radní města Lokte
 profession: památkář, hudebník, učitel houslí na ZUŠ Kynšperk, zastupitel města Lokte, slamer
 heroImg: banner-lo.jpg
 img: people/Vitezslav_Adamec.jpg # zakomentuj radek dokud není fotka
