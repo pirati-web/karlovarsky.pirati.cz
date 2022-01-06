@@ -8,8 +8,8 @@ category:
   - clenove
   - pks
   - komunal
-ordpks: 1
-description:  předseda krajského sdružení, zastupitel Mariánských Lázni
+ordpks: 2
+description:  1. Místopředseda krajského sdružení, zastupitel Mariánských Lázni
 heroImg: banner-ml.jpg
 img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
