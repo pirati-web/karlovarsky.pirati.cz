@@ -6,9 +6,6 @@ titles:
   after: DiS.
 category:
   - clenove
-  - pks
-ordpks: 4
-description: 3. místopředseda krajského sdružení Karlovarský kraj a předseda místního sdružení Chebsko
 profession: sociální pracovník, pracovník městského úřadu, sportovní nadšenec/analytik
 heroImg: banner-ch.jpg
 img: people/Ondrej_Topinka.jpg # zakomentuj radek dokud není fotka
