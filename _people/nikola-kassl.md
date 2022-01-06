@@ -1,15 +1,13 @@
 ---
-uid: nikola.indrova
-name: Nikola Indrová (Kassl)  	# běžně používáné jméno
+uid: nikola.kassl
+name: Nikola Kassl  	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
 category:
   - clenove
-  - pks
   - pms
   - vybory
-ordpks: 3
 description: 2. místopředsedkyně Krajského sdružení Karlovarský kraj a předsedkyně místního sdružení Valeč # zobrazuje se v lide
 profession: regionální koordinátorka výzkumného projektu, ekologická zemědělkyně
 heroImg: banner-va.jpg
