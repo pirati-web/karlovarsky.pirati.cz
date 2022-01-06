@@ -8,7 +8,7 @@ category:
   - clenove
   - pks
 ordpks: 3
-description: 2 místopředsedkyně Krajského sdružení Karlovarského kraje
+description: 2. místopředsedkyně Krajského sdružení Karlovarského kraje
 profession: manažerka v tiskárně, markeťačka, produkční, koordinátorka Pirátů Karlovarského kraje
 heroImg: banner-so.jpg
 img: people/Lucie_Trckova.jpg # zakomentuj radek dokud není fotka
