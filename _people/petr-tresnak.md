@@ -9,7 +9,7 @@ category:
   - pks
   - komunal
 ordpks: 2
-description:  1. Místopředseda krajského sdružení, zastupitel Mariánských Lázni
+description:  1. Místopředseda krajského sdružení, zastupitel Mariánských Lázní
 heroImg: banner-ml.jpg
 img: people/petr_tresnak.jpg # zakomentuj radek dokud není fotka
 mail:
