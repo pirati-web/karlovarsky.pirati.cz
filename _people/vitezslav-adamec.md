@@ -5,8 +5,10 @@ titles:
   before: Mgr.
   after: DiS.
 category:
+  - pks
   - clenove
   - komunal
+pksord: 1
 description: Radní Lokte
 profession: památkář, hudebník, učitel houslí na ZUŠ Kynšperk, zastupitel města Lokte, slamer
 heroImg: banner-lo.jpg
