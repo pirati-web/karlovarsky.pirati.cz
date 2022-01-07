@@ -1,5 +1,5 @@
 ---
-date: 2022-01-03
+date: 2022-01-06
 category: blog
 layout: post
 tags: Tiskova_zprava
