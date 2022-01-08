@@ -22,14 +22,14 @@ main:
   - link: /epic/
     name: e-PIC
     match: epic
-  - link: https://www.piratiastarostove.cz/kandidati/kraj/karlovarsky/
-    name: Volby 2021
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+#      - link: https://www.piratiastarostove.cz/kandidati/kraj/karlovarsky/
+    name: Volby 2021
     
 bottom:
   - class: small-12 medium-4
