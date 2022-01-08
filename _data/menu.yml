@@ -29,7 +29,7 @@ main:
     name: Kontakt
     match: kontakt
 #      - link: https://www.piratiastarostove.cz/kandidati/kraj/karlovarsky/
-    name: Volby 2021
+    #name: Volby 2021
     
 bottom:
   - class: small-12 medium-4
