@@ -20,7 +20,7 @@ profiles:
   instagram: https://www.instagram.com/kaja.specian/
   linkedin:
 ---
-**17 let, student, Mediální spojka Pirátské strany pro Karlovarský kraj, Karlovy Vary**
+**18 let, student, Mediální spojka Pirátské strany pro Karlovarský kraj, Karlovy Vary**
 
 Karel studuje na gymnáziu v Karlových Varech a pracuje jako mediální spojka pro Piráty v Karlovarském kraji.
 Pochází z Hor u Karlových Varů. 
