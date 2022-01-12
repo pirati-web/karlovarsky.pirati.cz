@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - kontaktni_osoba
-description: mediální spojka pro Karlovarský Kraj
+description: PR spojka pro Karlovarský Kraj
 profession: student, Mediální spojka Pirátské strany pro Karlovarský kraj
 heroImg: banner-kv.jpg
 img: people/Karel_Specian.jpg # zakomentuj radek dokud není fotka
@@ -24,5 +24,5 @@ profiles:
 
 Karel studuje na gymnáziu v Karlových Varech a pracuje jako mediální spojka pro Piráty v Karlovarském kraji.
 Pochází z Hor u Karlových Varů. 
-Mezi jeho koníčky patří politika, sport a videoprodukce.
+Mezi jeho koníčky patří politický marketing, účast na všemožných politických simulacích i politika jako taková.
 Od ledna 2021 je také členem Komise pro přeshraniční spolupráci Rady Karlovarského kraje, což z něj dělá nejmladšího člena krajské komise v ČR.
