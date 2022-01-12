@@ -8,7 +8,6 @@ tags:
 title: Zrušení VŘ na CNG autobusy a co z toho plyne?
 author: Piráti Karlovarský kraj
 image: posts/autobusy.png
-important: true
 ---
 **Jistě vás neminula informace o těsném rozhodnutí rady, na základě kterého krajský úřad zrušil výběrové řízení pro veřejnou dopravu v regionu. Okolo tohoto tématu se to hemží dotazy, které dle nás stojí za to zodpovědět.**
 
