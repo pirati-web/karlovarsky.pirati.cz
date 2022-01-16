@@ -5,7 +5,7 @@ layout: post
 title: Rok ve vedení kraje očima Vojtěcha Franty
 author: Vojtěch Franta
 authorId: vojtech.franta
-image: posts/vojtafranta.PNG
+image: posts/vojtafranta.jpg
 important: true
 ---
 
