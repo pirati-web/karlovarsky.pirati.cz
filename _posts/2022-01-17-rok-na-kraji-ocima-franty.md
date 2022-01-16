@@ -3,7 +3,6 @@
 date: 2022-01-16
 category: blog
 layout: post
-tags: 
 title: Rok ve vedení kraje očima Vojtěcha Franty
 author: Vojtěch Franta
 authorId: vojtech.franta
