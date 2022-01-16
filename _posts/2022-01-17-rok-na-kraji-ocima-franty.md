@@ -8,6 +8,7 @@ authorId: vojtech.franta
 image: posts/vojtafranta.jpg
 important: true
 ---
+**Lázeňství, cestovní ruch, transformace regionu, IT nebo zápis lázeňského trojúhelníku na seznam UNESCO. To jsou věci, na kterých poslední rok pracoval Vojtěch Franta, náměstek hejtmana Karlovarského kraje za Piráty. V druhém díle našeho miniseriálu se s vámi i on podělil o to, jaký byl jeho první uplynulý rok v pozici náměstka.**
 
 ## Cestovní ruch
 
