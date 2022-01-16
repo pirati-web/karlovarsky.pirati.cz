@@ -1,5 +1,5 @@
 ---
-date: 2022-01-16
+date: 2022-01-
 category: blog
 layout: post
 title: Rok ve vedení kraje očima Vojtěcha Franty
