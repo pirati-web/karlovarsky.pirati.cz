@@ -10,7 +10,6 @@ title: Vzájemným respektem skoncujme s polarizací
 author: Lukáš Zykán
 authorId: lukas.zykan
 image: posts/zykan.png
-important: true
 ---
 **Covidových témat je všude plno. Na sociálních sítích je plno nenávisti, v osobních hovorech mezi lidmi nevyjímaje. Začali jsme se dělit na MY a ONI, očkovaní a neočkovaní. Nevraživost mezi těmito tábory sílí a je to leckdy nemilé až smutné čtení. Skoro jsme zapomněli, co je příčinou a už se na sebe díváme jen skrz prsty.** 
 
