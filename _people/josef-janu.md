@@ -4,12 +4,8 @@ name:     Josef Janů      		# běžně používáné jméno
 titles: 
   before: Ing.
   after:
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- clenove
-- kraj
-- komunal
-- vybory
-ordkraj: 1
+category:                 	
+
 profession: stavební inženýr
 heroImg: banner-kv.jpg
 img: people/Josef_Janu.jpg             
@@ -21,7 +17,7 @@ profiles:
   github:
   facebook:				https://www.facebook.com/pepik.janu
   twitter:
-partyUid: pirati  
+partyUid:
 ---
 
 Josef Janů – 24. června 1969. Narozen v Táboře, maturoval na stavební průmyslovce v Českých Budějovicích a následně promoval na ČVUT, fakulta stavební, obor pozemní stavby v Praze. Od roku 1991 žije s manželkou, dvěma dcerami a synem v Karlových Varech.  
