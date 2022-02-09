@@ -1,5 +1,5 @@
 ---
-date: 2022-02-07
+date: 2022-02-08
 category: blog
 layout: post
 title: Bílé moře za Krušnými horami
