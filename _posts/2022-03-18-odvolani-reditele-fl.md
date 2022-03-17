@@ -3,7 +3,7 @@ date: 2022-02-18
 category: blog
 layout: post
 title: Stanovisko k odvolání ředitele Muzea Františkovy Lázně
-authorId: vojtech.franta
+author: Piráti Karlovarského kraje
 image: posts/muzeumFL.jpg
 important: true
 ---
