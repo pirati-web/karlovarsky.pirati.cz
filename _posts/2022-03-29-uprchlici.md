@@ -2,7 +2,7 @@
 date: 2022-03-28
 category: blog
 layout: post
-title: Příchod uprchlíků do regionu – příležitost, kterou je třeba využít
+title: Rychlá integrace uprchlíků v regionu – příležitost, kterou je třeba využít
 authorId: marketa.monsportova
 image: monsportova2022.jpg
 important: true
