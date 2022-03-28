@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Speciální operace a mír
 authorId: jindrich.cermak
-image: cermak2021.png
+image: posts/cermak2021.png
 important: true
 ---
 **24. února jsme se probudili do zcela nového světa. Do střední Evropy přišla obava z bezpečnosti.
