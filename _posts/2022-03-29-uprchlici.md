@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Rychlá integrace uprchlíků v regionu – příležitost, kterou je třeba využít
 authorId: marketa.monsportova
-image: monsportova2022.jpg
+image: posts/monsportova2022.jpg
 important: true
 ---
 Válka na Ukrajině a příliv uprchlíků změnil mnohé a společnost na celou situaci reaguje všemi možnými způsoby. Pro Karlovarský kraj však přináší velkou příležitost v podobě řešení problému, se kterým jsme se během posledních let potýkali. Odlivu mladých a perspektivních lidí z regionu. Mezi lety 2011 a 2021 to bylo dokonce 18 000. Teď máme šanci, která se jen tak znovu neobjeví.
