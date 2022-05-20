@@ -6,7 +6,6 @@ title: Rok ve vedení kraje očima Vojtěcha Franty
 author: Vojtěch Franta
 authorId: vojtech.franta
 image: posts/vojtafranta.jpg
-important: true
 ---
 **Lázeňství, cestovní ruch, transformace regionu, IT nebo zápis lázeňského trojúhelníku na seznam UNESCO. To jsou věci, na kterých poslední rok pracoval Vojtěch Franta, náměstek hejtmana Karlovarského kraje za Piráty. V druhém díle našeho miniseriálu se s vámi i on podělí o to, jaký byl jeho první uplynulý rok ve vedení Karlovarského kraje.**
 
