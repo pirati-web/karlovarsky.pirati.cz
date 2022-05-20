@@ -6,9 +6,7 @@ tags: Tiskova_zprava
 title: Piráti v Karlovarském kraji si zvolili nové předsednictvo
 author: Tiskova zprava
 image: posts/5predsednictvo.png
-important: true
 ---
-
  *6. 1.2022, Karlovy Vary -* **Členská základna Pirátů v Karlovarském kraji si zvolila nové předsednictvo krajského sdružení. Novým předsedou se stal loketský radní Vítězslav Adamec. Mandát v předsednictvu obhájil bývalý poslanec Petr Třešňák a krajský radní Jindřich Čermák. Novými členkami předsednictva se stala místopředsedkyně sokolovského sdružení Lucie Trčková a ostrovská patriotka Anna Bernátková. Nové předsednictvo se chce zaměřit zejména na práci s novými členy a nadcházející komunální volby.**
 
 > *"Osobně bych se rád zejména věnoval vzniku nových místních sdružení a nalezení nových zájemců v dalších obcích a to nejen tradičními metodami, ale i např. organizací přednášek, koncertů, pilotních setkání s příznivci či přímo krajských schůzí v městech a obcích, kde nemáme zastoupení,"* **uvedl ve své kandidátské řeči Vítězslav Adamec.**
