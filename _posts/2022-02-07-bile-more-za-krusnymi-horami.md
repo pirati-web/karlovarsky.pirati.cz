@@ -5,7 +5,6 @@ layout: post
 title: Bílé moře za Krušnými horami
 authorId: vojtech.franta
 image: posts/krusnehory.jpg
-important: true
 ---
 **V Česku nám často chybí širší souvislosti, nedokážeme dohlédnout za vejminek své rodné hroudy, málo se inspirujeme v zahraničí, nedokážeme na sebe být hrdí a vzájemně se podporovat. Takový pocit jsem měl donedávna i z našich Krušných hor.**
 
