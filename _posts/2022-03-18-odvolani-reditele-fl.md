@@ -5,7 +5,6 @@ layout: post
 title: Stanovisko k odvolání ředitele Muzea Františkovy Lázně
 author: Piráti Karlovarského kraje
 image: posts/muzeumFL.jpg
-important: true
 ---
 **Rádi bychom se jako Piráti Karlovarského kraje vymezili proti jednání Jana Kuchaře (STAN), starosty Františkových Lázní a poslance za koalici Pirátů a Starostů, ve věci odvolání ředitele Muzea Františkovy Lázně, Štěpána Karla Odstrčila.** 
 
