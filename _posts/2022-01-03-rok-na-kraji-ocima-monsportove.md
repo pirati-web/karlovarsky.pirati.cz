@@ -7,7 +7,6 @@ title: Rok ve vedení kraje očima Markéty Monsportové
 author: Markéta Monsportová
 authorId: marketa.monsportova
 image: posts/roknakraji.jpeg
-important: true
 ---
 
 **Na konci roku je zvykem bilancovat a nám uplynul první rok v krajské vládě. „Uplynul“ není vhodné slovo, výstižnější, alespoň za mě je „uběhl“ a to tryskem. Rok 2021 byl asi tím nejrychlejším v mém dosavadním životě. ¼ volebního období je za námi. Tady je mé krátké ohlédnutí, budu se snažit být stručná, aby byl prostor i pro kolegy.**
