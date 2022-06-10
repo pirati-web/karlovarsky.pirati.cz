@@ -8,7 +8,7 @@ tags:
     - Kampaň
 title: Piráti v Karlovarském kraji představili lídry do komunálních voleb
 author: Tisková zpráva
-image: posts/foto_tk_2020.jpg
+image: posts/tiskovka2022.JPG
 important: true
 ---
 10.6.2022, Karlovy Vary - **Na páteční tiskové konferenci představili Piráti lídry do komunálních voleb. Mezi hlavní priority patřila tradiční pirátská témata jako otevření radnic lidem, bydlení či digitalizace.**
