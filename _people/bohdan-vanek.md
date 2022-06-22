@@ -10,7 +10,7 @@ profession: ekonomický analytik a manažer rozvojových projektů
 heroImg: banner-kv.jpg
 img: people/bohdan_vanek.jpg # zakomentuj radek dokud není fotka
 mail:
-- vanek@sanchopanza.cz
+- Bohdan.Vanek@pirati.cz
 profiles:
   facebook:
 ---
