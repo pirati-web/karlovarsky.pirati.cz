@@ -8,7 +8,7 @@ category:
 description: 
 profession: ekonomický analytik a manažer rozvojových projektů
 heroImg: banner-kv.jpg
-img: people/Bohdan_vanek.jpg # zakomentuj radek dokud není fotka
+img: people/bohdan_vanek.jpg # zakomentuj radek dokud není fotka
 mail:
 - vanek@sanchopanza.cz
 profiles:
