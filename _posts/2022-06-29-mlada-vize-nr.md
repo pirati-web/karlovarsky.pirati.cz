@@ -9,7 +9,7 @@ tags:
 title: Mladá vize pro Novou Roli
 author: Petr Antonín Kumstát
 authorId: petr.kumstat
-image: posts/kumstát.jpg
+image: posts/kumstat.jpg
 important: true
 ---
 **Také vám přijde, že radnice v Nové Roli je čím dál vzdálenější občanům? Že město přichází o svoji perspektivu a potenciál, který bezpochyby má? Není divu. Málokdo by po dvanácti letech ve vedení města vymýšlel nové a zajímavé věci. 
@@ -19,5 +19,5 @@ Máme jasnou vizi změny. Otevřenou a přívětivou radnici a město, kde se n�
 V září tohoto roku bude ve vašich rukou zvolit si změnu. 
 S MLADOU VIZÍ TO ZVLÁDNEME!
 
-***Petr Antonín Kumstát
+***Petr Antonín Kumstát,
 lídr novorolských Pirátů***
