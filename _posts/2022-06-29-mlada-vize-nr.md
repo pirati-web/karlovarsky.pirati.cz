@@ -8,7 +8,6 @@ tags:
     - Kampaň
 title: Mladá vize pro Novou Roli
 author: Petr Antonín Kumstát
-authorId: petr.kumstat
 image: posts/kumstat.jpg
 important: true
 ---
