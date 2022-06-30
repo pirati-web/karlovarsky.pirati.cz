@@ -10,7 +10,6 @@ title: Vzájemným respektem proti polarizaci II.
 author: Lukáš Zykán
 authorId: lukas.zykan
 image: posts/zykan.png
-important: true
 ---
 **Když jsem psal poslední článek do krajských listů na sklonku roku, svým způsobem jsem vyzýval ke vzájemnému respektu ve smyslu očkovaní vs. neočkovaní. Toto téma v poslední době dost vyšumělo v souvislosti s tím, co se nyní děje na Ukrajině. Bohužel ale zůstává společnost rozdělená na dva tábory, které v podstatě kopírují nevraživost očkovaných a neočkovaných z minulého období. Je to zřejmě i tím, z jakých informační zdrojů tyto skupiny čerpají. Do toho se promítá samozřejmě i frustrace ze zdražování všech možných produktů i služeb.** 
 
