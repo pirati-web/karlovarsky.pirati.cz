@@ -11,7 +11,7 @@ author: Petr Antonín Kumstát
 image: posts/kumstat.jpg
 important: true
 ---
-**Každý bezesporu občas potřebuje změnu, aby načerpal novou inspiraci pro budoucí vizi a fungování, to platí i pro naše město, kde se stále opakují ty stejné tváře.*
+**Každý bezesporu občas potřebuje změnu, aby načerpal novou inspiraci pro budoucí vizi a fungování, to platí i pro naše město, kde se stále opakují ty stejné tváře.**
 
 Máme jasnou vizi změny. Otevřenou a přívětivou radnici a město, kde se názory a nápady občanů neztratí. Využijeme potenciál našeho města a jeho občanů. Město, kde se myslí na všechny - včetně těch bez volebního práva. 
 
