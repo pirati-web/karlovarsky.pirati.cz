@@ -23,7 +23,8 @@ Nová destinační agentura bude mít za úkol právě koordinaci aktivit všech
 
 Nyní je před Karlovarským krajem velký úkol, a to samotný akt založení společné destinační agentury, otevřené výběrové řízení na ředitele/ředitelku této agentury a intenzivní komunikace následných kroků s celým územím. Právě tato komunikace bude klíčová pro úspěšný start agentury a tím udržitelného rozvoje Krušných hor.
 
-***Vojtěch Franta
-náměstek hejtmana Karlovarského kraje***
+***Vojtěch Franta,***
+
+***náměstek hejtmana Karlovarského kraje***
 
 
