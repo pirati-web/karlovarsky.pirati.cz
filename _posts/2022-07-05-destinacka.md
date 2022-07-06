@@ -14,6 +14,7 @@ important: true
 ---
 **Zastupitelstvo Karlovarského kraje na svém červnovém zasedání schválilo návrh pirátského náměstka Vojtěcha Franty na založení nové Destinační agentury Krušnohoří. Z krajského rozpočtu uvolní 2 miliony korun a stejnou částku přispěje i Ústecký kraj. Právě spolupráce mezi dvěma kraji a Montanregionem o.p.s., tedy společenstvím obcí, jejichž památky byly zapsány na seznam UNESCO, byla pro tento významný krok klíčová.**
 
+
 Krušné hory potřebují jednotný management rozvoje cestovního ruchu na celém svém území. Spolu s dobře definovaným územním rozvojem a kvalitní ochranou přírody mohou být splněny všechny parametry pro to, aby se Krušné hory rozvíjely v harmonii a v souladu s potřebami místních obyvatel a zároveň byly stále lákavé pro nové investice a citlivý rozvoj.
 
 V současnosti jsme však často svědky opačného přístupu, kdy naše krušnohoří čelí živelnému developmentu, komercionalizaci a dalším negativním trendům, které pomalu ubírají z autenticity a ryzosti, která je zde však stále přítomna. Právě proto nastal nejvyšší čas na vznik oblastní destinační agentury, která pokryje svým působením celý pás Krušných hor i jejich podhůří.
