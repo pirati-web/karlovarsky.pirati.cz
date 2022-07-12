@@ -10,7 +10,7 @@ title: Otevřená radnice ve Valči!
 author: Nikola Kassl
 authorId: nikola.kassl
 image: posts/kassl.jpg
-important: true
+important:
 ---
 **Hlavním cílem valečských Pirátů je obecní úřad dostupný pro všechny, ale hlavně také v online podobě. Ve Valči se nám v minulých volbách podařilo obhájit post zastupitele, který zastává Jiří Metod Kassl. Ten dlouhodobě prosazuje, aby sama obec na vlastních webových stránkách poskytovala online přenos zasedání obecního zastupitelstva, jak je běžné i v mnoha jiných obcích Karlovarského kraje a krajským úřadem doporučované. Zasedání často trvají až do nočních hodin a některé občany zajímají jen vybrané body, které by takto mohli sledovat z pohodlí domova.**
 
