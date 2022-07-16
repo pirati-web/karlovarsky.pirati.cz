@@ -9,7 +9,6 @@ tags:
 title: Mladá vize pro Novou Roli
 author: Petr Antonín Kumstát
 image: posts/kumstat.jpg
-important: true
 ---
 **Každý bezesporu občas potřebuje změnu, aby načerpal novou inspiraci pro budoucí vizi a fungování, to platí i pro naše město, kde se stále opakují ty stejné tváře.**
 
