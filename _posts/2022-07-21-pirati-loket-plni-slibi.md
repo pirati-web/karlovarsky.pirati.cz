@@ -12,7 +12,7 @@ authorId: petr.adamec
 image: posts/petradamec.jpg
 important: true
 ---
-**Po čtyřech letech ve vedení města Lokte můžeme s hrdostí prohlásit, že ve spolupráci s našimi koaličními partnery se nám povedlo úspěšně splnit většinu programu, se kterým jsme šli do předešlých komunálních voleb. Zároveň jsme se snažili poprat se s nečekanými událostmi, jako byla covidová krize či příliv ukrajinských uprchlíků. **
+**Po čtyřech letech ve vedení města Lokte můžeme s hrdostí prohlásit, že ve spolupráci s našimi koaličními partnery se nám povedlo úspěšně splnit většinu programu, se kterým jsme šli do předešlých komunálních voleb. Zároveň jsme se snažili poprat se s nečekanými událostmi, jako byla covidová krize či příliv ukrajinských uprchlíků.**
 
 Naší hlavní snahou bylo zapojit do rozhodování o rozvoji města Lokte občany. Zásadní změny a nové investice se musí připravovat ve vzájemné spolupráci, nikoliv za zavřenými dveřmi radnice, jak to bylo zvykem v minulosti. Pravidelně pořádáme diskuse s občany, či ankety nad aktuálními problémy. Aktuálně připravujeme nové webové stránky města, které by měly splňovat všechny náležitosti pirátské transparance a přívětivosti. 
 Klíčové jsou samozřejmě investice. Na ty se nám podařilo získat dotační prostředky v řádech desítek milionů korun, což je naprosto nesrovnatelné oproti rokům minulým. Mezi nejdůležitější z nich patří dokončení obnovy Dvorany, ve kterém aktuálně sídlí Základní umělecká škola a Kulturní dům. Naším cílem od začátku bylo, aby Dvorana sloužila místním včetně dětí, což se naštěstí podařilo. 
