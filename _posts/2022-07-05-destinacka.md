@@ -10,7 +10,6 @@ title: Krušnohorská destinačka
 author: Vojtěch Franta
 authorId: vojtech.franta
 image: posts/vojtafranta.jpg
-important: true
 ---
 **Zastupitelstvo Karlovarského kraje na svém červnovém zasedání schválilo návrh pirátského náměstka Vojtěcha Franty na založení nové Destinační agentury Krušnohoří. Z krajského rozpočtu uvolní 2 miliony korun a stejnou částku přispěje i Ústecký kraj. Právě spolupráce mezi dvěma kraji a Montanregionem o.p.s., tedy společenstvím obcí, jejichž památky byly zapsány na seznam UNESCO, byla pro tento významný krok klíčová.**
 
