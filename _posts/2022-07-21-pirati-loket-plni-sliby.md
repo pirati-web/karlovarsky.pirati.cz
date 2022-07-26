@@ -12,7 +12,7 @@ authorId: petr.adamec
 image: posts/petradamec.jpg
 important: true
 ---
-**Po čtyřech letech ve vedení města Lokte můžeme s hrdostí prohlásit, že ve spolupráci s našimi koaličními partnery se nám povedlo úspěšně splnit většinu programu, se kterým jsme šli do předešlých komunálních voleb. Zároveň jsme se snažili poprat se s nečekanými událostmi, jako byla covidová krize či příliv ukrajinských uprchlíků.**6
+**Po čtyřech letech ve vedení města Lokte můžeme s hrdostí prohlásit, že ve spolupráci s našimi koaličními partnery se nám povedlo úspěšně splnit většinu programu, se kterým jsme šli do předešlých komunálních voleb. Zároveň jsme se snažili poprat se s nečekanými událostmi, jako byla covidová krize či příliv ukrajinských uprchlíků.**
 
 Naší hlavní snahou bylo zapojit do rozhodování o rozvoji města Lokte občany. Zásadní změny a nové investice se musí připravovat ve vzájemné spolupráci, nikoliv za zavřenými dveřmi radnice, jak to bylo zvykem v minulosti. Pravidelně pořádáme diskuse s občany, či ankety nad aktuálními problémy. Aktuálně připravujeme nové webové stránky města, které by měly splňovat všechny náležitosti pirátské transparance a přívětivosti. Informování občanů jsme rozšířili o funknčí facebookový profil města a v posledních měsícíh i službu mobilního rozhlasu. 
 
@@ -33,4 +33,5 @@ Město jsou však zejména jeho občané, a i díky nim jsme hrdí na naše měs
 
  
 Budeme rádi, když se na tom společně s Vámi budeme moci podílet i v budoucnu.
+
 ***Petr Adamec, starosta Lokte***
