@@ -6,7 +6,7 @@ tags:
     - Piratske_listy
     - Komunální_volby
     - Kampaň
-title: Piráti v Lokti plní, co slíbili
+title: Zapojujeme veřejnost do rozhodování o rozvoji Lokte
 author: Petr Adamec
 authorId: petr.adamec
 image: posts/petradamec.jpg
