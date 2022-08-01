@@ -9,7 +9,6 @@ tags:
 title: Rozhovor s lídryní sokolovských Pirátů Terezou Zykánovou
 author: Piráti Karlovarský kraj
 image: posts/zykanova.jpg
-important: true
 ---
 
 **V letošních komunálních volbách kandidují Piráti také v Sokolově, kde obhajují post zastupitele. Jaké byly poslední čtyři roky v opozici? Co se Pirátům v Sokolově podařilo prosadit? Či téma mladých lidí v komunální politice. To vše a mnoho dalšího se dozvíte v rozhovoru s Terezou Zykánovou, lídryní Pirátů v Sokolově pro letošní komunální volby.**
