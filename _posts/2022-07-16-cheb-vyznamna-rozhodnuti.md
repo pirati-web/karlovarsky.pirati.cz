@@ -10,7 +10,6 @@ title: Cheb čekají významná rozhodnutí
 author: Ondřej Špendlíček
 authorId: ondrej.spendlicek
 image: posts/spendlicek.jpg
-important: true
 ---
 **Piráti jsou poslední tři a půl roku na radnici v koalici se silným partnerem, Volbou pro město (VPM). Ještě spolu s Koalicí pro Cheb (KpCh) a Hnutím 2018 zde představují ucelenou jednotu, která svou názorovou blízkost prezentovala již před posledními komunálními volbami a která trvá i dnes.**
 
