@@ -10,7 +10,6 @@ title: V Mariánských Lázních máme přírodu na prvním místě!
 author: Martin Kalina
 authorId: martin.kalina
 image: posts/kalina.jpg
-important: true
 ---
 **O působení Pirátů v Mariánských Lázních se dá napsat mnohé. Byli jsme prvními zástupci Pirátské strany, kteří v roce 2014 usedli do vedení nějaké radnice a v roce 2018 své vítězství obhájili. Téhož roku se pak do vedení radnic po celé ČR připojili i další členové Pirátské strany.**
 
