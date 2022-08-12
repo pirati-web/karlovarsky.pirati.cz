@@ -10,7 +10,6 @@ title: Zapojujeme veřejnost do rozhodování o rozvoji Lokte
 author: Petr Adamec
 authorId: petr.adamec
 image: posts/petradamec.jpg
-important: true
 ---
 **Po čtyřech letech ve vedení města Lokte můžeme s hrdostí prohlásit, že ve spolupráci s našimi koaličními partnery se nám povedlo úspěšně splnit většinu programu, se kterým jsme šli do předešlých komunálních voleb. Zároveň jsme se snažili poprat se s nečekanými událostmi, jako byla covidová krize či příliv ukrajinských uprchlíků.**
 
