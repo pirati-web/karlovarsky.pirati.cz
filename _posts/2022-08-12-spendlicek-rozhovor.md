@@ -9,7 +9,6 @@ title: Rozhovor s lídrem | Ondřej Špendlíček
 author: Karel Špecián
 authorId: karel.specian
 image: posts/spendlicek.jpg
-important: true
 ---
 Ve třetím díle rozhovorů s lídry do komunálních voleb v Karlovarském kraji se představil Ondřej Špendlíček, radní města Chebu a lídr chebských Pirátů.
 Společně jsme zhodnotili poslední 4 roky na radnici a dozvíte se také, co chebští Piráti plánují v Chebu do příštího volebního období.
