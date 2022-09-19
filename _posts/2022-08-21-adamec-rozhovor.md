@@ -9,7 +9,6 @@ title: Rozhovor s lídrem | Petr Adamec
 author: Karel Špecián
 authorId: karel.specian
 image: posts/petradamec.jpg
-important: true
 ---
 **Petr Adamec je úspěšným Pirátským starostou města Loket. Jak sám říká, poslední 4 roky nebyly jednoduché a byly plné výzev jako kůrovcová kalamita či covid. I přes to všechno to byly 4 roky plné úspěchů.**
 Co všechno se Pirátům v Lokti podařilo a co plánují do příštího volebního období? To a mnoho dalšího se dozvíte v dnešním díle Rozovoru s lídrem!
