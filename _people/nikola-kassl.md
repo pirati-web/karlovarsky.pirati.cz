@@ -8,6 +8,7 @@ category:
   - clenove
   - pms
   - vybory
+  - komunal
 description: Předsedkyně místního sdružení Valeč # zobrazuje se v lide
 profession: regionální koordinátorka výzkumného projektu, ekologická zemědělkyně
 heroImg: banner-va.jpg
