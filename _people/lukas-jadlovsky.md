@@ -6,9 +6,8 @@ titles:
   after:
 category:
   - clenove
-  - komunal
-description: Zastupitel Mariánských Lázní
-profession: OSVČ, zastupitel města Mariánské Lázně, technologický geek
+description:
+profession: OSVČ, technologický geek
 heroImg: banner-ml.jpg
 img: people/lukas_jadlovsky.jpg # zakomentuj radek dokud není fotka
 mail:
