@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - komunal
   - vybory
 description: zastupitel Mariánských Lázní
 profession: EMEA Cyber Security Manager, zastupitel města Mariánské Lázně
