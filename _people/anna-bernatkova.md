@@ -7,8 +7,9 @@ titles:
 category:
   - pks
   - clenove
+  - komunal
 ordpks: 5
-description: 4. Místopředsedkyně Krajského sdružení Karlovarského kraje
+description: 4. Místopředsedkyně Krajského sdružení Karlovarského kraje, zastupitelka Ostrova
 profession:
 heroImg: banner-kv.jpg
 img: people/Anna_Bernatkova.png # zakomentuj radek dokud není fotka
