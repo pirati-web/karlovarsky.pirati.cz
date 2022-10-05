@@ -6,9 +6,8 @@ titles:
   after:
 category:
   - clenove
-  - komunal
-description: Zastupitel Karlových Varů
-profession: projektant vzduchotechniky, zastupitel města Karlovy Vary
+description:
+profession: projektant vzduchotechniky
 heroImg: banner-kv.jpg
 img: people/Pavel_Susanin.jpg # zakomentuj radek dokud není fotka
 mail:
