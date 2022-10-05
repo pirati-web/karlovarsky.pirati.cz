@@ -6,8 +6,7 @@ titles:
   after:
 category:
   - clenove
-  - komunal
-description: Zastupitel Chebu
+description: 
 heroImg: banner-ch.jpg
 img: people/lada_tkaczysyn.jpg # zakomentuj radek dokud není fotka
 mail:
