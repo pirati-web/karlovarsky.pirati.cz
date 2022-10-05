@@ -6,8 +6,7 @@ titles:
   after:
 category:
   - clenove
-  - komunal
-description: Zastupitelka Karlových Varů
+description: 
 heroImg: banner-kv.jpg
 img: people/renata_kozakova.png # zakomentuj radek dokud není fotka
 mail:
