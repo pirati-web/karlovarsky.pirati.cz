@@ -6,9 +6,8 @@ titles:
   after:
 category:
   - clenove
-  - komunal
-description: Radní Chebu
-profession: vedoucí sociálních služeb, radní města Cheb
+description: 
+profession: vedoucí sociálních služeb
 heroImg: banner-ch.jpg
 img: people/ondrej_spendlicek.jpg # zakomentuj radek dokud není fotka
 mail:
