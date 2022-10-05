@@ -6,10 +6,9 @@ titles:
   after:
 category:
   - clenove
-  - komunal
   - vybory
-description: Zastupitelka Sokolova
-profession: manager domácnosti, zastupitelka města Sokolov
+description:
+profession: manager domácnosti
 heroImg: banner-so.jpg
 img: people/Tereza_Zykanova.jpg # zakomentuj radek dokud není fotka
 mail:
