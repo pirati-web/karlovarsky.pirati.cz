@@ -5,8 +5,7 @@ titles:
   before:
   after:
 category:
-  - komunal
-description: Zastupitel Lokte
+description:
 heroImg: banner-lo.jpg
 img: people/roman_kvak.jpg # zakomentuj radek dokud není fotka
 mail:
