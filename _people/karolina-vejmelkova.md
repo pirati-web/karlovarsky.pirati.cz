@@ -5,9 +5,8 @@ titles:
   before: Bc. et Bc.
   after:
 category:
-  - komunal
-description: Radní Mariánských Lázní
-profession: sociální pracovník, radní města Mariánské Lázně
+description:
+profession: sociální pracovník
 heroImg: banner-ml.jpg
 img: people/Karolina_Vejmelkova.jpg # zakomentuj radek dokud není fotka
 mail:
