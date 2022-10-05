@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - komunal
 description: Zastupitel ve městě Valeč
 # img: people/ # zakomentuj radek dokud není fotka
 mail:
