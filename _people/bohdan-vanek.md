@@ -7,7 +7,8 @@ titles:
 category: 
         - clenove
         - komunal
-description: 
+        - vybory
+description: zastupitel Karlových Varů
 profession: ekonomický analytik a manažer rozvojových projektů
 heroImg: banner-kv.jpg
 img: people/1Bohdan_Vanek.jpg # zakomentuj radek dokud není fotka
