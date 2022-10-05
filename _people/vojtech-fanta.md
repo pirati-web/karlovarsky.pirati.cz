@@ -7,6 +7,7 @@ titles:
 category:
   - clenove
   - vkraj
+  - komunal
 ordvkraj: 1
 description: náměstek hejtmana Karlovarského kraje
 profession: krajský zastupitel pro oblast lázeňství a cestovního ruchu, první Pirátský starosta, architekt a spoluzakladatel Šviháka
