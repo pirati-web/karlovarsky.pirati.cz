@@ -8,8 +8,8 @@ category:
   - clenove
   - komunal
   - vybory
-description: Radní Mariánských Lázní
-profession: OSVČ, radní města Mariánské Lázně, fotograf, marketér
+description: Zastupitel Mariánských Lázní
+profession: OSVČ, Náměstek Ministra Zdravotnictví, fotograf, marketér
 heroImg: banner-ml.jpg
 img: people/Josef_Pavlovic.jpg # zakomentuj radek dokud není fotka
 mail:
