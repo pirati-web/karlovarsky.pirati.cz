@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:
-description: Zastupitelka města Karlovy Vary
+description: 
 img: people/barbora_hradecna.png # zakomentuj radek dokud není fotka
 mail:
 - barbora.hradecna@pirati.cz
