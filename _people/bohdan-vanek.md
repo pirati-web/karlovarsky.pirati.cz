@@ -4,7 +4,9 @@ name:     Bohdan Vaněk 	# běžně používáné jméno
 titles:
   before: Ing.
   after: M.A.
-category: clenove, komunal
+category: 
+        - clenove
+        - komunal
 description: 
 profession: ekonomický analytik a manažer rozvojových projektů
 heroImg: banner-kv.jpg
