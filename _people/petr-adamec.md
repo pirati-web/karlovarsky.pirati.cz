@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - starostove
   - komunal
   - vybory
 description: Starosta Lokte
