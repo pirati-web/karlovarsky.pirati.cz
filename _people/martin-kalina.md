@@ -24,9 +24,6 @@ profiles:
   linkedin:
 partyUid: pirati
 ---
-
-Mariánské Lázně jsou Pirátská bašta, už druhé volební období je tamní starosta Pirát. Tím současným je od začátku roku 2018 Martin Kalina, Piráty před dvěma lety dovedl k obhajobě volebního vítězství.
-
 Martin je mariánskolázeňský rodák a patriot, které své rodné město "opustil" jen na dobu studií ekonomie na ZČU. Dlouhá léta pracoval jako dopravní dispečer, právě z této pozice přešel do funkce starosty. Ale dopravní problematika je stále v jeho hledáčku.
 
 Za poslední dva roky v Mariánských Lázních se jeho týmu povedla celá řada věcí. Je třeba zdůraznit, že úspěchy nejsou věcí jednotlivců. Pokud se má něco podařit, je třeba, aby na tom zamakali všichni. A právě to je podle jeho názoru hlavním důvodem Pirátských výsledků v Mariánských Lázních.
