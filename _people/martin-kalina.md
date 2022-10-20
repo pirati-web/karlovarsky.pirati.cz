@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - starostove
   - kraj
   - komunal
 ordkraj: 6
