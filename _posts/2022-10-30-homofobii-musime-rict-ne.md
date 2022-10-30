@@ -9,7 +9,7 @@ tags:
 title: Homofobii a šíření nenávisti musíme razantně odmítnout!
 author: Markéta Monsportová
 authorId: marketa.monsportova
-image: posts/monsportova_zapadakov.png
+image: posts/monsportova_zapadakov.jpg
 important: true
 ---
 **Od brutální vraždy z nenávisti v bratislavském klubu Tepláreň přemýšlím nad tím, co mohu já jako jednotlivec aktivní v politice udělat pro to, aby se podobné útoky v našich končinách nestaly.**
