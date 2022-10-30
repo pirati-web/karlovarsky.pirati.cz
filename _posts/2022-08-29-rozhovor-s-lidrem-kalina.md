@@ -9,7 +9,6 @@ title: Rozhovor s lídrem | Martin Kalina
 author: Karel Špecián
 authorId: karel.specian
 image: posts/kalina.jpg
-important: true
 ---
 **Mariánské Lázně jsou pro Piráty obzvlášť významným městěm. Zaznamenali jsme zde poprvé úspěch v komunálních volbách, získali historicky poprvé pozici starosty a nyní ho Piráti v Mariánkách již podruhé obhajují.**
 
