@@ -20,6 +20,6 @@ Jedním z nástrojů, které tuto informovanost umožňují, je veřejně přís
 
 Máme obrovskou radost, že toto klíčové pirátské téma se podařilo po iniciativě náměstka Vojtěch Franta prosadit, a věříme, že povede k větší průhlednosti krajských financí - tedy i důvěryhodnosti našeho hospodaření ve vedení kraje.
 
-Jak kraj s vašimi penězi nakládá si teď můžete zjistit z pohodlí svého domova přes stránky https://pi2.cz/kvkrozp .
+Jak kraj s vašimi penězi nakládá si teď můžete zjistit z pohodlí svého domova přes [platformu Cityvisor](https://pi2.cz/kvkrozp).
 
 **Ing. Martin Kalina, člen zastupitelstva KK a předseda finančního výboru KK3**
