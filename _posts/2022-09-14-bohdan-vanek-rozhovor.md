@@ -9,7 +9,6 @@ title: Rozhovor s lídrem - senátní speciál| Bohdan Vaněk
 author: Karel Špecián
 authorId: karel.specian
 image: posts/vanek.jpg
-important: true
 ---
 **Historicky prvním pirátským kandidátem do Senátu za obod č. 1 - Karlovy Vary je ekonom a projektový manažer Bohdan Vaněk. 
 Čemu se chce v Senátu věnovat, co je třeba na Karlovarsku změnit a hlavně, jak dosáhnout toho, aby bylo Karlovarsko jednou úplně nejlepší ve všem. 
