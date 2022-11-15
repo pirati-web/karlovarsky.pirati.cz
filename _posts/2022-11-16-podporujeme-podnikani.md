@@ -21,8 +21,3 @@ Podnikatele v tom samozřejmě nehodláme nechat. Proto jsme připravili přehle
 Mám radost, že se workshop setkal jednak s hojnou účastí, ale také s pozitivní odezvou. Kraj prostě musí být v tomto ohledu sám proaktivní a podnikatele by měl pravidelně o nových možnostech informovat a pomáhat úskalí spojená s výzvami dnešní doby překonat.
 
 ***Vojtěch Franta, náměstek hejtmana Karlovarského kraje***
-
-![Beseda - Dotační možnosti LCR pro podnikatele](https://mrak.pirati.cz/f/3342523)
-![Beseda - Dotační možnosti LCR pro podnikatele](https://mrak.pirati.cz/f/3342532)
-![Beseda - Dotační možnosti LCR pro podnikatele](https://mrak.pirati.cz/f/3342519)
-![Beseda - Dotační možnosti LCR pro podnikatele](https://mrak.pirati.cz/f/3342514)
