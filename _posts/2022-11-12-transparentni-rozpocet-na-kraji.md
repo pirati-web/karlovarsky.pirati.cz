@@ -22,4 +22,4 @@ Máme obrovskou radost, že toto klíčové pirátské téma se podařilo po ini
 
 Jak kraj s vašimi penězi nakládá si teď můžete zjistit z pohodlí svého domova přes [platformu Cityvisor](https://pi2.cz/kvkrozp).
 
-**Ing. Martin Kalina, člen zastupitelstva KK a předseda finančního výboru KK3**
+**Ing. Martin Kalina, člen zastupitelstva KK a předseda finančního výboru KK**
