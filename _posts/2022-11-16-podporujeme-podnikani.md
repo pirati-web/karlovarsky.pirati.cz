@@ -12,7 +12,7 @@ authorId: vojtech.franta
 image: posts/Vojta_inion.jpg
 important: true
 ---
-**Včera, 15. 11. jsme jako Karlovarský kraj uspořádali workshop pro podnikatele v cestovním ruchu a lázeňství, který byl zaměřen na ty největší překážky, které v současnosti musí řešit.**
+**Včera, 15. 11. jsme jako Karlovarský kraj uspořádali workshop, který byl zaměřen na dotační příležitosti pro podnikatele v cestovním ruchu a lázeňství**
 
 Po roce 2019 potkaly cestovní ruch tři velké rány: Covid-19, výbuch muničního skladu ve Vrběticích a letošní ruská agrese na Ukrajině. To vše karlovarský cestovní ruch (zvláště pro jeho silnou orientaci na ruskou klientelu) i místní podnikatele velmi poškodilo. Nelze opomenout ani výrazné zdražení energií, které má taktéž velké následky.
 
