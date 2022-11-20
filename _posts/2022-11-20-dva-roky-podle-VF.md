@@ -15,12 +15,9 @@ important: true
 ---
 **Po dvouletém působení na kraji patří ke slušnosti vůči voličům předložit srovnání účtů v poločase - vyhodnocení programových závazků koalice a volebních programů politických stran. Takové [bilancování jsme voličům představili](http://www.kr-karlovarsky.cz/krajske_listy/Stranky/221108-Prvni-polocas.aspx) za velké nelibosti opozičního hnutí ANO2011, což je jen potvrzením, že naše závazky plníme úspěšně : -)**
 
-  
-
 Pojďme si tedy v několika dílech rozebrat, co konkrétního se na kraji zastupitelům za Piráty daří realizovat. První díl nezačneme nikým jiným než náměstkem hejtmana pro oblast cestovního ruchu, lázeňství, UNESCO a IT  Vojtěchem Frantou, který se věnoval v prvním roce nastavení procesu transformace Karlovarského kraje.
 
-  
-
+---
 # Cestovní ruch
 ### Ustavení krizového štábu lázeňství a cestovního ruchu
 Cestovní ruch v Karlovarském kraji byl vystaven poslední dva roky několika krizovým situacím - Covid-19 měl v letech 2020 a 2021 katastrofální dopady na světovou ekonomiku a téměř zastavil přeshraniční turismus, Vrbětická kauza v roce 2021 ochladila česko-ruské vztahy, a ruská agrese v roce 2022 na Ukrajině logicky vystavila stopku ruským turistům, do té doby tradičním návštěvníkům kraje, to vše orámované následným růstem cen energií - z těchto důvodů bylo nutné **svolávat pravidelně krizový štáb** pro cestovní ruch a lázeňství a řešit krizový management se zástupci podnikatelů v turismu. 
@@ -40,7 +37,7 @@ Krušné hory si prošly také turbulentním obdobím - v roce 2019 byla za naš
 3) **jednotné řízení cestovního ruchu v Krušných horách** - založili jsme spolu s Ústeckým krajem novou destinační agenturu Krušnohoří z.s., která by měla od roku 2023 zajišťovat udržitelný rozvoj cestovního ruchu v celém pohoří (do výběrového řízení na ředitele máme 40 přihlášených zájemců)
 
   
-
+---
 # Lázeňství
 
 ### Lázně jako úspěšný nástroj léčby postcovid pacientů
@@ -56,6 +53,7 @@ Společnost ENSANA si za svůj inovační přístup k procedurám v Mariánskýc
 ### Strategický projekt Centrum lázeňského výzkumu
 Institut lázeňství a balneologie byl zároveň úspěšný v podání strategického projektu Centrum lázeňského výzkumu, na který by měl získat finanční prostředky z Fondu spravedlivé transformace ve výši 325 mil. Kč. Tento projekt si klade za cíl především objektivizaci lázeňské léčby a její inovování, zvýšení kokurenceschopnosti naších lázní a vytvoření řady expertních pracovních míst. Kraj by tak měl navázat na vůdčí úlohu výzkumu a inovací v lázeňství, po téměř 30 letech, kdy přestal fungovat Výzkumný ústav balneologický v Mariánských Lázních.
  
+---
 # UNESCO
 
 ### Odborná spolupráce na rozvoji památek UNESCO
@@ -63,6 +61,7 @@ V roce 2021 se podařilo, po téměř deseti letech, zapsat Slavná lázeňská 
 
 Na kraji vytváříme i nadále vhodné podmínky pro rozvoj zapsaných statků, aktivně vybízíme ke spolupráci jednotlivé odborníky a zástupce dotčených měst a obcí a financujeme rozvoj zapsaných statků pomocí navyšování dotační podpory. Od roku 2023 bude možné využívat nový dotační titul na podporu památek UNESCO, kde bude kladen důraz právě na spolupráci v území a na naplňování plánů ochrany a rozvoje daných památek.  
 
+---
 # Digitalizace a IT
 
 ### Nový web Karlovarského kraje v roce 2023
@@ -73,7 +72,7 @@ Odbor IT a jeho činnosti byly v rámci kraje často přehlíženy, přesto, že
 Mimo širší zájem veřejnosti proběhlo i úspěšné podání žádosti o modernizaci Digitální technické mapy na kterou kraj získal 170 mil. Kč a naváže na svou úspěšně a bezproblémově provozovanou [Digitální technickou mapu](https://geoportal.kr-karlovarsky.cz/), která usnadňuje život řadě obcím a městům a profesionálům ve stavebnictví. Kraj má zasmluvněnou spolupráci na digitální technické mapě téměř se stovkou obcí ze 132 a poskytuje obcím velmi profesionální službu, je tak v republikovém srovnání v předstihu. Zároveň jsme zadali zpracování Strategie informační a komunikační technologie Karlovarského kraje na následující roky s ambicí rozvíjení infrastruktury a eGovernmentu na území celého kraje, tedy naplňování definice smart regionu.
 
   
-
+---
 # Transformace regionu - 6,3 mld. Kč pro Karlovarský kraj
 
 Ne, nejedná se o peníze pro velké podniky na zahlazení důsledků těžby uhlí na Sokolovsku, jak se snaží někteří lobbisté tuto evropskou pomoc zkratkovitě popsat. Jedná se o část mechanismu [Spravedlivé transformace](https://ec.europa.eu/info/funding-tenders/find-funding/eu-funding-programmes/just-transition-fund_cs), který vede ke klimatické neutralitě. 
