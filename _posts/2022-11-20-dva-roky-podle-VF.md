@@ -21,7 +21,7 @@ Pojďme si tedy v několika dílech rozebrat, co konkrétního se na kraji zastu
 
   
 
-## Cestovní ruch
+# Cestovní ruch
 ### Ustavení krizového štábu lázeňství a cestovního ruchu
 Cestovní ruch v Karlovarském kraji byl vystaven poslední dva roky několika krizovým situacím - Covid-19 měl v letech 2020 a 2021 katastrofální dopady na světovou ekonomiku a téměř zastavil přeshraniční turismus, Vrbětická kauza v roce 2021 ochladila česko-ruské vztahy, a ruská agrese v roce 2022 na Ukrajině logicky vystavila stopku ruským turistům, do té doby tradičním návštěvníkům kraje, to vše orámované následným růstem cen energií - z těchto důvodů bylo nutné **svolávat pravidelně krizový štáb** pro cestovní ruch a lázeňství a řešit krizový management se zástupci podnikatelů v turismu. 
 
@@ -41,7 +41,7 @@ Krušné hory si prošly také turbulentním obdobím - v roce 2019 byla za naš
 
   
 
-## Lázeňství
+# Lázeňství
 
 ### Lázně jako úspěšný nástroj léčby postcovid pacientů
 Jako součást cestovního ruchu, i lázeňství prošlo v posledním dvouletí krizí - energeticky a personálně náročné odvětví muselo projít určitou proměnou a přizpůsobit se aktuálním výzvám. Naše lázně etablovaly jako ideální nástroj pro doléčování pacientů po COVID-19 onemocnění.
@@ -56,14 +56,14 @@ Společnost ENSANA si za svůj inovační přístup k procedurám v Mariánskýc
 ### Strategický projekt Centrum lázeňského výzkumu
 Institut lázeňství a balneologie byl zároveň úspěšný v podání strategického projektu Centrum lázeňského výzkumu, na který by měl získat finanční prostředky z Fondu spravedlivé transformace ve výši 325 mil. Kč. Tento projekt si klade za cíl především objektivizaci lázeňské léčby a její inovování, zvýšení kokurenceschopnosti naších lázní a vytvoření řady expertních pracovních míst. Kraj by tak měl navázat na vůdčí úlohu výzkumu a inovací v lázeňství, po téměř 30 letech, kdy přestal fungovat Výzkumný ústav balneologický v Mariánských Lázních.
  
-## UNESCO
+# UNESCO
 
 ### Odborná spolupráce na rozvoji památek UNESCO
 V roce 2021 se podařilo, po téměř deseti letech, zapsat Slavná lázeňská města Evropy na Seznam světového kulturního a přírodního dědictví UNESCO. Karlovarský kraj tak zakončil plejádu úspěšných zápisů odstartovanou Kynžvartskou Daguerrotypií v roce 2018 a Hornickým regionem Krušnohoří/Erzgebirge v roce 2019. Nejedná se o zásluhu jednotlivce, nebo snad jednoho vedení kraje, či jednotlivých měst, ale o kolektivní a dlouhodobou činnost mnoha odborníků s veřejnou podporou. 
 
 Na kraji vytváříme i nadále vhodné podmínky pro rozvoj zapsaných statků, aktivně vybízíme ke spolupráci jednotlivé odborníky a zástupce dotčených měst a obcí a financujeme rozvoj zapsaných statků pomocí navyšování dotační podpory. Od roku 2023 bude možné využívat nový dotační titul na podporu památek UNESCO, kde bude kladen důraz právě na spolupráci v území a na naplňování plánů ochrany a rozvoje daných památek.  
 
-## Digitalizace a IT
+# Digitalizace a IT
 
 ### Nový web Karlovarského kraje v roce 2023
 Odbor IT a jeho činnosti byly v rámci kraje často přehlíženy, přesto, že pro chod a komunikaci úřadu jsou jeho služby zásadní. Jedna z nejvýznamnějších změn, které nás čekají, je dokončení nového webu Karlovarského kraje, který by měl být spuštěn na jaře 2023. Kdokoli, kdo [současné stránky](http://www.kr-karlovarsky.cz/) navštíví, tak musí uznat, že nový web je potřeba jako sůl. Kraj si na této zakázce vyzkoušel i nový způsob zadávání zakázek tzv. Best Value Approach, kdy nejde pouze o cenu díla, ale samozřejmě o kvalitu, termíny dodání a profesionální sledování zakázky, ve zkratce vysokou přidanou hodnotu. 
@@ -74,7 +74,7 @@ Mimo širší zájem veřejnosti proběhlo i úspěšné podání žádosti o mo
 
   
 
-## Transformace regionu - 6,3 mld. Kč pro Karlovarský kraj
+# Transformace regionu - 6,3 mld. Kč pro Karlovarský kraj
 
 Ne, nejedná se o peníze pro velké podniky na zahlazení důsledků těžby uhlí na Sokolovsku, jak se snaží někteří lobbisté tuto evropskou pomoc zkratkovitě popsat. Jedná se o část mechanismu [Spravedlivé transformace](https://ec.europa.eu/info/funding-tenders/find-funding/eu-funding-programmes/just-transition-fund_cs), který vede ke klimatické neutralitě. 
 
