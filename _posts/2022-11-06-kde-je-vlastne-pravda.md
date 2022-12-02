@@ -11,7 +11,6 @@ title: Kde je vlastně pravda?
 author: Lukáš Zykán
 authorId: lukas.zykan
 image: posts/zykan.png
-important: true
 ---
 **Žijeme v době, kdy množství informací je obrovské a jejich tok je opravdu abnormálně rychlý. V této záplavě informací se člověk jednoduše ztratí. Situace v posledních třech letech není úplně snadná (covid, očkování, válka) a mnoho lidí podléhá záměrně lživým informačním tokům, které se na první pohled jeví naprosto jasně, ale už na ten druhý je zřejmé, že něco nebude v pořádku. Bohužel lidé, kteří podléhají informační masáži, nejsou mnohdy schopni podívat se zpět v čase a vyhodnotit své postoje v situaci dnes. Když vyberu jednu z informačních masáží, tak v současnosti by všichni očkovaní měli být dávno po smrti.**
 
