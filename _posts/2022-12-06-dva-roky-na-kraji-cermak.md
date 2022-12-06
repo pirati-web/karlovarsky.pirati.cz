@@ -43,3 +43,5 @@ Posílili jsme podporu sportu, a to zejména v mládežnických kategoriích a m
 
 ***Věřím, že úspěchy převažují dílčí nedostatky a, že jako odbor si vedeme velmi dobře! Věřím, že toto tempo se podaří udržet a za dva roky si s vámi budeme moci sednout a říci, že jsme skutečně udělali maximum!***
 
+---
+***Jindřich Čermák - Radní Karlovarského kraje pro oblast vzdělávání, školství a mládeže, tělovýchovy a sportu***
