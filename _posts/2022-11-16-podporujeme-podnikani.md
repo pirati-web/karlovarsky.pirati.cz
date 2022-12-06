@@ -10,7 +10,6 @@ title: Pomáháme podnikatelům v cestovním ruchu překonávat překážky
 author: vojtech.franta
 authorId: vojtech.franta
 image: posts/Vojta_inion.jpg
-important: true
 ---
 **Včera, 15. 11. jsme jako Karlovarský kraj uspořádali workshop, který byl zaměřen na dotační příležitosti pro podnikatele v cestovním ruchu a lázeňství**
 
