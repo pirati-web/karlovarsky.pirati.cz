@@ -11,7 +11,6 @@ title: Bilance v poločase, aneb dva roky na kraji podle Vojtěcha Franty
 author: vojtech.franta
 authorId: vojtech.franta
 image: posts/VFranta01.jpg
-important: true
 ---
 **Po dvouletém působení na kraji patří ke slušnosti vůči voličům předložit srovnání účtů v poločase - vyhodnocení programových závazků koalice a volebních programů politických stran. Takové [bilancování jsme voličům představili](http://www.kr-karlovarsky.cz/krajske_listy/Stranky/221108-Prvni-polocas.aspx) za velké nelibosti opozičního hnutí ANO2011, což je jen potvrzením, že naše závazky plníme úspěšně : -)**
 
