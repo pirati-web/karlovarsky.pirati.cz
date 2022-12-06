@@ -5,7 +5,7 @@ layout: post
 tags:
     - Kulturně_kreativní_odvětní
     - JTF
-title: RADA KARLOVARSKÉHO KRAJE SCHVÁLILA ZALOŽENÍ AGENTURY PRO KULTURNĚ KREATIVNÍ PRŮMYSLY - 4K
+title: Rada Karlovarského kraje schválila založení agentury pro kulturně kreativní průmysly - 4K
 author: marketa.monsportova
 authorId: marketa.monsportova
 image: posts/monsportova4K_TK.jpg
