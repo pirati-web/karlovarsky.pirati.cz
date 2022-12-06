@@ -37,7 +37,8 @@ V našem kraji, jako prvním v republice, začne od nového roku působit Střed
 
 Posilujeme vzdělávání našich ředitelů, učitelů a dalších pedagogických pracovníků.  Na intenzivní kurz Ředitel naživo jsme poslali ředitele a jejich zástupce čtvrtiny našich škol. Jako důležitou vnímáme také studentské zahraniční pobyty, kde střední školy se aktivněji zapojují do programů Erasmus +	
 
-**Pohyb a sport je pro nás prioritou - a to vše transparejtně**
+**Pohyb a sport je pro nás prioritou - a to vše transparentně**
+
 Posílili jsme podporu sportu, a to zejména v mládežnických kategoriích a menších sportovních oddílů. Jen v roce 2023 bude napříč krajem rozděleno rekordních 49 milionů, ve kterých myslíme i na složitou energetickou situaci klubů. To vše transparentně, nikoliv přes neprůhlednou nadaci, nebo jiný korupční mechsnismus. Také se po dlouhých měsících na začátku roku 2023 otevře ordinace sportovního lékaře v Karlovarském kraji. To již bylo opravdu potřeba!
 
 ***Věřím, že úspěchy převažují dílčí nedostatky a, že jako odbor si vedeme velmi dobře! Věřím, že toto tempo se podaří udržet a za dva roky si s vámi budeme moci sednout a říci, že jsme skutečně udělali maximum!***
