@@ -3,10 +3,10 @@ date: 2022-12-02
 category: blog
 layout: post
 tags:
-    - školství
-    - sport
-    - dva_roky_na_kraji
-    - úspěchy
+    - Školství
+    - Sport
+    - Dva_roky_na_kraji
+    - Úspěchy
 title: Dva roky na kraji podle Jindřicha Čermáka
 author: Jindřich Čermák
 authorId: jindrich.cermak
